@@ -1,0 +1,3506 @@
+[
+  {
+    "id": 1,
+    "spanish": "el",
+    "english": "the (masculine)",
+    "chinese": "这个（阳性）",
+    "category": "article",
+    "level": "A1"
+  },
+  {
+    "id": 2,
+    "spanish": "la",
+    "english": "the (feminine)",
+    "chinese": "这个（阴性）",
+    "category": "article",
+    "level": "A1"
+  },
+  {
+    "id": 3,
+    "spanish": "de",
+    "english": "of, from",
+    "chinese": "的，从",
+    "category": "preposition",
+    "level": "A1"
+  },
+  {
+    "id": 4,
+    "spanish": "que",
+    "english": "that, which",
+    "chinese": "那个，哪个",
+    "category": "conjunction",
+    "level": "A1"
+  },
+  {
+    "id": 5,
+    "spanish": "y",
+    "english": "and",
+    "chinese": "和",
+    "category": "conjunction",
+    "level": "A1"
+  },
+  {
+    "id": 6,
+    "spanish": "a",
+    "english": "to, at",
+    "chinese": "到，在",
+    "category": "preposition",
+    "level": "A1"
+  },
+  {
+    "id": 7,
+    "spanish": "en",
+    "english": "in, on",
+    "chinese": "在...里，在...上",
+    "category": "preposition",
+    "level": "A1"
+  },
+  {
+    "id": 8,
+    "spanish": "un",
+    "english": "a, an (masculine)",
+    "chinese": "一个（阳性）",
+    "category": "article",
+    "level": "A1"
+  },
+  {
+    "id": 9,
+    "spanish": "ser",
+    "english": "to be (permanent)",
+    "chinese": "是（永久性）",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 10,
+    "spanish": "se",
+    "english": "oneself, himself, herself",
+    "chinese": "自己，他自己，她自己",
+    "category": "pronoun",
+    "level": "A1"
+  },
+  {
+    "id": 11,
+    "spanish": "no",
+    "english": "no, not",
+    "chinese": "不，没有",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 12,
+    "spanish": "te",
+    "english": "you (object pronoun)",
+    "chinese": "你（宾语代词）",
+    "category": "pronoun",
+    "level": "A1"
+  },
+  {
+    "id": 13,
+    "spanish": "lo",
+    "english": "it, him (object pronoun)",
+    "chinese": "它，他（宾语代词）",
+    "category": "pronoun",
+    "level": "A1"
+  },
+  {
+    "id": 14,
+    "spanish": "le",
+    "english": "to him, to her",
+    "chinese": "给他，给她",
+    "category": "pronoun",
+    "level": "A1"
+  },
+  {
+    "id": 15,
+    "spanish": "da",
+    "english": "gives",
+    "chinese": "给",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 16,
+    "spanish": "su",
+    "english": "his, her, their",
+    "chinese": "他的，她的，他们的",
+    "category": "possessive",
+    "level": "A1"
+  },
+  {
+    "id": 17,
+    "spanish": "por",
+    "english": "for, by, through",
+    "chinese": "为了，通过，经过",
+    "category": "preposition",
+    "level": "A1"
+  },
+  {
+    "id": 18,
+    "spanish": "con",
+    "english": "with",
+    "chinese": "和，与",
+    "category": "preposition",
+    "level": "A1"
+  },
+  {
+    "id": 19,
+    "spanish": "para",
+    "english": "for, in order to",
+    "chinese": "为了，以便",
+    "category": "preposition",
+    "level": "A1"
+  },
+  {
+    "id": 20,
+    "spanish": "una",
+    "english": "a, an (feminine)",
+    "chinese": "一个（阴性）",
+    "category": "article",
+    "level": "A1"
+  },
+  {
+    "id": 21,
+    "spanish": "estar",
+    "english": "to be (temporary)",
+    "chinese": "是（临时性）",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 22,
+    "spanish": "tener",
+    "english": "to have",
+    "chinese": "有",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 23,
+    "spanish": "hacer",
+    "english": "to do, to make",
+    "chinese": "做，制作",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 24,
+    "spanish": "todo",
+    "english": "all, everything",
+    "chinese": "所有，一切",
+    "category": "pronoun",
+    "level": "A1"
+  },
+  {
+    "id": 25,
+    "spanish": "ir",
+    "english": "to go",
+    "chinese": "去",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 26,
+    "spanish": "me",
+    "english": "me, myself",
+    "chinese": "我，我自己",
+    "category": "pronoun",
+    "level": "A1"
+  },
+  {
+    "id": 27,
+    "spanish": "dar",
+    "english": "to give",
+    "chinese": "给",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 28,
+    "spanish": "si",
+    "english": "if",
+    "chinese": "如果",
+    "category": "conjunction",
+    "level": "A1"
+  },
+  {
+    "id": 29,
+    "spanish": "mi",
+    "english": "my",
+    "chinese": "我的",
+    "category": "possessive",
+    "level": "A1"
+  },
+  {
+    "id": 30,
+    "spanish": "ya",
+    "english": "already, now",
+    "chinese": "已经，现在",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 31,
+    "spanish": "ver",
+    "english": "to see",
+    "chinese": "看",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 32,
+    "spanish": "porque",
+    "english": "because",
+    "chinese": "因为",
+    "category": "conjunction",
+    "level": "A1"
+  },
+  {
+    "id": 33,
+    "spanish": "cuando",
+    "english": "when",
+    "chinese": "当...时",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 34,
+    "spanish": "él",
+    "english": "he",
+    "chinese": "他",
+    "category": "pronoun",
+    "level": "A1"
+  },
+  {
+    "id": 35,
+    "spanish": "muy",
+    "english": "very",
+    "chinese": "很，非常",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 36,
+    "spanish": "sin",
+    "english": "without",
+    "chinese": "没有，不",
+    "category": "preposition",
+    "level": "A1"
+  },
+  {
+    "id": 37,
+    "spanish": "sobre",
+    "english": "about, over",
+    "chinese": "关于，在...上面",
+    "category": "preposition",
+    "level": "A1"
+  },
+  {
+    "id": 38,
+    "spanish": "más",
+    "english": "more",
+    "chinese": "更多",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 39,
+    "spanish": "este",
+    "english": "this (masculine)",
+    "chinese": "这个（阳性）",
+    "category": "pronoun",
+    "level": "A1"
+  },
+  {
+    "id": 40,
+    "spanish": "entre",
+    "english": "between",
+    "chinese": "在...之间",
+    "category": "preposition",
+    "level": "A1"
+  },
+  {
+    "id": 41,
+    "spanish": "también",
+    "english": "also",
+    "chinese": "也",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 42,
+    "spanish": "después",
+    "english": "after",
+    "chinese": "之后",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 43,
+    "spanish": "hasta",
+    "english": "until",
+    "chinese": "直到",
+    "category": "preposition",
+    "level": "A1"
+  },
+  {
+    "id": 44,
+    "spanish": "desde",
+    "english": "since, from",
+    "chinese": "自从，从",
+    "category": "preposition",
+    "level": "A1"
+  },
+  {
+    "id": 45,
+    "spanish": "durante",
+    "english": "during",
+    "chinese": "在...期间",
+    "category": "preposition",
+    "level": "A1"
+  },
+  {
+    "id": 46,
+    "spanish": "contra",
+    "english": "against",
+    "chinese": "反对，对着",
+    "category": "preposition",
+    "level": "A1"
+  },
+  {
+    "id": 47,
+    "spanish": "bajo",
+    "english": "under",
+    "chinese": "在...下面",
+    "category": "preposition",
+    "level": "A1"
+  },
+  {
+    "id": 48,
+    "spanish": "ante",
+    "english": "before",
+    "chinese": "在...之前",
+    "category": "preposition",
+    "level": "A1"
+  },
+  {
+    "id": 49,
+    "spanish": "según",
+    "english": "according to",
+    "chinese": "根据",
+    "category": "preposition",
+    "level": "A1"
+  },
+  {
+    "id": 50,
+    "spanish": "mediante",
+    "english": "by means of",
+    "chinese": "通过",
+    "category": "preposition",
+    "level": "A1"
+  },
+  {
+    "id": 51,
+    "spanish": "deber",
+    "english": "to owe, must",
+    "chinese": "欠债，必须",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 52,
+    "spanish": "más",
+    "english": "more",
+    "chinese": "更多",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 53,
+    "spanish": "aquí",
+    "english": "here",
+    "chinese": "这里",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 54,
+    "spanish": "donde",
+    "english": "where",
+    "chinese": "哪里",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 55,
+    "spanish": "quien",
+    "english": "who",
+    "chinese": "谁",
+    "category": "pronoun",
+    "level": "A1"
+  },
+  {
+    "id": 56,
+    "spanish": "bien",
+    "english": "well, good",
+    "chinese": "好，很好",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 57,
+    "spanish": "tiempo",
+    "english": "time, weather",
+    "chinese": "时间，天气",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 58,
+    "spanish": "cada",
+    "english": "each, every",
+    "chinese": "每个",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 59,
+    "spanish": "hijo",
+    "english": "son, child",
+    "chinese": "儿子，孩子",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 60,
+    "spanish": "parecer",
+    "english": "to seem",
+    "chinese": "似乎，看起来",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 61,
+    "spanish": "nombre",
+    "english": "name",
+    "chinese": "名字",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 62,
+    "spanish": "bueno",
+    "english": "good",
+    "chinese": "好的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 63,
+    "spanish": "venir",
+    "english": "to come",
+    "chinese": "来",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 64,
+    "spanish": "desde",
+    "english": "from, since",
+    "chinese": "从，自从",
+    "category": "preposition",
+    "level": "A1"
+  },
+  {
+    "id": 65,
+    "spanish": "ahora",
+    "english": "now",
+    "chinese": "现在",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 66,
+    "spanish": "algo",
+    "english": "something",
+    "chinese": "某事",
+    "category": "pronoun",
+    "level": "A1"
+  },
+  {
+    "id": 67,
+    "spanish": "después",
+    "english": "after, later",
+    "chinese": "之后，后来",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 68,
+    "spanish": "vida",
+    "english": "life",
+    "chinese": "生活",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 69,
+    "spanish": "antes",
+    "english": "before",
+    "chinese": "之前",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 70,
+    "spanish": "llevar",
+    "english": "to carry, to wear",
+    "chinese": "携带，穿",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 71,
+    "spanish": "mesa",
+    "english": "table",
+    "chinese": "桌子",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 72,
+    "spanish": "casa",
+    "english": "house",
+    "chinese": "房子",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 73,
+    "spanish": "agua",
+    "english": "water",
+    "chinese": "水",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 74,
+    "spanish": "comida",
+    "english": "food",
+    "chinese": "食物",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 75,
+    "spanish": "comer",
+    "english": "to eat",
+    "chinese": "吃",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 76,
+    "spanish": "beber",
+    "english": "to drink",
+    "chinese": "喝",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 77,
+    "spanish": "trabajar",
+    "english": "to work",
+    "chinese": "工作",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 78,
+    "spanish": "trabajo",
+    "english": "work, job",
+    "chinese": "工作",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 79,
+    "spanish": "familia",
+    "english": "family",
+    "chinese": "家庭",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 80,
+    "spanish": "madre",
+    "english": "mother",
+    "chinese": "母亲",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 81,
+    "spanish": "padre",
+    "english": "father",
+    "chinese": "父亲",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 82,
+    "spanish": "hermano",
+    "english": "brother",
+    "chinese": "兄弟",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 83,
+    "spanish": "hermana",
+    "english": "sister",
+    "chinese": "姐妹",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 84,
+    "spanish": "amigo",
+    "english": "friend (male)",
+    "chinese": "朋友（男）",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 85,
+    "spanish": "amiga",
+    "english": "friend (female)",
+    "chinese": "朋友（女）",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 86,
+    "spanish": "hombre",
+    "english": "man",
+    "chinese": "男人",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 87,
+    "spanish": "mujer",
+    "english": "woman",
+    "chinese": "女人",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 88,
+    "spanish": "niño",
+    "english": "boy, child",
+    "chinese": "男孩，孩子",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 89,
+    "spanish": "niña",
+    "english": "girl, child",
+    "chinese": "女孩，孩子",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 90,
+    "spanish": "persona",
+    "english": "person",
+    "chinese": "人",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 91,
+    "spanish": "grande",
+    "english": "big, large",
+    "chinese": "大的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 92,
+    "spanish": "pequeño",
+    "english": "small, little",
+    "chinese": "小的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 93,
+    "spanish": "nuevo",
+    "english": "new",
+    "chinese": "新的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 94,
+    "spanish": "viejo",
+    "english": "old",
+    "chinese": "旧的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 95,
+    "spanish": "blanco",
+    "english": "white",
+    "chinese": "白色",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 96,
+    "spanish": "negro",
+    "english": "black",
+    "chinese": "黑色",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 97,
+    "spanish": "rojo",
+    "english": "red",
+    "chinese": "红色",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 98,
+    "spanish": "azul",
+    "english": "blue",
+    "chinese": "蓝色",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 99,
+    "spanish": "verde",
+    "english": "green",
+    "chinese": "绿色",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 100,
+    "spanish": "amarillo",
+    "english": "yellow",
+    "chinese": "黄色",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 101,
+    "spanish": "día",
+    "english": "day",
+    "chinese": "天",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 102,
+    "spanish": "noche",
+    "english": "night",
+    "chinese": "夜晚",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 103,
+    "spanish": "mañana",
+    "english": "morning, tomorrow",
+    "chinese": "早上，明天",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 104,
+    "spanish": "tarde",
+    "english": "afternoon, late",
+    "chinese": "下午，晚",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 105,
+    "spanish": "hoy",
+    "english": "today",
+    "chinese": "今天",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 106,
+    "spanish": "ayer",
+    "english": "yesterday",
+    "chinese": "昨天",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 107,
+    "spanish": "ciudad",
+    "english": "city",
+    "chinese": "城市",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 108,
+    "spanish": "país",
+    "english": "country",
+    "chinese": "国家",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 109,
+    "spanish": "mundo",
+    "english": "world",
+    "chinese": "世界",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 110,
+    "spanish": "lugar",
+    "english": "place",
+    "chinese": "地方",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 111,
+    "spanish": "calle",
+    "english": "street",
+    "chinese": "街道",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 112,
+    "spanish": "hotel",
+    "english": "hotel",
+    "chinese": "酒店",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 113,
+    "spanish": "restaurante",
+    "english": "restaurant",
+    "chinese": "餐厅",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 114,
+    "spanish": "tienda",
+    "english": "store, shop",
+    "chinese": "商店",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 115,
+    "spanish": "banco",
+    "english": "bank",
+    "chinese": "银行",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 116,
+    "spanish": "hospital",
+    "english": "hospital",
+    "chinese": "医院",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 117,
+    "spanish": "escuela",
+    "english": "school",
+    "chinese": "学校",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 118,
+    "spanish": "universidad",
+    "english": "university",
+    "chinese": "大学",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 119,
+    "spanish": "oficina",
+    "english": "office",
+    "chinese": "办公室",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 120,
+    "spanish": "dinero",
+    "english": "money",
+    "chinese": "钱",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 121,
+    "spanish": "precio",
+    "english": "price",
+    "chinese": "价格",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 122,
+    "spanish": "comprar",
+    "english": "to buy",
+    "chinese": "买",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 123,
+    "spanish": "vender",
+    "english": "to sell",
+    "chinese": "卖",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 124,
+    "spanish": "pagar",
+    "english": "to pay",
+    "chinese": "付款",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 125,
+    "spanish": "coche",
+    "english": "car",
+    "chinese": "汽车",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 126,
+    "spanish": "autobús",
+    "english": "bus",
+    "chinese": "公共汽车",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 127,
+    "spanish": "tren",
+    "english": "train",
+    "chinese": "火车",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 128,
+    "spanish": "avión",
+    "english": "airplane",
+    "chinese": "飞机",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 129,
+    "spanish": "viaje",
+    "english": "trip, journey",
+    "chinese": "旅行",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 130,
+    "spanish": "viajar",
+    "english": "to travel",
+    "chinese": "旅行",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 131,
+    "spanish": "libro",
+    "english": "book",
+    "chinese": "书",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 132,
+    "spanish": "leer",
+    "english": "to read",
+    "chinese": "读",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 133,
+    "spanish": "escribir",
+    "english": "to write",
+    "chinese": "写",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 134,
+    "spanish": "hablar",
+    "english": "to speak, to talk",
+    "chinese": "说话",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 135,
+    "spanish": "escuchar",
+    "english": "to listen",
+    "chinese": "听",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 136,
+    "spanish": "mirar",
+    "english": "to look at",
+    "chinese": "看",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 137,
+    "spanish": "estudiar",
+    "english": "to study",
+    "chinese": "学习",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 138,
+    "spanish": "aprender",
+    "english": "to learn",
+    "chinese": "学",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 139,
+    "spanish": "enseñar",
+    "english": "to teach",
+    "chinese": "教",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 140,
+    "spanish": "profesor",
+    "english": "teacher (male)",
+    "chinese": "老师（男）",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 141,
+    "spanish": "profesora",
+    "english": "teacher (female)",
+    "chinese": "老师（女）",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 142,
+    "spanish": "estudiante",
+    "english": "student",
+    "chinese": "学生",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 143,
+    "spanish": "clase",
+    "english": "class",
+    "chinese": "课",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 144,
+    "spanish": "pregunta",
+    "english": "question",
+    "chinese": "问题",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 145,
+    "spanish": "respuesta",
+    "english": "answer",
+    "chinese": "答案",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 146,
+    "spanish": "preguntar",
+    "english": "to ask",
+    "chinese": "问",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 147,
+    "spanish": "responder",
+    "english": "to answer",
+    "chinese": "回答",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 148,
+    "spanish": "dormir",
+    "english": "to sleep",
+    "chinese": "睡觉",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 149,
+    "spanish": "despertarse",
+    "english": "to wake up",
+    "chinese": "醒来",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 150,
+    "spanish": "levantarse",
+    "english": "to get up",
+    "chinese": "起床",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 151,
+    "spanish": "cama",
+    "english": "bed",
+    "chinese": "床",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 152,
+    "spanish": "habitación",
+    "english": "room",
+    "chinese": "房间",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 153,
+    "spanish": "baño",
+    "english": "bathroom",
+    "chinese": "浴室",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 154,
+    "spanish": "cocina",
+    "english": "kitchen",
+    "chinese": "厨房",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 155,
+    "spanish": "sala",
+    "english": "living room",
+    "chinese": "客厅",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 156,
+    "spanish": "puerta",
+    "english": "door",
+    "chinese": "门",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 157,
+    "spanish": "ventana",
+    "english": "window",
+    "chinese": "窗户",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 158,
+    "spanish": "abrir",
+    "english": "to open",
+    "chinese": "打开",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 159,
+    "spanish": "cerrar",
+    "english": "to close",
+    "chinese": "关闭",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 160,
+    "spanish": "entrar",
+    "english": "to enter",
+    "chinese": "进入",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 161,
+    "spanish": "salir",
+    "english": "to leave, to go out",
+    "chinese": "离开，出去",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 162,
+    "spanish": "llegar",
+    "english": "to arrive",
+    "chinese": "到达",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 163,
+    "spanish": "partir",
+    "english": "to leave, to depart",
+    "chinese": "离开，出发",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 164,
+    "spanish": "volver",
+    "english": "to return",
+    "chinese": "回来，返回",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 165,
+    "spanish": "caminar",
+    "english": "to walk",
+    "chinese": "走路",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 166,
+    "spanish": "correr",
+    "english": "to run",
+    "chinese": "跑步",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 167,
+    "spanish": "nadar",
+    "english": "to swim",
+    "chinese": "游泳",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 168,
+    "spanish": "jugar",
+    "english": "to play",
+    "chinese": "玩，游戏",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 169,
+    "spanish": "cantar",
+    "english": "to sing",
+    "chinese": "唱歌",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 170,
+    "spanish": "bailar",
+    "english": "to dance",
+    "chinese": "跳舞",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 171,
+    "spanish": "música",
+    "english": "music",
+    "chinese": "音乐",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 172,
+    "spanish": "película",
+    "english": "movie",
+    "chinese": "电影",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 173,
+    "spanish": "televisión",
+    "english": "television",
+    "chinese": "电视",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 174,
+    "spanish": "radio",
+    "english": "radio",
+    "chinese": "收音机",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 175,
+    "spanish": "teléfono",
+    "english": "telephone",
+    "chinese": "电话",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 176,
+    "spanish": "computadora",
+    "english": "computer",
+    "chinese": "电脑",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 177,
+    "spanish": "internet",
+    "english": "internet",
+    "chinese": "互联网",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 178,
+    "spanish": "correo",
+    "english": "mail",
+    "chinese": "邮件",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 179,
+    "spanish": "mensaje",
+    "english": "message",
+    "chinese": "信息，消息",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 180,
+    "spanish": "foto",
+    "english": "photo",
+    "chinese": "照片",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 181,
+    "spanish": "cámara",
+    "english": "camera",
+    "chinese": "相机",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 182,
+    "spanish": "reloj",
+    "english": "clock, watch",
+    "chinese": "钟表，手表",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 183,
+    "spanish": "hora",
+    "english": "hour, time",
+    "chinese": "小时，时间",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 184,
+    "spanish": "minuto",
+    "english": "minute",
+    "chinese": "分钟",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 185,
+    "spanish": "segundo",
+    "english": "second",
+    "chinese": "秒",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 186,
+    "spanish": "semana",
+    "english": "week",
+    "chinese": "星期，周",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 187,
+    "spanish": "mes",
+    "english": "month",
+    "chinese": "月",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 188,
+    "spanish": "estación",
+    "english": "season",
+    "chinese": "季节",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 189,
+    "spanish": "primavera",
+    "english": "spring",
+    "chinese": "春天",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 190,
+    "spanish": "verano",
+    "english": "summer",
+    "chinese": "夏天",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 191,
+    "spanish": "otoño",
+    "english": "autumn",
+    "chinese": "秋天",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 192,
+    "spanish": "invierno",
+    "english": "winter",
+    "chinese": "冬天",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 193,
+    "spanish": "sol",
+    "english": "sun",
+    "chinese": "太阳",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 194,
+    "spanish": "luna",
+    "english": "moon",
+    "chinese": "月亮",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 195,
+    "spanish": "estrella",
+    "english": "star",
+    "chinese": "星星",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 196,
+    "spanish": "cielo",
+    "english": "sky",
+    "chinese": "天空",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 197,
+    "spanish": "tierra",
+    "english": "earth, ground",
+    "chinese": "地球，土地",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 198,
+    "spanish": "mar",
+    "english": "sea",
+    "chinese": "海",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 199,
+    "spanish": "río",
+    "english": "river",
+    "chinese": "河流",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 200,
+    "spanish": "montaña",
+    "english": "mountain",
+    "chinese": "山",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 201,
+    "spanish": "árbol",
+    "english": "tree",
+    "chinese": "树",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 202,
+    "spanish": "flor",
+    "english": "flower",
+    "chinese": "花",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 203,
+    "spanish": "animal",
+    "english": "animal",
+    "chinese": "动物",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 204,
+    "spanish": "perro",
+    "english": "dog",
+    "chinese": "狗",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 205,
+    "spanish": "gato",
+    "english": "cat",
+    "chinese": "猫",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 206,
+    "spanish": "pájaro",
+    "english": "bird",
+    "chinese": "鸟",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 207,
+    "spanish": "pez",
+    "english": "fish",
+    "chinese": "鱼",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 208,
+    "spanish": "fruta",
+    "english": "fruit",
+    "chinese": "水果",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 209,
+    "spanish": "manzana",
+    "english": "apple",
+    "chinese": "苹果",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 210,
+    "spanish": "plátano",
+    "english": "banana",
+    "chinese": "香蕉",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 211,
+    "spanish": "naranja",
+    "english": "orange",
+    "chinese": "橙子",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 212,
+    "spanish": "uva",
+    "english": "grape",
+    "chinese": "葡萄",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 213,
+    "spanish": "verdura",
+    "english": "vegetable",
+    "chinese": "蔬菜",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 214,
+    "spanish": "tomate",
+    "english": "tomato",
+    "chinese": "西红柿，番茄",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 215,
+    "spanish": "cebolla",
+    "english": "onion",
+    "chinese": "洋葱",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 216,
+    "spanish": "zanahoria",
+    "english": "carrot",
+    "chinese": "胡萝卜",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 217,
+    "spanish": "pan",
+    "english": "bread",
+    "chinese": "面包",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 218,
+    "spanish": "leche",
+    "english": "milk",
+    "chinese": "牛奶",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 219,
+    "spanish": "huevo",
+    "english": "egg",
+    "chinese": "鸡蛋",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 220,
+    "spanish": "carne",
+    "english": "meat",
+    "chinese": "肉",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 221,
+    "spanish": "pescado",
+    "english": "fish (food)",
+    "chinese": "鱼肉",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 222,
+    "spanish": "arroz",
+    "english": "rice",
+    "chinese": "米饭",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 223,
+    "spanish": "pasta",
+    "english": "pasta",
+    "chinese": "意大利面",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 224,
+    "spanish": "sopa",
+    "english": "soup",
+    "chinese": "汤",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 225,
+    "spanish": "ensalada",
+    "english": "salad",
+    "chinese": "沙拉",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 226,
+    "spanish": "postre",
+    "english": "dessert",
+    "chinese": "甜点",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 227,
+    "spanish": "helado",
+    "english": "ice cream",
+    "chinese": "冰淇淋",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 228,
+    "spanish": "chocolate",
+    "english": "chocolate",
+    "chinese": "巧克力",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 229,
+    "spanish": "café",
+    "english": "coffee",
+    "chinese": "咖啡",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 230,
+    "spanish": "té",
+    "english": "tea",
+    "chinese": "茶",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 231,
+    "spanish": "jugo",
+    "english": "juice",
+    "chinese": "果汁",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 232,
+    "spanish": "cerveza",
+    "english": "beer",
+    "chinese": "啤酒",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 233,
+    "spanish": "vino",
+    "english": "wine",
+    "chinese": "葡萄酒",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 234,
+    "spanish": "sal",
+    "english": "salt",
+    "chinese": "盐",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 235,
+    "spanish": "azúcar",
+    "english": "sugar",
+    "chinese": "糖",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 236,
+    "spanish": "pimienta",
+    "english": "pepper",
+    "chinese": "胡椒",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 237,
+    "spanish": "aceite",
+    "english": "oil",
+    "chinese": "油",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 238,
+    "spanish": "mantequilla",
+    "english": "butter",
+    "chinese": "黄油",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 239,
+    "spanish": "queso",
+    "english": "cheese",
+    "chinese": "奶酪",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 240,
+    "spanish": "yogur",
+    "english": "yogurt",
+    "chinese": "酸奶",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 241,
+    "spanish": "alto",
+    "english": "tall, high",
+    "chinese": "高的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 242,
+    "spanish": "bajo",
+    "english": "short, low",
+    "chinese": "矮的，低的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 243,
+    "spanish": "gordo",
+    "english": "fat",
+    "chinese": "胖的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 244,
+    "spanish": "delgado",
+    "english": "thin",
+    "chinese": "瘦的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 245,
+    "spanish": "joven",
+    "english": "young",
+    "chinese": "年轻的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 246,
+    "spanish": "mayor",
+    "english": "older",
+    "chinese": "年长的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 247,
+    "spanish": "bonito",
+    "english": "pretty, beautiful",
+    "chinese": "漂亮的，美丽的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 248,
+    "spanish": "feo",
+    "english": "ugly",
+    "chinese": "丑的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 249,
+    "spanish": "fuerte",
+    "english": "strong",
+    "chinese": "强壮的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 250,
+    "spanish": "débil",
+    "english": "weak",
+    "chinese": "虚弱的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 251,
+    "spanish": "rápido",
+    "english": "fast",
+    "chinese": "快的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 252,
+    "spanish": "lento",
+    "english": "slow",
+    "chinese": "慢的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 253,
+    "spanish": "fácil",
+    "english": "easy",
+    "chinese": "容易的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 254,
+    "spanish": "difícil",
+    "english": "difficult",
+    "chinese": "困难的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 255,
+    "spanish": "caro",
+    "english": "expensive",
+    "chinese": "昂贵的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 256,
+    "spanish": "barato",
+    "english": "cheap",
+    "chinese": "便宜的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 257,
+    "spanish": "limpio",
+    "english": "clean",
+    "chinese": "干净的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 258,
+    "spanish": "sucio",
+    "english": "dirty",
+    "chinese": "脏的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 259,
+    "spanish": "caliente",
+    "english": "hot",
+    "chinese": "热的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 260,
+    "spanish": "frío",
+    "english": "cold",
+    "chinese": "冷的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 261,
+    "spanish": "lleno",
+    "english": "full",
+    "chinese": "满的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 262,
+    "spanish": "vacío",
+    "english": "empty",
+    "chinese": "空的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 263,
+    "spanish": "abierto",
+    "english": "open",
+    "chinese": "开着的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 264,
+    "spanish": "cerrado",
+    "english": "closed",
+    "chinese": "关着的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 265,
+    "spanish": "correcto",
+    "english": "correct",
+    "chinese": "正确的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 266,
+    "spanish": "incorrecto",
+    "english": "incorrect",
+    "chinese": "不正确的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 267,
+    "spanish": "importante",
+    "english": "important",
+    "chinese": "重要的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 268,
+    "spanish": "necesario",
+    "english": "necessary",
+    "chinese": "必要的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 269,
+    "spanish": "posible",
+    "english": "possible",
+    "chinese": "可能的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 270,
+    "spanish": "imposible",
+    "english": "impossible",
+    "chinese": "不可能的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 271,
+    "spanish": "primero",
+    "english": "first",
+    "chinese": "第一",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 272,
+    "spanish": "último",
+    "english": "last",
+    "chinese": "最后",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 273,
+    "spanish": "siguiente",
+    "english": "next",
+    "chinese": "下一个",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 274,
+    "spanish": "anterior",
+    "english": "previous",
+    "chinese": "以前的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 275,
+    "spanish": "actual",
+    "english": "current",
+    "chinese": "现在的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 276,
+    "spanish": "diferente",
+    "english": "different",
+    "chinese": "不同的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 277,
+    "spanish": "igual",
+    "english": "same",
+    "chinese": "相同的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 278,
+    "spanish": "similar",
+    "english": "similar",
+    "chinese": "相似的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 279,
+    "spanish": "completo",
+    "english": "complete",
+    "chinese": "完整的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 280,
+    "spanish": "incompleto",
+    "english": "incomplete",
+    "chinese": "不完整的",
+    "category": "adjective",
+    "level": "A1"
+  },
+  {
+    "id": 281,
+    "spanish": "necesitar",
+    "english": "to need",
+    "chinese": "需要",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 282,
+    "spanish": "querer",
+    "english": "to want",
+    "chinese": "想要",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 283,
+    "spanish": "gustar",
+    "english": "to like",
+    "chinese": "喜欢",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 284,
+    "spanish": "amar",
+    "english": "to love",
+    "chinese": "爱",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 285,
+    "spanish": "odiar",
+    "english": "to hate",
+    "chinese": "恨",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 286,
+    "spanish": "pensar",
+    "english": "to think",
+    "chinese": "思考",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 287,
+    "spanish": "creer",
+    "english": "to believe",
+    "chinese": "相信",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 288,
+    "spanish": "saber",
+    "english": "to know (facts)",
+    "chinese": "知道",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 289,
+    "spanish": "conocer",
+    "english": "to know (people/places)",
+    "chinese": "认识",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 290,
+    "spanish": "entender",
+    "english": "to understand",
+    "chinese": "理解",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 291,
+    "spanish": "comprender",
+    "english": "to comprehend",
+    "chinese": "理解",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 292,
+    "spanish": "recordar",
+    "english": "to remember",
+    "chinese": "记住",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 293,
+    "spanish": "olvidar",
+    "english": "to forget",
+    "chinese": "忘记",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 294,
+    "spanish": "esperar",
+    "english": "to wait, to hope",
+    "chinese": "等待/希望",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 295,
+    "spanish": "buscar",
+    "english": "to look for",
+    "chinese": "寻找",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 296,
+    "spanish": "encontrar",
+    "english": "to find",
+    "chinese": "找到",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 297,
+    "spanish": "perder",
+    "english": "to lose",
+    "chinese": "失去",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 298,
+    "spanish": "ganar",
+    "english": "to win, to earn",
+    "chinese": "赢/赚",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 299,
+    "spanish": "cambiar",
+    "english": "to change",
+    "chinese": "改变",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 300,
+    "spanish": "empezar",
+    "english": "to begin",
+    "chinese": "开始",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 301,
+    "spanish": "terminar",
+    "english": "to finish",
+    "chinese": "完成",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 302,
+    "spanish": "continuar",
+    "english": "to continue",
+    "chinese": "继续",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 303,
+    "spanish": "parar",
+    "english": "to stop",
+    "chinese": "停止",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 304,
+    "spanish": "esperar",
+    "english": "to wait",
+    "chinese": "等待",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 305,
+    "spanish": "ayudar",
+    "english": "to help",
+    "chinese": "帮助",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 306,
+    "spanish": "necesitar",
+    "english": "to need",
+    "chinese": "需要",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 307,
+    "spanish": "usar",
+    "english": "to use",
+    "chinese": "使用",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 308,
+    "spanish": "utilizar",
+    "english": "to utilize",
+    "chinese": "利用",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 309,
+    "spanish": "preparar",
+    "english": "to prepare",
+    "chinese": "准备",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 310,
+    "spanish": "cocinar",
+    "english": "to cook",
+    "chinese": "做饭",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 311,
+    "spanish": "limpiar",
+    "english": "to clean",
+    "chinese": "清洁",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 312,
+    "spanish": "lavar",
+    "english": "to wash",
+    "chinese": "洗",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 313,
+    "spanish": "planchar",
+    "english": "to iron",
+    "chinese": "熨烫",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 314,
+    "spanish": "cortar",
+    "english": "to cut",
+    "chinese": "切",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 315,
+    "spanish": "pegar",
+    "english": "to stick, to glue",
+    "chinese": "粘贴",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 316,
+    "spanish": "romper",
+    "english": "to break",
+    "chinese": "打破",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 317,
+    "spanish": "arreglar",
+    "english": "to fix",
+    "chinese": "修理",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 318,
+    "spanish": "construir",
+    "english": "to build",
+    "chinese": "建造",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 319,
+    "spanish": "destruir",
+    "english": "to destroy",
+    "chinese": "破坏",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 320,
+    "spanish": "crear",
+    "english": "to create",
+    "chinese": "创造",
+    "category": "verb",
+    "level": "A1"
+  },
+  {
+    "id": 321,
+    "spanish": "ropa",
+    "english": "clothes",
+    "chinese": "衣服",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 322,
+    "spanish": "camisa",
+    "english": "shirt",
+    "chinese": "衬衫",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 323,
+    "spanish": "pantalón",
+    "english": "pants",
+    "chinese": "裤子",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 324,
+    "spanish": "vestido",
+    "english": "dress",
+    "chinese": "连衣裙",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 325,
+    "spanish": "zapatos",
+    "english": "shoes",
+    "chinese": "鞋子",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 326,
+    "spanish": "calcetines",
+    "english": "socks",
+    "chinese": "袜子",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 327,
+    "spanish": "chaqueta",
+    "english": "jacket",
+    "chinese": "夹克",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 328,
+    "spanish": "abrigo",
+    "english": "coat",
+    "chinese": "外套",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 329,
+    "spanish": "sombrero",
+    "english": "hat",
+    "chinese": "帽子",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 330,
+    "spanish": "guantes",
+    "english": "gloves",
+    "chinese": "手套",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 331,
+    "spanish": "bufanda",
+    "english": "scarf",
+    "chinese": "围巾",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 332,
+    "spanish": "bolso",
+    "english": "purse, bag",
+    "chinese": "包",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 333,
+    "spanish": "maleta",
+    "english": "suitcase",
+    "chinese": "行李箱",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 334,
+    "spanish": "reloj",
+    "english": "watch, clock",
+    "chinese": "手表/钟",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 335,
+    "spanish": "gafas",
+    "english": "glasses",
+    "chinese": "眼镜",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 336,
+    "spanish": "joyas",
+    "english": "jewelry",
+    "chinese": "珠宝",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 337,
+    "spanish": "anillo",
+    "english": "ring",
+    "chinese": "戒指",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 338,
+    "spanish": "collar",
+    "english": "necklace",
+    "chinese": "项链",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 339,
+    "spanish": "pendientes",
+    "english": "earrings",
+    "chinese": "耳环",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 340,
+    "spanish": "pulsera",
+    "english": "bracelet",
+    "chinese": "手镯",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 341,
+    "spanish": "muebles",
+    "english": "furniture",
+    "chinese": "家具",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 342,
+    "spanish": "silla",
+    "english": "chair",
+    "chinese": "椅子",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 343,
+    "spanish": "sofá",
+    "english": "sofa",
+    "chinese": "沙发",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 344,
+    "spanish": "cama",
+    "english": "bed",
+    "chinese": "床",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 345,
+    "spanish": "armario",
+    "english": "wardrobe",
+    "chinese": "衣柜",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 346,
+    "spanish": "lámpara",
+    "english": "lamp",
+    "chinese": "灯",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 347,
+    "spanish": "espejo",
+    "english": "mirror",
+    "chinese": "镜子",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 348,
+    "spanish": "cuadro",
+    "english": "picture, painting",
+    "chinese": "画",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 349,
+    "spanish": "alfombra",
+    "english": "carpet",
+    "chinese": "地毯",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 350,
+    "spanish": "cortina",
+    "english": "curtain",
+    "chinese": "窗帘",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 351,
+    "spanish": "jardín",
+    "english": "garden",
+    "chinese": "花园",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 352,
+    "spanish": "flor",
+    "english": "flower",
+    "chinese": "花",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 353,
+    "spanish": "hierba",
+    "english": "grass",
+    "chinese": "草",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 354,
+    "spanish": "árbol",
+    "english": "tree",
+    "chinese": "树",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 355,
+    "spanish": "hoja",
+    "english": "leaf",
+    "chinese": "叶子",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 356,
+    "spanish": "fruta",
+    "english": "fruit",
+    "chinese": "水果",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 357,
+    "spanish": "verdura",
+    "english": "vegetable",
+    "chinese": "蔬菜",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 358,
+    "spanish": "semilla",
+    "english": "seed",
+    "chinese": "种子",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 359,
+    "spanish": "raíz",
+    "english": "root",
+    "chinese": "根",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 360,
+    "spanish": "tallo",
+    "english": "stem",
+    "chinese": "茎",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 361,
+    "spanish": "por favor",
+    "english": "please",
+    "chinese": "请",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 362,
+    "spanish": "gracias",
+    "english": "thank you",
+    "chinese": "谢谢",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 363,
+    "spanish": "de nada",
+    "english": "you're welcome",
+    "chinese": "不客气",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 364,
+    "spanish": "lo siento",
+    "english": "I'm sorry",
+    "chinese": "对不起",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 365,
+    "spanish": "buenos días",
+    "english": "good morning",
+    "chinese": "早上好",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 366,
+    "spanish": "buenas tardes",
+    "english": "good afternoon",
+    "chinese": "下午好",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 367,
+    "spanish": "buenas noches",
+    "english": "good night",
+    "chinese": "晚上好",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 368,
+    "spanish": "hasta luego",
+    "english": "see you later",
+    "chinese": "回头见",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 369,
+    "spanish": "hasta pronto",
+    "english": "see you soon",
+    "chinese": "再见",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 370,
+    "spanish": "hasta mañana",
+    "english": "see you tomorrow",
+    "chinese": "明天见",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 371,
+    "spanish": "adiós",
+    "english": "goodbye",
+    "chinese": "再见",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 372,
+    "spanish": "hola",
+    "english": "hello",
+    "chinese": "你好",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 373,
+    "spanish": "¿cómo estás?",
+    "english": "how are you?",
+    "chinese": "你好吗？",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 374,
+    "spanish": "bien",
+    "english": "well",
+    "chinese": "好",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 375,
+    "spanish": "mal",
+    "english": "bad",
+    "chinese": "不好",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 376,
+    "spanish": "¿qué tal?",
+    "english": "how's it going?",
+    "chinese": "怎么样？",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 377,
+    "spanish": "¿cómo te llamas?",
+    "english": "what's your name?",
+    "chinese": "你叫什么名字？",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 378,
+    "spanish": "me llamo",
+    "english": "my name is",
+    "chinese": "我叫",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 379,
+    "spanish": "encantado/a",
+    "english": "pleased to meet you",
+    "chinese": "很高兴认识你",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 380,
+    "spanish": "igualmente",
+    "english": "likewise",
+    "chinese": "我也是",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 381,
+    "spanish": "¿de dónde eres?",
+    "english": "where are you from?",
+    "chinese": "你来自哪里？",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 382,
+    "spanish": "soy de",
+    "english": "I'm from",
+    "chinese": "我来自",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 383,
+    "spanish": "¿hablas inglés?",
+    "english": "do you speak English?",
+    "chinese": "你会说英语吗？",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 384,
+    "spanish": "sí",
+    "english": "yes",
+    "chinese": "是的",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 385,
+    "spanish": "no",
+    "english": "no",
+    "chinese": "不",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 386,
+    "spanish": "un poco",
+    "english": "a little",
+    "chinese": "一点",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 387,
+    "spanish": "no entiendo",
+    "english": "I don't understand",
+    "chinese": "我不明白",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 388,
+    "spanish": "¿puedes repetir?",
+    "english": "can you repeat?",
+    "chinese": "你能重复一遍吗？",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 389,
+    "spanish": "más despacio",
+    "english": "more slowly",
+    "chinese": "慢一点",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 390,
+    "spanish": "¿qué significa?",
+    "english": "what does it mean?",
+    "chinese": "这是什么意思？",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 391,
+    "spanish": "¿cómo se dice?",
+    "english": "how do you say?",
+    "chinese": "怎么说？",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 392,
+    "spanish": "¿dónde está?",
+    "english": "where is it?",
+    "chinese": "在哪里？",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 393,
+    "spanish": "¿cuánto cuesta?",
+    "english": "how much does it cost?",
+    "chinese": "多少钱？",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 394,
+    "spanish": "¿qué hora es?",
+    "english": "what time is it?",
+    "chinese": "几点了？",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 395,
+    "spanish": "¿qué día es hoy?",
+    "english": "what day is today?",
+    "chinese": "今天星期几？",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 396,
+    "spanish": "¿qué fecha es hoy?",
+    "english": "what's today's date?",
+    "chinese": "今天几号？",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 397,
+    "spanish": "feliz cumpleaños",
+    "english": "happy birthday",
+    "chinese": "生日快乐",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 398,
+    "spanish": "feliz navidad",
+    "english": "merry christmas",
+    "chinese": "圣诞快乐",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 399,
+    "spanish": "feliz año nuevo",
+    "english": "happy new year",
+    "chinese": "新年快乐",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 400,
+    "spanish": "buena suerte",
+    "english": "good luck",
+    "chinese": "祝你好运",
+    "category": "expression",
+    "level": "A1"
+  },
+  {
+    "id": 401,
+    "spanish": "ahora",
+    "english": "now",
+    "chinese": "现在",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 402,
+    "spanish": "antes",
+    "english": "before",
+    "chinese": "以前",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 403,
+    "spanish": "después",
+    "english": "after",
+    "chinese": "之后",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 404,
+    "spanish": "siempre",
+    "english": "always",
+    "chinese": "总是",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 405,
+    "spanish": "nunca",
+    "english": "never",
+    "chinese": "从不",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 406,
+    "spanish": "a veces",
+    "english": "sometimes",
+    "chinese": "有时",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 407,
+    "spanish": "mucho",
+    "english": "a lot",
+    "chinese": "很多",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 408,
+    "spanish": "poco",
+    "english": "little",
+    "chinese": "一点",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 409,
+    "spanish": "más",
+    "english": "more",
+    "chinese": "更多",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 410,
+    "spanish": "menos",
+    "english": "less",
+    "chinese": "更少",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 411,
+    "spanish": "bien",
+    "english": "well",
+    "chinese": "好",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 412,
+    "spanish": "mal",
+    "english": "badly",
+    "chinese": "坏",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 413,
+    "spanish": "rápido",
+    "english": "quickly",
+    "chinese": "快速地",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 414,
+    "spanish": "despacio",
+    "english": "slowly",
+    "chinese": "慢慢地",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 415,
+    "spanish": "aquí",
+    "english": "here",
+    "chinese": "这里",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 416,
+    "spanish": "allí",
+    "english": "there",
+    "chinese": "那里",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 417,
+    "spanish": "cerca",
+    "english": "near",
+    "chinese": "附近",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 418,
+    "spanish": "lejos",
+    "english": "far",
+    "chinese": "远",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 419,
+    "spanish": "arriba",
+    "english": "up",
+    "chinese": "上面",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 420,
+    "spanish": "abajo",
+    "english": "down",
+    "chinese": "下面",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 421,
+    "spanish": "dentro",
+    "english": "inside",
+    "chinese": "里面",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 422,
+    "spanish": "fuera",
+    "english": "outside",
+    "chinese": "外面",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 423,
+    "spanish": "adelante",
+    "english": "forward",
+    "chinese": "向前",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 424,
+    "spanish": "atrás",
+    "english": "back",
+    "chinese": "向后",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 425,
+    "spanish": "juntos",
+    "english": "together",
+    "chinese": "一起",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 426,
+    "spanish": "separados",
+    "english": "separately",
+    "chinese": "分别地",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 427,
+    "spanish": "solos",
+    "english": "alone",
+    "chinese": "独自",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 428,
+    "spanish": "también",
+    "english": "also",
+    "chinese": "也",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 429,
+    "spanish": "tampoco",
+    "english": "neither",
+    "chinese": "也不",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 430,
+    "spanish": "ya",
+    "english": "already",
+    "chinese": "已经",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 431,
+    "spanish": "todavía",
+    "english": "still",
+    "chinese": "仍然",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 432,
+    "spanish": "aún",
+    "english": "yet",
+    "chinese": "还",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 433,
+    "spanish": "pronto",
+    "english": "soon",
+    "chinese": "很快",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 434,
+    "spanish": "tarde",
+    "english": "late",
+    "chinese": "晚",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 435,
+    "spanish": "temprano",
+    "english": "early",
+    "chinese": "早",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 436,
+    "spanish": "ayer",
+    "english": "yesterday",
+    "chinese": "昨天",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 439,
+    "spanish": "ahora mismo",
+    "english": "right now",
+    "chinese": "现在就",
+    "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 440,
+    "spanish": "en seguida",
+    "english": "immediately",
+    "chinese": "立刻",
+    "category": "adverb",
+    "level": "A1"
+  }
+]

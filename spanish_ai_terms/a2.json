@@ -1,0 +1,1602 @@
+[
+    {
+      "id": 1,
+      "spanish": "acontecimiento",
+      "english": "event",
+      "chinese": "事件",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 2,
+      "spanish": "desarrollar",
+      "english": "to develop",
+      "chinese": "发展",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 3,
+      "spanish": "aproximadamente",
+      "english": "approximately",
+      "chinese": "大约",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 4,
+      "spanish": "ambiente",
+      "english": "environment",
+      "chinese": "环境",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 5,
+      "spanish": "conjunto",
+      "english": "set/group",
+      "chinese": "集合",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 6,
+      "spanish": "proporcionar",
+      "english": "to provide",
+      "chinese": "提供",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 7,
+      "spanish": "bastante",
+      "english": "quite/enough",
+      "chinese": "相当",
+      "category": "adverb",
+      "level": "A2"
+    },
+    {
+      "id": 8,
+      "spanish": "superficie",
+      "english": "surface",
+      "chinese": "表面",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 9,
+      "spanish": "establecer",
+      "english": "to establish",
+      "chinese": "建立",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 10,
+      "spanish": "apenas",
+      "english": "barely",
+      "chinese": "几乎不",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 11,
+      "spanish": "comportamiento",
+      "english": "behavior",
+      "chinese": "行为",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 12,
+      "spanish": "interpretar",
+      "english": "to interpret",
+      "chinese": "解释",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 13,
+      "spanish": "principalmente",
+      "english": "mainly",
+      "chinese": "主要地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 14,
+      "spanish": "ventaja",
+      "english": "advantage",
+      "chinese": "优势",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 15,
+      "spanish": "mantener",
+      "english": "to maintain",
+      "chinese": "维持",
+      "category": "verb",
+      "level": "A2"
+    },
+    {
+      "id": 16,
+      "spanish": "definitivamente",
+      "english": "definitely",
+      "chinese": "明确地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 17,
+      "spanish": "herramienta",
+      "english": "tool",
+      "chinese": "工具",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 18,
+      "spanish": "resolver",
+      "english": "to solve",
+      "chinese": "解决",
+      "category": "verb",
+      "level": "A2"
+    },
+    {
+      "id": 19,
+      "spanish": "frecuentemente",
+      "english": "frequently",
+      "chinese": "频繁地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 20,
+      "spanish": "consecuencia",
+      "english": "consequence",
+      "chinese": "后果",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 21,
+      "spanish": "organizar",
+      "english": "to organize",
+      "chinese": "组织",
+      "category": "verb",
+      "level": "A2"
+    },
+    {
+      "id": 22,
+      "spanish": "inmediatamente",
+      "english": "immediately",
+      "chinese": "立即",
+      "category": "adverb",
+      "level": "A2"
+    },
+    {
+      "id": 23,
+      "spanish": "oportunidad",
+      "english": "opportunity",
+      "chinese": "机会",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 24,
+      "spanish": "investigar",
+      "english": "to investigate",
+      "chinese": "调查",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 25,
+      "spanish": "específicamente",
+      "english": "specifically",
+      "chinese": "具体地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 26,
+      "spanish": "característica",
+      "english": "characteristic",
+      "chinese": "特征",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 27,
+      "spanish": "distribuir",
+      "english": "to distribute",
+      "chinese": "分配",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 28,
+      "spanish": "normalmente",
+      "english": "normally",
+      "chinese": "通常",
+      "category": "adverb",
+      "level": "A2"
+    },
+    {
+      "id": 29,
+      "spanish": "experiencia",
+      "english": "experience",
+      "chinese": "经验",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 30,
+      "spanish": "comparar",
+      "english": "to compare",
+      "chinese": "比较",
+      "category": "verb",
+      "level": "A2"
+    },
+    {
+      "id": 31,
+      "spanish": "únicamente",
+      "english": "only/solely",
+      "chinese": "仅仅",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 32,
+      "spanish": "estructura",
+      "english": "structure",
+      "chinese": "结构",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 33,
+      "spanish": "considerar",
+      "english": "to consider",
+      "chinese": "考虑",
+      "category": "verb",
+      "level": "A2"
+    },
+    {
+      "id": 34,
+      "spanish": "anteriormente",
+      "english": "previously",
+      "chinese": "以前",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 35,
+      "spanish": "tendencia",
+      "english": "tendency",
+      "chinese": "趋势",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 36,
+      "spanish": "generar",
+      "english": "to generate",
+      "chinese": "生成",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 37,
+      "spanish": "regularmente",
+      "english": "regularly",
+      "chinese": "定期地",
+      "category": "adverb",
+      "level": "A2"
+    },
+    {
+      "id": 38,
+      "spanish": "administración",
+      "english": "administration",
+      "chinese": "管理",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 39,
+      "spanish": "participar",
+      "english": "to participate",
+      "chinese": "参与",
+      "category": "verb",
+      "level": "A2"
+    },
+    {
+      "id": 40,
+      "spanish": "efectivamente",
+      "english": "effectively",
+      "chinese": "有效地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 41,
+      "spanish": "responsabilidad",
+      "english": "responsibility",
+      "chinese": "责任",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 42,
+      "spanish": "comunicar",
+      "english": "to communicate",
+      "chinese": "沟通",
+      "category": "verb",
+      "level": "A2"
+    },
+    {
+      "id": 43,
+      "spanish": "parcialmente",
+      "english": "partially",
+      "chinese": "部分地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 44,
+      "spanish": "tecnología",
+      "english": "technology",
+      "chinese": "技术",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 45,
+      "spanish": "analizar",
+      "english": "to analyze",
+      "chinese": "分析",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 46,
+      "spanish": "constantemente",
+      "english": "constantly",
+      "chinese": "不断地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 47,
+      "spanish": "procedimiento",
+      "english": "procedure",
+      "chinese": "程序",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 48,
+      "spanish": "representar",
+      "english": "to represent",
+      "chinese": "代表",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 49,
+      "spanish": "completamente",
+      "english": "completely",
+      "chinese": "完全地",
+      "category": "adverb",
+      "level": "A2"
+    },
+    {
+      "id": 50,
+      "spanish": "objetivo",
+      "english": "objective",
+      "chinese": "目标",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 51,
+      "spanish": "controlar",
+      "english": "to control",
+      "chinese": "控制",
+      "category": "verb",
+      "level": "A2"
+    },
+    {
+      "id": 52,
+      "spanish": "tradicionalmente",
+      "english": "traditionally",
+      "chinese": "传统上",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 53,
+      "spanish": "capacidad",
+      "english": "capacity",
+      "chinese": "能力",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 54,
+      "spanish": "funcionar",
+      "english": "to function",
+      "chinese": "运作",
+      "category": "verb",
+      "level": "A2"
+    },
+    {
+      "id": 55,
+      "spanish": "especialmente",
+      "english": "especially",
+      "chinese": "特别地",
+      "category": "adverb",
+      "level": "A2"
+    },
+    {
+      "id": 56,
+      "spanish": "necesidad",
+      "english": "necessity",
+      "chinese": "必要性",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 57,
+      "spanish": "producir",
+      "english": "to produce",
+      "chinese": "生产",
+      "category": "verb",
+      "level": "A2"
+    },
+    {
+      "id": 58,
+      "spanish": "actualmente",
+      "english": "currently",
+      "chinese": "目前",
+      "category": "adverb",
+      "level": "A2"
+    },
+    {
+      "id": 59,
+      "spanish": "diversidad",
+      "english": "diversity",
+      "chinese": "多样性",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 60,
+      "spanish": "combinar",
+      "english": "to combine",
+      "chinese": "结合",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 61,
+      "spanish": "exactamente",
+      "english": "exactly",
+      "chinese": "确切地",
+      "category": "adverb",
+      "level": "A2"
+    },
+    {
+      "id": 62,
+      "spanish": "estrategia",
+      "english": "strategy",
+      "chinese": "策略",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 63,
+      "spanish": "transformar",
+      "english": "to transform",
+      "chinese": "转变",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 64,
+      "spanish": "simultáneamente",
+      "english": "simultaneously",
+      "chinese": "同时地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 65,
+      "spanish": "competencia",
+      "english": "competition",
+      "chinese": "竞争",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 66,
+      "spanish": "identificar",
+      "english": "to identify",
+      "chinese": "识别",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 67,
+      "spanish": "progresivamente",
+      "english": "progressively",
+      "chinese": "渐进地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 68,
+      "spanish": "beneficio",
+      "english": "benefit",
+      "chinese": "利益",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 69,
+      "spanish": "demostrar",
+      "english": "to demonstrate",
+      "chinese": "证明",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 70,
+      "spanish": "relativamente",
+      "english": "relatively",
+      "chinese": "相对地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 71,
+      "spanish": "inversión",
+      "english": "investment",
+      "chinese": "投资",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 72,
+      "spanish": "influir",
+      "english": "to influence",
+      "chinese": "影响",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 73,
+      "spanish": "naturalmente",
+      "english": "naturally",
+      "chinese": "自然地",
+      "category": "adverb",
+      "level": "A2"
+    },
+    {
+      "id": 74,
+      "spanish": "concepto",
+      "english": "concept",
+      "chinese": "概念",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 75,
+      "spanish": "evaluar",
+      "english": "to evaluate",
+      "chinese": "评估",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 76,
+      "spanish": "adicionalmente",
+      "english": "additionally",
+      "chinese": "另外",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 77,
+      "spanish": "perspectiva",
+      "english": "perspective",
+      "chinese": "观点",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 78,
+      "spanish": "concentrar",
+      "english": "to concentrate",
+      "chinese": "集中",
+      "category": "verb",
+      "level": "A2"
+    },
+    {
+      "id": 79,
+      "spanish": "directamente",
+      "english": "directly",
+      "chinese": "直接地",
+      "category": "adverb",
+      "level": "A2"
+    },
+    {
+      "id": 80,
+      "spanish": "evidencia",
+      "english": "evidence",
+      "chinese": "证据",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 81,
+      "spanish": "modificar",
+      "english": "to modify",
+      "chinese": "修改",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 82,
+      "spanish": "prácticamente",
+      "english": "practically",
+      "chinese": "实际上",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 83,
+      "spanish": "elemento",
+      "english": "element",
+      "chinese": "元素",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 84,
+      "spanish": "contribuir",
+      "english": "to contribute",
+      "chinese": "贡献",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 85,
+      "spanish": "originalmente",
+      "english": "originally",
+      "chinese": "最初",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 86,
+      "spanish": "habilidad",
+      "english": "ability",
+      "chinese": "能力",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 87,
+      "spanish": "dedicar",
+      "english": "to dedicate",
+      "chinese": "奉献",
+      "category": "verb",
+      "level": "A2"
+    },
+    {
+      "id": 88,
+      "spanish": "independientemente",
+      "english": "independently",
+      "chinese": "独立地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 89,
+      "spanish": "contenido",
+      "english": "content",
+      "chinese": "内容",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 90,
+      "spanish": "construir",
+      "english": "to build",
+      "chinese": "建造",
+      "category": "verb",
+      "level": "A2"
+    },
+    {
+      "id": 91,
+      "spanish": "eventualmente",
+      "english": "eventually",
+      "chinese": "最终",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 92,
+      "spanish": "institución",
+      "english": "institution",
+      "chinese": "机构",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 93,
+      "spanish": "reconocer",
+      "english": "to recognize",
+      "chinese": "认识",
+      "category": "verb",
+      "level": "A2"
+    },
+    {
+      "id": 94,
+      "spanish": "inicialmente",
+      "english": "initially",
+      "chinese": "最初",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 95,
+      "spanish": "posibilidad",
+      "english": "possibility",
+      "chinese": "可能性",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 96,
+      "spanish": "determinar",
+      "english": "to determine",
+      "chinese": "确定",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 97,
+      "spanish": "automáticamente",
+      "english": "automatically",
+      "chinese": "自动地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 98,
+      "spanish": "variedad",
+      "english": "variety",
+      "chinese": "多样性",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 99,
+      "spanish": "integrar",
+      "english": "to integrate",
+      "chinese": "整合",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 100,
+      "spanish": "fundamentalmente",
+      "english": "fundamentally",
+      "chinese": "根本上",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 101,
+      "spanish": "recurso",
+      "english": "resource",
+      "chinese": "资源",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 102,
+      "spanish": "adaptar",
+      "english": "to adapt",
+      "chinese": "适应",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 103,
+      "spanish": "gradualmente",
+      "english": "gradually",
+      "chinese": "逐渐地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 104,
+      "spanish": "sistema",
+      "english": "system",
+      "chinese": "系统",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 105,
+      "spanish": "mejorar",
+      "english": "to improve",
+      "chinese": "改进",
+      "category": "verb",
+      "level": "A2"
+    },
+    {
+      "id": 106,
+      "spanish": "básicamente",
+      "english": "basically",
+      "chinese": "基本上",
+      "category": "adverb",
+      "level": "A2"
+    },
+    {
+      "id": 107,
+      "spanish": "proceso",
+      "english": "process",
+      "chinese": "过程",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 108,
+      "spanish": "implementar",
+      "english": "to implement",
+      "chinese": "实施",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 109,
+      "spanish": "generalmente",
+      "english": "generally",
+      "chinese": "通常",
+      "category": "adverb",
+      "level": "A2"
+    },
+    {
+      "id": 110,
+      "spanish": "resultado",
+      "english": "result",
+      "chinese": "结果",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 111,
+      "spanish": "optimizar",
+      "english": "to optimize",
+      "chinese": "优化",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 112,
+      "spanish": "típicamente",
+      "english": "typically",
+      "chinese": "典型地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 113,
+      "spanish": "método",
+      "english": "method",
+      "chinese": "方法",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 114,
+      "spanish": "coordinar",
+      "english": "to coordinate",
+      "chinese": "协调",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 115,
+      "spanish": "relativamente",
+      "english": "relatively",
+      "chinese": "相对地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 116,
+      "spanish": "factor",
+      "english": "factor",
+      "chinese": "因素",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 117,
+      "spanish": "facilitar",
+      "english": "to facilitate",
+      "chinese": "促进",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 118,
+      "spanish": "aparentemente",
+      "english": "apparently",
+      "chinese": "显然",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 119,
+      "spanish": "contexto",
+      "english": "context",
+      "chinese": "上下文",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 120,
+      "spanish": "garantizar",
+      "english": "to guarantee",
+      "chinese": "保证",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 121,
+      "spanish": "obviamente",
+      "english": "obviously",
+      "chinese": "明显地",
+      "category": "adverb",
+      "level": "A2"
+    },
+    {
+      "id": 122,
+      "spanish": "impacto",
+      "english": "impact",
+      "chinese": "影响",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 123,
+      "spanish": "asegurar",
+      "english": "to ensure",
+      "chinese": "确保",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 124,
+      "spanish": "claramente",
+      "english": "clearly",
+      "chinese": "清楚地",
+      "category": "adverb",
+      "level": "A2"
+    },
+    {
+      "id": 125,
+      "spanish": "alcance",
+      "english": "scope",
+      "chinese": "范围",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 126,
+      "spanish": "priorizar",
+      "english": "to prioritize",
+      "chinese": "优先",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 127,
+      "spanish": "notablemente",
+      "english": "notably",
+      "chinese": "显著地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 128,
+      "spanish": "reto",
+      "english": "challenge",
+      "chinese": "挑战",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 129,
+      "spanish": "sustentar",
+      "english": "to sustain",
+      "chinese": "维持",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 130,
+      "spanish": "significativamente",
+      "english": "significantly",
+      "chinese": "显著地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 131,
+      "spanish": "aspecto",
+      "english": "aspect",
+      "chinese": "方面",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 132,
+      "spanish": "validar",
+      "english": "to validate",
+      "chinese": "验证",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 133,
+      "spanish": "particularmente",
+      "english": "particularly",
+      "chinese": "特别地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 134,
+      "spanish": "criterio",
+      "english": "criterion",
+      "chinese": "标准",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 135,
+      "spanish": "estandarizar",
+      "english": "to standardize",
+      "chinese": "标准化",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 136,
+      "spanish": "evidentemente",
+      "english": "evidently",
+      "chinese": "明显地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 137,
+      "spanish": "paradigma",
+      "english": "paradigm",
+      "chinese": "范式",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 138,
+      "spanish": "consolidar",
+      "english": "to consolidate",
+      "chinese": "巩固",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 139,
+      "spanish": "consecuentemente",
+      "english": "consequently",
+      "chinese": "因此",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 140,
+      "spanish": "marco",
+      "english": "framework",
+      "chinese": "框架",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 141,
+      "spanish": "innovar",
+      "english": "to innovate",
+      "chinese": "创新",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 142,
+      "spanish": "esencialmente",
+      "english": "essentially",
+      "chinese": "本质上",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 143,
+      "spanish": "dinámica",
+      "english": "dynamics",
+      "chinese": "动态",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 144,
+      "spanish": "potenciar",
+      "english": "to enhance",
+      "chinese": "增强",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 145,
+      "spanish": "inherentemente",
+      "english": "inherently",
+      "chinese": "固有地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 146,
+      "spanish": "plataforma",
+      "english": "platform",
+      "chinese": "平台",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 147,
+      "spanish": "sincronizar",
+      "english": "to synchronize",
+      "chinese": "同步",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 148,
+      "spanish": "intrínsecamente",
+      "english": "intrinsically",
+      "chinese": "本质上",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 149,
+      "spanish": "sinergia",
+      "english": "synergy",
+      "chinese": "协同",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 150,
+      "spanish": "escalar",
+      "english": "to scale",
+      "chinese": "扩展",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 151,
+      "spanish": "interfaz",
+      "english": "interface",
+      "chinese": "界面",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 152,
+      "spanish": "actualizar",
+      "english": "to update",
+      "chinese": "更新",
+      "category": "verb",
+      "level": "A2"
+    },
+    {
+      "id": 153,
+      "spanish": "virtualmente",
+      "english": "virtually",
+      "chinese": "虚拟地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 154,
+      "spanish": "protocolo",
+      "english": "protocol",
+      "chinese": "协议",
+      "category": "noun",
+      "level": "B1"
+    },
+    {
+      "id": 155,
+      "spanish": "conectar",
+      "english": "to connect",
+      "chinese": "连接",
+      "category": "verb",
+      "level": "A2"
+    },
+    {
+      "id": 156,
+      "spanish": "digitalmente",
+      "english": "digitally",
+      "chinese": "数字化地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 157,
+      "spanish": "servidor",
+      "english": "server",
+      "chinese": "服务器",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 158,
+      "spanish": "encriptar",
+      "english": "to encrypt",
+      "chinese": "加密",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 159,
+      "spanish": "secuencialmente",
+      "english": "sequentially",
+      "chinese": "顺序地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 160,
+      "spanish": "red",
+      "english": "network/grid",
+      "chinese": "网络",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 161,
+      "spanish": "compartir",
+      "english": "to share",
+      "chinese": "分享",
+      "category": "verb",
+      "level": "A2"
+    },
+    {
+      "id": 162,
+      "spanish": "globalmente",
+      "english": "globally",
+      "chinese": "全球地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 163,
+      "spanish": "datos",
+      "english": "data",
+      "chinese": "数据",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 164,
+      "spanish": "almacenar",
+      "english": "to store",
+      "chinese": "存储",
+      "category": "verb",
+      "level": "A2"
+    },
+    {
+      "id": 165,
+      "spanish": "localmente",
+      "english": "locally",
+      "chinese": "本地地",
+      "category": "adverb",
+      "level": "A2"
+    },
+    {
+      "id": 166,
+      "spanish": "archivo",
+      "english": "file",
+      "chinese": "文件",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 167,
+      "spanish": "descargar",
+      "english": "to download",
+      "chinese": "下载",
+      "category": "verb",
+      "level": "A2"
+    },
+    {
+      "id": 168,
+      "spanish": "remotamente",
+      "english": "remotely",
+      "chinese": "远程地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 169,
+      "spanish": "código",
+      "english": "code",
+      "chinese": "代码",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 170,
+      "spanish": "programar",
+      "english": "to program",
+      "chinese": "编程",
+      "category": "verb",
+      "level": "A2"
+    },
+    {
+      "id": 171,
+      "spanish": "automáticamente",
+      "english": "automatically",
+      "chinese": "自动地",
+      "category": "adverb",
+      "level": "A2"
+    },
+    {
+      "id": 172,
+      "spanish": "software",
+      "english": "software",
+      "chinese": "软件",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 173,
+      "spanish": "instalar",
+      "english": "to install",
+      "chinese": "安装",
+      "category": "verb",
+      "level": "A2"
+    },
+    {
+      "id": 174,
+      "spanish": "periódicamente",
+      "english": "periodically",
+      "chinese": "定期地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 175,
+      "spanish": "hardware",
+      "english": "hardware",
+      "chinese": "硬件",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 176,
+      "spanish": "configurar",
+      "english": "to configure",
+      "chinese": "配置",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 177,
+      "spanish": "técnicamente",
+      "english": "technically",
+      "chinese": "技术上",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 178,
+      "spanish": "dispositivo",
+      "english": "device",
+      "chinese": "设备",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 179,
+      "spanish": "sincronizar",
+      "english": "to synchronize",
+      "chinese": "同步",
+      "category": "verb",
+      "level": "B1"
+    },
+    {
+      "id": 180,
+      "spanish": "simultáneamente",
+      "english": "simultaneously",
+      "chinese": "同时地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 181,
+      "spanish": "aplicación",
+      "english": "application",
+      "chinese": "应用",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 182,
+      "spanish": "desarrollar",
+      "english": "to develop",
+      "chinese": "开发",
+      "category": "verb",
+      "level": "A2"
+    },
+    {
+      "id": 183,
+      "spanish": "interactivamente",
+      "english": "interactively",
+      "chinese": "交互地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 184,
+      "spanish": "usuario",
+      "english": "user",
+      "chinese": "用户",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 185,
+      "spanish": "navegar",
+      "english": "to browse",
+      "chinese": "浏览",
+      "category": "verb",
+      "level": "A2"
+    },
+    {
+      "id": 186,
+      "spanish": "intuitivamente",
+      "english": "intuitively",
+      "chinese": "直观地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 187,
+      "spanish": "página",
+      "english": "page",
+      "chinese": "页面",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 188,
+      "spanish": "buscar",
+      "english": "to search",
+      "chinese": "搜索",
+      "category": "verb",
+      "level": "A2"
+    },
+    {
+      "id": 189,
+      "spanish": "instantáneamente",
+      "english": "instantly",
+      "chinese": "立即",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 190,
+      "spanish": "enlace",
+      "english": "link",
+      "chinese": "链接",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 191,
+      "spanish": "comunicar",
+      "english": "to communicate",
+      "chinese": "通信",
+      "category": "verb",
+      "level": "A2"
+    },
+    {
+      "id": 192,
+      "spanish": "bidireccionalmente",
+      "english": "bidirectionally",
+      "chinese": "双向地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 193,
+      "spanish": "mensaje",
+      "english": "message",
+      "chinese": "消息",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 194,
+      "spanish": "enviar",
+      "english": "to send",
+      "chinese": "发送",
+      "category": "verb",
+      "level": "A2"
+    },
+    {
+      "id": 195,
+      "spanish": "asíncronamente",
+      "english": "asynchronously",
+      "chinese": "异步地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 196,
+      "spanish": "correo",
+      "english": "email",
+      "chinese": "邮件",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 197,
+      "spanish": "recibir",
+      "english": "to receive",
+      "chinese": "接收",
+      "category": "verb",
+      "level": "A2"
+    },
+    {
+      "id": 198,
+      "spanish": "electrónicamente",
+      "english": "electronically",
+      "chinese": "电子地",
+      "category": "adverb",
+      "level": "B1"
+    },
+    {
+      "id": 199,
+      "spanish": "contenido",
+      "english": "content",
+      "chinese": "内容",
+      "category": "noun",
+      "level": "A2"
+    },
+    {
+      "id": 200,
+      "spanish": "publicar",
+      "english": "to publish",
+      "chinese": "发布",
+      "category": "verb",
+      "level": "A2"
+    }
+  ]
