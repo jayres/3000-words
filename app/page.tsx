@@ -41,10 +41,22 @@ export default function Home() {
     const data = getCurrentLevelData();
     const allOptions = data.map(word => word[language]);
     const filteredOptions = allOptions.filter(option => option !== correctAnswer);
-    const shuffled = filteredOptions.sort(() => 0.5 - Math.random());
-    const wrongOptions = shuffled.slice(0, 3);
+
+    // Fisher-Yates shuffle implementation
+    const shuffle = (array: string[]) => {
+      for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+      }
+      return array;
+    };
+
+    // Shuffle filtered options and take first 3
+    const wrongOptions = shuffle([...filteredOptions]).slice(0, 3);
     const allChoices = [...wrongOptions, correctAnswer];
-    return allChoices.sort(() => 0.5 - Math.random());
+
+    // Shuffle final array
+    return shuffle(allChoices);
   }, []);
 
   const startNewRound = useCallback(() => {
@@ -228,6 +240,7 @@ export default function Home() {
           </button>
         </div>
       </div>
+      <p className='text-gray-300 text-sm text-center mt-3'>&#169; {new Date().getFullYear()} James Ayres</p>
     </div>
   );
 }
