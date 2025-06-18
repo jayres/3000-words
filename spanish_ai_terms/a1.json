@@ -2664,14 +2664,6 @@
     "level": "A1"
   },
   {
-    "id": 334,
-    "spanish": "reloj",
-    "english": "watch, clock",
-    "chinese": "手表/钟",
-    "category": "noun",
-    "level": "A1"
-  },
-  {
     "id": 335,
     "spanish": "gafas",
     "english": "glasses",
@@ -2744,14 +2736,6 @@
     "level": "A1"
   },
   {
-    "id": 344,
-    "spanish": "cama",
-    "english": "bed",
-    "chinese": "床",
-    "category": "noun",
-    "level": "A1"
-  },
-  {
     "id": 345,
     "spanish": "armario",
     "english": "wardrobe",
@@ -2804,14 +2788,6 @@
     "spanish": "jardín",
     "english": "garden",
     "chinese": "花园",
-    "category": "noun",
-    "level": "A1"
-  },
-  {
-    "id": 352,
-    "spanish": "flor",
-    "english": "flower",
-    "chinese": "花",
     "category": "noun",
     "level": "A1"
   },
@@ -3501,6 +3477,750 @@
     "english": "immediately",
     "chinese": "立刻",
     "category": "adverb",
+    "level": "A1"
+  },
+  {
+    "id": 442,
+    "spanish": "perro",
+    "english": "dog",
+    "chinese": "狗",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 443,
+    "spanish": "gato",
+    "english": "cat",
+    "chinese": "猫",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 445,
+    "spanish": "pan",
+    "english": "bread",
+    "chinese": "面包",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 446,
+    "spanish": "leche",
+    "english": "milk",
+    "chinese": "牛奶",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 447,
+    "spanish": "café",
+    "english": "coffee",
+    "chinese": "咖啡",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 448,
+    "spanish": "té",
+    "english": "tea",
+    "chinese": "茶",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 451,
+    "spanish": "estrella",
+    "english": "star",
+    "chinese": "星星",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 452,
+    "spanish": "árbol",
+    "english": "tree",
+    "chinese": "树",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 458,
+    "spanish": "playa",
+    "english": "beach",
+    "chinese": "海滩",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 460,
+    "spanish": "pueblo",
+    "english": "town",
+    "chinese": "小镇",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 466,
+    "spanish": "barco",
+    "english": "boat",
+    "chinese": "船",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 467,
+    "spanish": "bicicleta",
+    "english": "bicycle",
+    "chinese": "自行车",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 469,
+    "spanish": "teléfono",
+    "english": "telephone",
+    "chinese": "电话",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 470,
+    "spanish": "radio",
+    "english": "radio",
+    "chinese": "收音机",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 471,
+    "spanish": "televisión",
+    "english": "television",
+    "chinese": "电视",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 472,
+    "spanish": "computadora",
+    "english": "computer",
+    "chinese": "电脑",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 473,
+    "spanish": "libro",
+    "english": "book",
+    "chinese": "书",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 474,
+    "spanish": "periódico",
+    "english": "newspaper",
+    "chinese": "报纸",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 475,
+    "spanish": "revista",
+    "english": "magazine",
+    "chinese": "杂志",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 476,
+    "spanish": "carta",
+    "english": "letter",
+    "chinese": "信",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 477,
+    "spanish": "foto",
+    "english": "photo",
+    "chinese": "照片",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 479,
+    "spanish": "bolígrafo",
+    "english": "pen",
+    "chinese": "钢笔",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 480,
+    "spanish": "lápiz",
+    "english": "pencil",
+    "chinese": "铅笔",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 481,
+    "spanish": "cuaderno",
+    "english": "notebook",
+    "chinese": "笔记本",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 487,
+    "spanish": "pared",
+    "english": "wall",
+    "chinese": "墙",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 488,
+    "spanish": "suelo",
+    "english": "floor",
+    "chinese": "地板",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 489,
+    "spanish": "techo",
+    "english": "ceiling",
+    "chinese": "天花板",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 490,
+    "spanish": "luz",
+    "english": "light",
+    "chinese": "光",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 496,
+    "spanish": "cojín",
+    "english": "cushion",
+    "chinese": "垫子",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 497,
+    "spanish": "manta",
+    "english": "blanket",
+    "chinese": "毯子",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 498,
+    "spanish": "almohada",
+    "english": "pillow",
+    "chinese": "枕头",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 499,
+    "spanish": "toalla",
+    "english": "towel",
+    "chinese": "毛巾",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 500,
+    "spanish": "jabón",
+    "english": "soap",
+    "chinese": "肥皂",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 501,
+    "spanish": "enero",
+    "english": "January",
+    "chinese": "一月",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 502,
+    "spanish": "febrero",
+    "english": "February",
+    "chinese": "二月",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 503,
+    "spanish": "marzo",
+    "english": "March",
+    "chinese": "三月",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 504,
+    "spanish": "abril",
+    "english": "April",
+    "chinese": "四月",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 505,
+    "spanish": "mayo",
+    "english": "May",
+    "chinese": "五月",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 506,
+    "spanish": "junio",
+    "english": "June",
+    "chinese": "六月",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 507,
+    "spanish": "julio",
+    "english": "July",
+    "chinese": "七月",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 508,
+    "spanish": "agosto",
+    "english": "August",
+    "chinese": "八月",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 509,
+    "spanish": "septiembre",
+    "english": "September",
+    "chinese": "九月",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 510,
+    "spanish": "octubre",
+    "english": "October",
+    "chinese": "十月",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 511,
+    "spanish": "noviembre",
+    "english": "November",
+    "chinese": "十一月",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 512,
+    "spanish": "diciembre",
+    "english": "December",
+    "chinese": "十二月",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 513,
+    "spanish": "lunes",
+    "english": "Monday",
+    "chinese": "星期一",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 514,
+    "spanish": "martes",
+    "english": "Tuesday",
+    "chinese": "星期二",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 515,
+    "spanish": "miércoles",
+    "english": "Wednesday",
+    "chinese": "星期三",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 516,
+    "spanish": "jueves",
+    "english": "Thursday",
+    "chinese": "星期四",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 517,
+    "spanish": "viernes",
+    "english": "Friday",
+    "chinese": "星期五",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 518,
+    "spanish": "sábado",
+    "english": "Saturday",
+    "chinese": "星期六",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 519,
+    "spanish": "domingo",
+    "english": "Sunday",
+    "chinese": "星期日",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 520,
+    "spanish": "cabeza",
+    "english": "head",
+    "chinese": "头",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 521,
+    "spanish": "cara",
+    "english": "face",
+    "chinese": "脸",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 522,
+    "spanish": "ojo",
+    "english": "eye",
+    "chinese": "眼睛",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 523,
+    "spanish": "nariz",
+    "english": "nose",
+    "chinese": "鼻子",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 524,
+    "spanish": "boca",
+    "english": "mouth",
+    "chinese": "嘴",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 525,
+    "spanish": "oreja",
+    "english": "ear",
+    "chinese": "耳朵",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 526,
+    "spanish": "pelo",
+    "english": "hair",
+    "chinese": "头发",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 527,
+    "spanish": "cuello",
+    "english": "neck",
+    "chinese": "脖子",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 528,
+    "spanish": "hombro",
+    "english": "shoulder",
+    "chinese": "肩膀",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 529,
+    "spanish": "brazo",
+    "english": "arm",
+    "chinese": "手臂",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 530,
+    "spanish": "codo",
+    "english": "elbow",
+    "chinese": "肘",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 531,
+    "spanish": "mano",
+    "english": "hand",
+    "chinese": "手",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 532,
+    "spanish": "dedo",
+    "english": "finger",
+    "chinese": "手指",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 533,
+    "spanish": "pecho",
+    "english": "chest",
+    "chinese": "胸部",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 534,
+    "spanish": "espalda",
+    "english": "back",
+    "chinese": "背",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 535,
+    "spanish": "estómago",
+    "english": "stomach",
+    "chinese": "胃",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 536,
+    "spanish": "pierna",
+    "english": "leg",
+    "chinese": "腿",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 537,
+    "spanish": "rodilla",
+    "english": "knee",
+    "chinese": "膝盖",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 538,
+    "spanish": "pie",
+    "english": "foot",
+    "chinese": "脚",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 539,
+    "spanish": "diente",
+    "english": "tooth",
+    "chinese": "牙齿",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 540,
+    "spanish": "lengua",
+    "english": "tongue",
+    "chinese": "舌头",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 541,
+    "spanish": "labio",
+    "english": "lip",
+    "chinese": "嘴唇",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 542,
+    "spanish": "ceja",
+    "english": "eyebrow",
+    "chinese": "眉毛",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 543,
+    "spanish": "pestaña",
+    "english": "eyelash",
+    "chinese": "睫毛",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 544,
+    "spanish": "barbilla",
+    "english": "chin",
+    "chinese": "下巴",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 545,
+    "spanish": "mejilla",
+    "english": "cheek",
+    "chinese": "脸颊",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 546,
+    "spanish": "frente",
+    "english": "forehead",
+    "chinese": "前额",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 547,
+    "spanish": "muñeca",
+    "english": "wrist",
+    "chinese": "手腕",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 548,
+    "spanish": "tobillo",
+    "english": "ankle",
+    "chinese": "脚踝",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 549,
+    "spanish": "uña",
+    "english": "nail",
+    "chinese": "指甲",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 550,
+    "spanish": "derecha",
+    "english": "right",
+    "chinese": "右边",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 551,
+    "spanish": "izquierda",
+    "english": "left",
+    "chinese": "左边",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 552,
+    "spanish": "norte",
+    "english": "north",
+    "chinese": "北",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 553,
+    "spanish": "sur",
+    "english": "south",
+    "chinese": "南",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 554,
+    "spanish": "oeste",
+    "english": "west",
+    "chinese": "西",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 555,
+    "spanish": "centro",
+    "english": "center",
+    "chinese": "中心",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 556,
+    "spanish": "detrás",
+    "english": "behind",
+    "chinese": "后面",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 557,
+    "spanish": "alrededor",
+    "english": "around",
+    "chinese": "周围",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 558,
+    "spanish": "entre",
+    "english": "between",
+    "chinese": "之间",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 559,
+    "spanish": "dentro",
+    "english": "inside",
+    "chinese": "里面",
+    "category": "noun",
+    "level": "A1"
+  },
+  {
+    "id": 560,
+    "spanish": "fuera",
+    "english": "outside",
+    "chinese": "外面",
+    "category": "noun",
     "level": "A1"
   }
 ]
