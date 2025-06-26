@@ -1838,5 +1838,293 @@
         "chinese": "獾",
         "category": "noun",
         "level": "A2"
+    },
+    {
+        "id": 231,
+        "spanish": "esperar",
+        "english": "to wait",
+        "chinese": "等待",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 232,
+        "spanish": "temporada",
+        "english": "season",
+        "chinese": "季节",
+        "category": "noun",
+        "level": "A2"
+    },
+    {
+        "id": 233,
+        "spanish": "morder",
+        "english": "to bite",
+        "chinese": "咬",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 234,
+        "spanish": "disfruten",
+        "english": "enjoy (they/you all)",
+        "chinese": "享受（他们/你们）",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 235,
+        "spanish": "solatario",
+        "english": "loner",
+        "chinese": "孤独者",
+        "category": "noun",
+        "level": "A2"
+    },
+    {
+        "id": 236,
+        "spanish": "infierno",
+        "english": "hell",
+        "chinese": "地狱",
+        "category": "noun",
+        "level": "A2"
+    },
+    {
+        "id": 237,
+        "spanish": "alguna vez",
+        "english": "ever",
+        "chinese": "曾经",
+        "category": "adverb",
+        "level": "A2"
+    },
+    {
+        "id": 238,
+        "spanish": "agradables",
+        "english": "pleasant",
+        "chinese": "令人愉快的",
+        "category": "adjective",
+        "level": "A2"
+    },
+    {
+        "id": 239,
+        "spanish": "desagradables",
+        "english": "unpleasant",
+        "chinese": "令人不快的",
+        "category": "adjective",
+        "level": "A2"
+    },
+    {
+        "id": 240,
+        "spanish": "valorado",
+        "english": "valued",
+        "chinese": "被重视的",
+        "category": "adjective",
+        "level": "A2"
+    },
+    {
+        "id": 241,
+        "spanish": "autorealizado",
+        "english": "self-actualized",
+        "chinese": "自我实现的",
+        "category": "adjective",
+        "level": "A2"
+    },
+    {
+        "id": 242,
+        "spanish": "las facturas",
+        "english": "the bills",
+        "chinese": "账单",
+        "category": "noun",
+        "level": "A2"
+    },
+    {
+        "id": 243,
+        "spanish": "conocimiento",
+        "english": "knowledge",
+        "chinese": "知识",
+        "category": "noun",
+        "level": "A2"
+    },
+    {
+        "id": 244,
+        "spanish": "estar a gusto",
+        "english": "to be comfortable",
+        "chinese": "感到自在",
+        "category": "verb phrase",
+        "level": "A2"
+    },
+    {
+        "id": 245,
+        "spanish": "arreglar",
+        "english": "to fix",
+        "chinese": "修理",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 246,
+        "spanish": "arreglar mi jardin",
+        "english": "to fix my garden",
+        "chinese": "整理我的花园",
+        "category": "verb phrase",
+        "level": "A2"
+    },
+    {
+        "id": 247,
+        "spanish": "tampoco",
+        "english": "neither/either",
+        "chinese": "也不",
+        "category": "adverb",
+        "level": "A2"
+    },
+    {
+        "id": 248,
+        "spanish": "construir",
+        "english": "to build",
+        "chinese": "建造",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 249,
+        "spanish": "crecar",
+        "english": "to grow (possible typo: crecer)",
+        "chinese": "成长",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 250,
+        "spanish": "algun",
+        "english": "some/any",
+        "chinese": "一些/任何",
+        "category": "adjective",
+        "level": "A2"
+    },
+    {
+        "id": 251,
+        "spanish": "alguien",
+        "english": "someone",
+        "chinese": "某人",
+        "category": "pronoun",
+        "level": "A2"
+    },
+    {
+        "id": 252,
+        "spanish": "apestar",
+        "english": "to stink",
+        "chinese": "发臭",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 253,
+        "spanish": "yo apesto",
+        "english": "I stink",
+        "chinese": "我很臭",
+        "category": "verb phrase",
+        "level": "A2"
+    },
+    {
+        "id": 254,
+        "spanish": "restaur",
+        "english": "to restore",
+        "chinese": "恢复",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 255,
+        "spanish": "empressa",
+        "english": "company",
+        "chinese": "公司",
+        "category": "noun",
+        "level": "A2"
+    },
+    {
+        "id": 256,
+        "spanish": "me gustaría",
+        "english": "I would like",
+        "chinese": "我想要",
+        "category": "verb phrase",
+        "level": "A2"
+    },
+    {
+        "id": 257,
+        "spanish": "montar",
+        "english": "to ride",
+        "chinese": "骑/乘",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 258,
+        "spanish": "bucear",
+        "english": "to dive",
+        "chinese": "潜水",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 259,
+        "spanish": "de repente",
+        "english": "suddenly",
+        "chinese": "突然",
+        "category": "adverb",
+        "level": "A2"
+    },
+    {
+        "id": 260,
+        "spanish": "sorpresa",
+        "english": "surprise",
+        "chinese": "惊喜",
+        "category": "noun",
+        "level": "A2"
+    },
+    {
+        "id": 261,
+        "spanish": "probarla",
+        "english": "to try it",
+        "chinese": "尝试它",
+        "category": "verb phrase",
+        "level": "A2"
+    },
+    {
+        "id": 262,
+        "spanish": "mesclas",
+        "english": "mixes",
+        "chinese": "混合物",
+        "category": "noun",
+        "level": "A2"
+    },
+    {
+        "id": 263,
+        "spanish": "dar",
+        "english": "to give",
+        "chinese": "给",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 264,
+        "spanish": "el otro dia",
+        "english": "the other day",
+        "chinese": "前几天",
+        "category": "noun phrase",
+        "level": "A2"
+    },
+    {
+        "id": 265,
+        "spanish": "al día siguiente",
+        "english": "the next day",
+        "chinese": "第二天",
+        "category": "noun phrase",
+        "level": "A2"
+    },
+    {
+        "id": 266,
+        "spanish": "más tarde",
+        "english": "later",
+        "chinese": "稍后",
+        "category": "adverb",
+        "level": "A2"
     }
 ]

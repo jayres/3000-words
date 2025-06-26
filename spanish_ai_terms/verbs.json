@@ -1,0 +1,1602 @@
+[
+    {
+        "id": 1,
+        "spanish": "ser",
+        "english": "to be (permanent state)",
+        "chinese": "是/存在",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 2,
+        "spanish": "estar",
+        "english": "to be (temporary state/location)",
+        "chinese": "在/处于",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 3,
+        "spanish": "tener",
+        "english": "to have",
+        "chinese": "有/拥有",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 4,
+        "spanish": "hacer",
+        "english": "to do/make",
+        "chinese": "做/制作",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 5,
+        "spanish": "ir",
+        "english": "to go",
+        "chinese": "去",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 6,
+        "spanish": "decir",
+        "english": "to say/tell",
+        "chinese": "说/告诉",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 7,
+        "spanish": "ver",
+        "english": "to see",
+        "chinese": "看见",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 8,
+        "spanish": "dar",
+        "english": "to give",
+        "chinese": "给",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 9,
+        "spanish": "saber",
+        "english": "to know (facts)",
+        "chinese": "知道",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 10,
+        "spanish": "querer",
+        "english": "to want/love",
+        "chinese": "想要/爱",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 11,
+        "spanish": "llegar",
+        "english": "to arrive",
+        "chinese": "到达",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 12,
+        "spanish": "pasar",
+        "english": "to pass/happen",
+        "chinese": "经过/发生",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 13,
+        "spanish": "deber",
+        "english": "to owe/should",
+        "chinese": "应该/欠",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 14,
+        "spanish": "poner",
+        "english": "to put/place",
+        "chinese": "放/放置",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 15,
+        "spanish": "parecer",
+        "english": "to seem/appear",
+        "chinese": "似乎/显得",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 16,
+        "spanish": "quedar",
+        "english": "to stay/remain",
+        "chinese": "留下/保持",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 17,
+        "spanish": "creer",
+        "english": "to believe",
+        "chinese": "相信",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 18,
+        "spanish": "hablar",
+        "english": "to speak/talk",
+        "chinese": "说话",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 19,
+        "spanish": "llevar",
+        "english": "to carry/wear",
+        "chinese": "携带/穿着",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 20,
+        "spanish": "dejar",
+        "english": "to leave/let",
+        "chinese": "离开/让",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 21,
+        "spanish": "seguir",
+        "english": "to follow/continue",
+        "chinese": "跟随/继续",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 22,
+        "spanish": "encontrar",
+        "english": "to find/meet",
+        "chinese": "找到/遇到",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 23,
+        "spanish": "llamar",
+        "english": "to call",
+        "chinese": "叫/打电话",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 24,
+        "spanish": "venir",
+        "english": "to come",
+        "chinese": "来",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 25,
+        "spanish": "pensar",
+        "english": "to think",
+        "chinese": "想/思考",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 26,
+        "spanish": "salir",
+        "english": "to leave/go out",
+        "chinese": "离开/出去",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 27,
+        "spanish": "volver",
+        "english": "to return",
+        "chinese": "返回",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 28,
+        "spanish": "tomar",
+        "english": "to take/drink",
+        "chinese": "拿/喝",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 29,
+        "spanish": "conocer",
+        "english": "to know (people/places)",
+        "chinese": "认识/了解",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 30,
+        "spanish": "vivir",
+        "english": "to live",
+        "chinese": "生活/居住",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 31,
+        "spanish": "sentir",
+        "english": "to feel",
+        "chinese": "感觉",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 32,
+        "spanish": "tratar",
+        "english": "to try/treat",
+        "chinese": "尝试/治疗",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 33,
+        "spanish": "mirar",
+        "english": "to look at",
+        "chinese": "看",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 34,
+        "spanish": "contar",
+        "english": "to count/tell",
+        "chinese": "数/讲述",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 35,
+        "spanish": "empezar",
+        "english": "to begin",
+        "chinese": "开始",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 36,
+        "spanish": "esperar",
+        "english": "to wait/hope",
+        "chinese": "等待/希望",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 37,
+        "spanish": "buscar",
+        "english": "to look for",
+        "chinese": "寻找",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 38,
+        "spanish": "existir",
+        "english": "to exist",
+        "chinese": "存在",
+        "category": "verb",
+        "level": "B1"
+    },
+    {
+        "id": 39,
+        "spanish": "entrar",
+        "english": "to enter",
+        "chinese": "进入",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 40,
+        "spanish": "trabajar",
+        "english": "to work",
+        "chinese": "工作",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 41,
+        "spanish": "escribir",
+        "english": "to write",
+        "chinese": "写",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 42,
+        "spanish": "perder",
+        "english": "to lose",
+        "chinese": "失去/迷路",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 43,
+        "spanish": "producir",
+        "english": "to produce",
+        "chinese": "生产",
+        "category": "verb",
+        "level": "B1"
+    },
+    {
+        "id": 44,
+        "spanish": "ocurrir",
+        "english": "to occur/happen",
+        "chinese": "发生",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 45,
+        "spanish": "entender",
+        "english": "to understand",
+        "chinese": "理解",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 46,
+        "spanish": "pedir",
+        "english": "to ask for/request",
+        "chinese": "请求/要求",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 47,
+        "spanish": "recibir",
+        "english": "to receive",
+        "chinese": "接收",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 48,
+        "spanish": "recordar",
+        "english": "to remember",
+        "chinese": "记住",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 49,
+        "spanish": "terminar",
+        "english": "to finish",
+        "chinese": "完成",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 50,
+        "spanish": "permitir",
+        "english": "to allow/permit",
+        "chinese": "允许",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 51,
+        "spanish": "aparecer",
+        "english": "to appear",
+        "chinese": "出现",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 52,
+        "spanish": "conseguir",
+        "english": "to get/obtain",
+        "chinese": "获得",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 53,
+        "spanish": "comenzar",
+        "english": "to begin",
+        "chinese": "开始",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 54,
+        "spanish": "servir",
+        "english": "to serve",
+        "chinese": "服务",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 55,
+        "spanish": "sacar",
+        "english": "to take out",
+        "chinese": "拿出",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 56,
+        "spanish": "necesitar",
+        "english": "to need",
+        "chinese": "需要",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 57,
+        "spanish": "mantener",
+        "english": "to maintain",
+        "chinese": "保持",
+        "category": "verb",
+        "level": "B1"
+    },
+    {
+        "id": 58,
+        "spanish": "resultar",
+        "english": "to result/turn out",
+        "chinese": "结果是",
+        "category": "verb",
+        "level": "B1"
+    },
+    {
+        "id": 59,
+        "spanish": "leer",
+        "english": "to read",
+        "chinese": "读",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 60,
+        "spanish": "caer",
+        "english": "to fall",
+        "chinese": "跌倒",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 61,
+        "spanish": "cambiar",
+        "english": "to change",
+        "chinese": "改变",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 62,
+        "spanish": "presentar",
+        "english": "to present",
+        "chinese": "展示",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 63,
+        "spanish": "crear",
+        "english": "to create",
+        "chinese": "创造",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 64,
+        "spanish": "abrir",
+        "english": "to open",
+        "chinese": "打开",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 65,
+        "spanish": "considerar",
+        "english": "to consider",
+        "chinese": "考虑",
+        "category": "verb",
+        "level": "B1"
+    },
+    {
+        "id": 66,
+        "spanish": "oír",
+        "english": "to hear",
+        "chinese": "听到",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 67,
+        "spanish": "acabar",
+        "english": "to finish",
+        "chinese": "完成",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 68,
+        "spanish": "convertir",
+        "english": "to convert",
+        "chinese": "转换",
+        "category": "verb",
+        "level": "B1"
+    },
+    {
+        "id": 69,
+        "spanish": "ganar",
+        "english": "to win/earn",
+        "chinese": "赢得/赚",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 70,
+        "spanish": "formar",
+        "english": "to form",
+        "chinese": "形成",
+        "category": "verb",
+        "level": "B1"
+    },
+    {
+        "id": 71,
+        "spanish": "traer",
+        "english": "to bring",
+        "chinese": "带来",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 72,
+        "spanish": "partir",
+        "english": "to leave/split",
+        "chinese": "离开/分割",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 73,
+        "spanish": "morir",
+        "english": "to die",
+        "chinese": "死",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 74,
+        "spanish": "aceptar",
+        "english": "to accept",
+        "chinese": "接受",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 75,
+        "spanish": "realizar",
+        "english": "to carry out",
+        "chinese": "实现",
+        "category": "verb",
+        "level": "B1"
+    },
+    {
+        "id": 76,
+        "spanish": "suponer",
+        "english": "to suppose",
+        "chinese": "假设",
+        "category": "verb",
+        "level": "B1"
+    },
+    {
+        "id": 77,
+        "spanish": "comprender",
+        "english": "to understand",
+        "chinese": "理解",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 78,
+        "spanish": "lograr",
+        "english": "to achieve",
+        "chinese": "实现",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 79,
+        "spanish": "explicar",
+        "english": "to explain",
+        "chinese": "解释",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 80,
+        "spanish": "preguntar",
+        "english": "to ask",
+        "chinese": "问",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 81,
+        "spanish": "tocar",
+        "english": "to touch/play",
+        "chinese": "触摸/演奏",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 82,
+        "spanish": "reconocer",
+        "english": "to recognize",
+        "chinese": "认出",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 83,
+        "spanish": "estudiar",
+        "english": "to study",
+        "chinese": "学习",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 84,
+        "spanish": "alcanzar",
+        "english": "to reach",
+        "chinese": "到达",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 85,
+        "spanish": "nacer",
+        "english": "to be born",
+        "chinese": "出生",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 86,
+        "spanish": "dirigir",
+        "english": "to direct",
+        "chinese": "指导",
+        "category": "verb",
+        "level": "B1"
+    },
+    {
+        "id": 87,
+        "spanish": "correr",
+        "english": "to run",
+        "chinese": "跑",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 88,
+        "spanish": "utilizar",
+        "english": "to use",
+        "chinese": "使用",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 89,
+        "spanish": "pagar",
+        "english": "to pay",
+        "chinese": "付款",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 90,
+        "spanish": "ayudar",
+        "english": "to help",
+        "chinese": "帮助",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 91,
+        "spanish": "gustar",
+        "english": "to like/please",
+        "chinese": "喜欢",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 92,
+        "spanish": "jugar",
+        "english": "to play",
+        "chinese": "玩",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 93,
+        "spanish": "escuchar",
+        "english": "to listen",
+        "chinese": "听",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 94,
+        "spanish": "cumplir",
+        "english": "to fulfill",
+        "chinese": "履行",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 95,
+        "spanish": "ofrecer",
+        "english": "to offer",
+        "chinese": "提供",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 96,
+        "spanish": "descubrir",
+        "english": "to discover",
+        "chinese": "发现",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 97,
+        "spanish": "levantar",
+        "english": "to lift/raise",
+        "chinese": "举起",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 98,
+        "spanish": "intentar",
+        "english": "to try",
+        "chinese": "尝试",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 99,
+        "spanish": "usar",
+        "english": "to use",
+        "chinese": "使用",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 100,
+        "spanish": "decidir",
+        "english": "to decide",
+        "chinese": "决定",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 101,
+        "spanish": "comer",
+        "english": "to eat",
+        "chinese": "吃",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 102,
+        "spanish": "beber",
+        "english": "to drink",
+        "chinese": "喝",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 103,
+        "spanish": "dormir",
+        "english": "to sleep",
+        "chinese": "睡觉",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 104,
+        "spanish": "caminar",
+        "english": "to walk",
+        "chinese": "走路",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 105,
+        "spanish": "comprar",
+        "english": "to buy",
+        "chinese": "买",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 106,
+        "spanish": "vender",
+        "english": "to sell",
+        "chinese": "卖",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 107,
+        "spanish": "cantar",
+        "english": "to sing",
+        "chinese": "唱歌",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 108,
+        "spanish": "bailar",
+        "english": "to dance",
+        "chinese": "跳舞",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 109,
+        "spanish": "cocinar",
+        "english": "to cook",
+        "chinese": "做饭",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 110,
+        "spanish": "limpiar",
+        "english": "to clean",
+        "chinese": "清洁",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 111,
+        "spanish": "construir",
+        "english": "to build",
+        "chinese": "建造",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 112,
+        "spanish": "romper",
+        "english": "to break",
+        "chinese": "打破",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 113,
+        "spanish": "cerrar",
+        "english": "to close",
+        "chinese": "关闭",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 114,
+        "spanish": "cortar",
+        "english": "to cut",
+        "chinese": "切/剪",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 115,
+        "spanish": "mover",
+        "english": "to move",
+        "chinese": "移动",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 116,
+        "spanish": "enviar",
+        "english": "to send",
+        "chinese": "发送",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 117,
+        "spanish": "viajar",
+        "english": "to travel",
+        "chinese": "旅行",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 118,
+        "spanish": "manejar",
+        "english": "to drive/handle",
+        "chinese": "驾驶/处理",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 119,
+        "spanish": "enseñar",
+        "english": "to teach",
+        "chinese": "教",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 120,
+        "spanish": "aprender",
+        "english": "to learn",
+        "chinese": "学习",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 121,
+        "spanish": "olvidar",
+        "english": "to forget",
+        "chinese": "忘记",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 122,
+        "spanish": "subir",
+        "english": "to go up/climb",
+        "chinese": "上升/爬",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 123,
+        "spanish": "bajar",
+        "english": "to go down/lower",
+        "chinese": "下降",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 124,
+        "spanish": "crecer",
+        "english": "to grow",
+        "chinese": "成长",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 125,
+        "spanish": "nadar",
+        "english": "to swim",
+        "chinese": "游泳",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 126,
+        "spanish": "volar",
+        "english": "to fly",
+        "chinese": "飞",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 127,
+        "spanish": "casar",
+        "english": "to marry",
+        "chinese": "结婚",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 128,
+        "spanish": "separar",
+        "english": "to separate",
+        "chinese": "分离",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 129,
+        "spanish": "amar",
+        "english": "to love",
+        "chinese": "爱",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 130,
+        "spanish": "odiar",
+        "english": "to hate",
+        "chinese": "恨",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 131,
+        "spanish": "reír",
+        "english": "to laugh",
+        "chinese": "笑",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 132,
+        "spanish": "llorar",
+        "english": "to cry",
+        "chinese": "哭",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 133,
+        "spanish": "gritar",
+        "english": "to shout",
+        "chinese": "喊叫",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 134,
+        "spanish": "callar",
+        "english": "to be quiet",
+        "chinese": "安静",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 135,
+        "spanish": "despertar",
+        "english": "to wake up",
+        "chinese": "醒来",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 136,
+        "spanish": "sentar",
+        "english": "to sit",
+        "chinese": "坐",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 137,
+        "spanish": "acostar",
+        "english": "to lie down",
+        "chinese": "躺下",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 138,
+        "spanish": "vestir",
+        "english": "to dress",
+        "chinese": "穿衣",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 139,
+        "spanish": "lavar",
+        "english": "to wash",
+        "chinese": "洗",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 140,
+        "spanish": "peinar",
+        "english": "to comb",
+        "chinese": "梳头",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 141,
+        "spanish": "elegir",
+        "english": "to choose",
+        "chinese": "选择",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 142,
+        "spanish": "recoger",
+        "english": "to pick up/collect",
+        "chinese": "收集",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 143,
+        "spanish": "tirar",
+        "english": "to throw",
+        "chinese": "扔",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 144,
+        "spanish": "empujar",
+        "english": "to push",
+        "chinese": "推",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 145,
+        "spanish": "tirar",
+        "english": "to pull",
+        "chinese": "拉",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 146,
+        "spanish": "apretar",
+        "english": "to squeeze/press",
+        "chinese": "挤压",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 147,
+        "spanish": "soltar",
+        "english": "to let go/release",
+        "chinese": "释放",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 148,
+        "spanish": "mentir",
+        "english": "to lie",
+        "chinese": "撒谎",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 149,
+        "spanish": "robar",
+        "english": "to steal",
+        "chinese": "偷",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 150,
+        "spanish": "matar",
+        "english": "to kill",
+        "chinese": "杀",
+        "category": "verb",
+        "level": "B1"
+    },
+    {
+        "id": 151,
+        "spanish": "curar",
+        "english": "to cure/heal",
+        "chinese": "治愈",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 152,
+        "spanish": "enfermar",
+        "english": "to get sick",
+        "chinese": "生病",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 153,
+        "spanish": "visitar",
+        "english": "to visit",
+        "chinese": "拜访",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 154,
+        "spanish": "invitar",
+        "english": "to invite",
+        "chinese": "邀请",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 155,
+        "spanish": "celebrar",
+        "english": "to celebrate",
+        "chinese": "庆祝",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 156,
+        "spanish": "felicitar",
+        "english": "to congratulate",
+        "chinese": "祝贺",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 157,
+        "spanish": "agradecer",
+        "english": "to thank",
+        "chinese": "感谢",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 158,
+        "spanish": "disculpar",
+        "english": "to excuse/forgive",
+        "chinese": "原谅",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 159,
+        "spanish": "perdonar",
+        "english": "to forgive",
+        "chinese": "宽恕",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 160,
+        "spanish": "saludar",
+        "english": "to greet",
+        "chinese": "问候",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 161,
+        "spanish": "despedir",
+        "english": "to say goodbye",
+        "chinese": "告别",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 162,
+        "spanish": "besar",
+        "english": "to kiss",
+        "chinese": "亲吻",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 163,
+        "spanish": "abrazar",
+        "english": "to hug",
+        "chinese": "拥抱",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 164,
+        "spanish": "acompañar",
+        "english": "to accompany",
+        "chinese": "陪伴",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 165,
+        "spanish": "proteger",
+        "english": "to protect",
+        "chinese": "保护",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 166,
+        "spanish": "atacar",
+        "english": "to attack",
+        "chinese": "攻击",
+        "category": "verb",
+        "level": "B1"
+    },
+    {
+        "id": 167,
+        "spanish": "defender",
+        "english": "to defend",
+        "chinese": "防御",
+        "category": "verb",
+        "level": "B1"
+    },
+    {
+        "id": 168,
+        "spanish": "luchar",
+        "english": "to fight",
+        "chinese": "战斗",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 169,
+        "spanish": "ganar",
+        "english": "to win",
+        "chinese": "赢",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 170,
+        "spanish": "perder",
+        "english": "to lose",
+        "chinese": "输",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 171,
+        "spanish": "competir",
+        "english": "to compete",
+        "chinese": "竞争",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 172,
+        "spanish": "participar",
+        "english": "to participate",
+        "chinese": "参与",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 173,
+        "spanish": "organizar",
+        "english": "to organize",
+        "chinese": "组织",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 174,
+        "spanish": "planear",
+        "english": "to plan",
+        "chinese": "计划",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 175,
+        "spanish": "preparar",
+        "english": "to prepare",
+        "chinese": "准备",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 176,
+        "spanish": "ordenar",
+        "english": "to order/command",
+        "chinese": "命令/点菜",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 177,
+        "spanish": "mandar",
+        "english": "to send/command",
+        "chinese": "发送/命令",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 178,
+        "spanish": "obedecer",
+        "english": "to obey",
+        "chinese": "服从",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 179,
+        "spanish": "prohibir",
+        "english": "to prohibit",
+        "chinese": "禁止",
+        "category": "verb",
+        "level": "B1"
+    },
+    {
+        "id": 180,
+        "spanish": "permitir",
+        "english": "to permit",
+        "chinese": "允许",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 181,
+        "spanish": "rechazar",
+        "english": "to reject",
+        "chinese": "拒绝",
+        "category": "verb",
+        "level": "B1"
+    },
+    {
+        "id": 182,
+        "spanish": "aceptar",
+        "english": "to accept",
+        "chinese": "接受",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 183,
+        "spanish": "evitar",
+        "english": "to avoid",
+        "chinese": "避免",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 184,
+        "spanish": "escapar",
+        "english": "to escape",
+        "chinese": "逃跑",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 185,
+        "spanish": "huir",
+        "english": "to flee",
+        "chinese": "逃跑",
+        "category": "verb",
+        "level": "B1"
+    },
+    {
+        "id": 186,
+        "spanish": "perseguir",
+        "english": "to pursue/chase",
+        "chinese": "追逐",
+        "category": "verb",
+        "level": "B1"
+    },
+    {
+        "id": 187,
+        "spanish": "alcanzar",
+        "english": "to reach/achieve",
+        "chinese": "达到",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 188,
+        "spanish": "tocar",
+        "english": "to touch",
+        "chinese": "触摸",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 189,
+        "spanish": "oler",
+        "english": "to smell",
+        "chinese": "闻",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 190,
+        "spanish": "saborear",
+        "english": "to taste",
+        "chinese": "品尝",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 191,
+        "spanish": "soñar",
+        "english": "to dream",
+        "chinese": "做梦",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 192,
+        "spanish": "imaginar",
+        "english": "to imagine",
+        "chinese": "想象",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 193,
+        "spanish": "esperar",
+        "english": "to hope/wait",
+        "chinese": "希望/等待",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 194,
+        "spanish": "desear",
+        "english": "to wish/desire",
+        "chinese": "渴望",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 195,
+        "spanish": "temer",
+        "english": "to fear",
+        "chinese": "害怕",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 196,
+        "spanish": "preocupar",
+        "english": "to worry",
+        "chinese": "担心",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 197,
+        "spanish": "relajar",
+        "english": "to relax",
+        "chinese": "放松",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 198,
+        "spanish": "divertir",
+        "english": "to have fun",
+        "chinese": "娱乐",
+        "category": "verb",
+        "level": "A1"
+    },
+    {
+        "id": 199,
+        "spanish": "aburrir",
+        "english": "to bore",
+        "chinese": "无聊",
+        "category": "verb",
+        "level": "A2"
+    },
+    {
+        "id": 200,
+        "spanish": "sorprender",
+        "english": "to surprise",
+        "chinese": "惊讶",
+        "category": "verb",
+        "level": "A2"
+    }
+]

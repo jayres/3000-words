@@ -1,95 +1,40 @@
 'use client';
 
-import { useState, useEffect, useCallback } from 'react';
-import a1Data from '../spanish_ai_terms/a1.json';
-import a2Data from '../spanish_ai_terms/a2.json';
-
-interface Word {
-  id: number;
-  spanish: string;
-  english: string;
-  chinese: string;
-  category: string;
-  level: string;
-}
-
-type Level = 'A1' | 'A2';
-type Language = 'english' | 'chinese';
+import { useState, useEffect, useMemo } from 'react';
+import GameOverScreen from './components/GameOverScreen';
+import { Word, Level, Language } from './types';
+import { answerQuestion, formatTime, getCurrentLevelData, startNewGame } from './utils';
+import LanguageChange from './components/LanguageSelect';
+import DifficultySelect from './components/DifficultySelect';
 
 export default function Home() {
-  const [currentWord, setCurrentWord] = useState<Word | null>(null);
-  const [options, setOptions] = useState<string[]>([]);
+  const [currentWord, setCurrentWord] = useState<Word | undefined>();
+  const [currentOptions, setCurrentOptions] = useState<Word[]>([]);
   const [score, setScore] = useState(0);
   const [message, setMessage] = useState('');
-  const [timeLeft, setTimeLeft] = useState(120); // 3 minutes in seconds
+  const [timeLeft, setTimeLeft] = useState(120); // 2 minutes in seconds
   const [isGameOver, setIsGameOver] = useState(false);
   const [highScore, setHighScore] = useState(0);
-  const [currentLevel, setCurrentLevel] = useState<Level>('A1');
-  const [currentLanguage, setCurrentLanguage] = useState<Language>('english');
 
-  const getCurrentLevelData = () => {
-    return currentLevel === 'A1' ? a1Data : a2Data;
-  };
+  const [currentLevel, setCurrentLevel] = useState<Level>(Level.A1);
+  const [currentLanguage, setCurrentLanguage] = useState<Language>(Language.English);
 
-  const getRandomWord = () => {
-    const data = getCurrentLevelData();
-    const randomIndex = Math.floor(Math.random() * data.length);
-    return data[randomIndex];
-  };
+  const levelWords = useMemo(() => getCurrentLevelData(currentLevel), [currentLevel]);
 
-  const getRandomOptions = useCallback((correctAnswer: string, language: Language) => {
-    const data = getCurrentLevelData();
-    const allOptions = data.map(word => word[language]);
-    const filteredOptions = allOptions.filter(option => option !== correctAnswer);
+  // const startNewRound = useCallback(() => {
+  //   const newWord = getRandomWord(levelWords);
+  //   const options = getRandomOptions(newWord[currentLanguage], currentLanguage, levelWords)
+  //   setCurrentWord(newWord);
+  //   setOptions(options);
+  // }, [currentLanguage, levelWords]);
 
-    // Fisher-Yates shuffle implementation
-    const shuffle = (array: string[]) => {
-      for (let i = array.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [array[i], array[j]] = [array[j], array[i]];
-      }
-      return array;
-    };
+  // const startNewGame = () => {
+  //   setScore(0);
+  //   setTimeLeft(120);
+  //   setIsGameOver(false);
+  //   startNewRound();
+  // };
 
-    // Shuffle filtered options and take first 3
-    const wrongOptions = shuffle([...filteredOptions]).slice(0, 3);
-    const allChoices = [...wrongOptions, correctAnswer];
-
-    // Shuffle final array
-    return shuffle(allChoices);
-  }, []);
-
-  const startNewRound = useCallback(() => {
-    const newWord = getRandomWord();
-    const options = getRandomOptions(newWord[currentLanguage], currentLanguage)
-    setCurrentWord(newWord);
-    setOptions(options);
-    setMessage('');
-  }, [currentLanguage]);
-
-  const startNewGame = () => {
-    setScore(0);
-    setTimeLeft(120);
-    setIsGameOver(false);
-    startNewRound();
-  };
-
-  const handleLevelChange = (level: Level) => {
-    setCurrentLevel(level);
-    setScore(0);
-    setTimeLeft(120);
-    setIsGameOver(false);
-    startNewRound();
-  };
-
-  const handleLanguageChange = (language: Language) => {
-    setCurrentLanguage(language);
-    const newWord = getRandomWord();
-    const newOptions = getRandomOptions(newWord[language], language);
-    setCurrentWord(newWord);
-    setOptions(newOptions);
-    setMessage('');
-  };
 
   useEffect(() => {
     if (!isGameOver) {
@@ -110,84 +55,41 @@ export default function Home() {
   }, [isGameOver, score, highScore]);
 
   useEffect(() => {
-    startNewRound();
-  }, []);
+    if (levelWords.length === 0) return;
+    startNewGame(levelWords, setScore, setTimeLeft, setIsGameOver, setCurrentWord, setCurrentOptions);
+  }, [levelWords]);
 
   useEffect(() => {
     const handleKeyPress = (event: KeyboardEvent) => {
-      if (isGameOver) return;
+      if (isGameOver || !currentWord) return;
 
       const key = event.key;
-      if (['1', '2', '3', '4'].includes(key)) {
+      if (['1', '2', '3', '4', '5'].includes(key)) {
         const index = parseInt(key) - 1;
-        if (index >= 0 && index < options.length) {
-          handleAnswer(options[index]);
+        if (index >= 0 && index < currentOptions.length) {
+          answerQuestion({
+            currentOptions,
+            currentWord,
+            levelWords,
+            selectedAnswer: currentOptions[index],
+            setMessage,
+            setCurrentOptions,
+            setCurrentWord,
+            setScore
+          });
         }
       }
     };
-
     window.addEventListener('keydown', handleKeyPress);
     return () => window.removeEventListener('keydown', handleKeyPress);
-  }, [options, isGameOver]);
+  }, [currentOptions, isGameOver]);
 
-  const handleAnswer = (selectedAnswer: string) => {
-    if (selectedAnswer === currentWord?.[currentLanguage]) {
-      setScore(prev => prev + 1);
-      setMessage('Correct! 🎉');
-      setTimeout(() => {
-        startNewRound();
-      }, 200);
-    } else {
-      setMessage('Try again! ❌');
-    }
-  };
-
-  const formatTime = (seconds: number) => {
-    const mins = Math.floor(seconds / 60);
-    const secs = seconds % 60;
-    return `${mins}:${secs.toString().padStart(2, '0')}`;
-  };
-
-  if (isGameOver) {
-    return (
-      <div className="min-h-screen bg-gray-100 flex flex-col items-center justify-center p-4">
-        <div className="bg-white rounded-lg shadow-lg p-8 max-w-md w-full text-center">
-          <h1 className="text-3xl font-bold mb-6">Game Over!</h1>
-          <p className="text-xl mb-4">Final Score: {score}</p>
-          <p className="text-lg mb-8">High Score: {highScore}</p>
-          <button
-            onClick={startNewGame}
-            className="bg-blue-500 text-white px-6 py-3 rounded-lg hover:bg-blue-600 transition-colors"
-          >
-            Play Again
-          </button>
-        </div>
-      </div>
-    );
-  }
+  if (!currentWord) return <p>...Loading</p>; // TODO: Add loading state
+  if (isGameOver) return <GameOverScreen highScore={highScore} score={score} startNewGame={() => startNewGame(levelWords, setScore, setTimeLeft, setIsGameOver, setCurrentWord, setCurrentOptions)} />
 
   return (
     <div className="min-h-screen bg-gray-100 flex flex-col items-center justify-center p-4">
-      <div className="flex space-x-2 mb-6 mt-6">
-        <button
-          onClick={() => handleLevelChange('A1')}
-          className={`flex-1 py-2 px-4 rounded-lg transition-colors ${currentLevel === 'A1'
-            ? 'bg-blue-500 text-white'
-            : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
-            }`}
-        >
-          A1 Level
-        </button>
-        <button
-          onClick={() => handleLevelChange('A2')}
-          className={`flex-1 py-2 px-4 rounded-lg transition-colors ${currentLevel === 'A2'
-            ? 'bg-blue-500 text-white'
-            : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
-            }`}
-        >
-          A2 Level
-        </button>
-      </div>
+      <DifficultySelect currentLevel={currentLevel} handleLevelChange={(level) => setCurrentLevel(level)} />
       <div className="bg-white rounded-lg shadow-lg p-8 max-w-md w-full">
         <div className="flex flex-col justify-center items-center mb-8">
           <p className="text-2xl font-bold text-blue-600">{formatTime(timeLeft)}</p>
@@ -199,16 +101,25 @@ export default function Home() {
           <p className="text-gray-600">Category: {currentWord?.category}</p>
         </div>
         <div className="space-y-3">
-          {options.map((option, index) => (
+          {currentOptions.map((option, index) => (
             <button
               key={index}
-              onClick={() => handleAnswer(option)}
+              onClick={() => answerQuestion({
+                currentOptions,
+                currentWord,
+                levelWords,
+                selectedAnswer: option,
+                setMessage,
+                setCurrentOptions,
+                setCurrentWord,
+                setScore
+              })}
               className="w-full p-3 text-left bg-blue-50 hover:bg-blue-100 rounded-lg transition-colors flex items-center text-lg"
             >
               <span className="bg-blue-600 text-white w-6 h-6 rounded-full flex items-center justify-center mr-3 text-sm font-bold">
                 {index + 1}
               </span>
-              {option}
+              {option[currentLanguage]}
             </button>
           ))}
         </div>
@@ -217,28 +128,9 @@ export default function Home() {
         </p>
         <div className="mt-3 text-center">
           <p className="text-2xl font-semibold">Score: {score}</p>
-          <p className="text-sm text-gray-600 mt-2">Press 1-4 to select an answer</p>
+          <p className="text-sm text-gray-600 mt-2">Press 1-5 to select an answer</p>
         </div>
-        <div className="mt-6 flex justify-center space-x-4">
-          <button
-            onClick={() => handleLanguageChange('english')}
-            className={`px-4 py-2 rounded-lg transition-colors ${currentLanguage === 'english'
-              ? 'bg-blue-500 text-white'
-              : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
-              }`}
-          >
-            English
-          </button>
-          <button
-            onClick={() => handleLanguageChange('chinese')}
-            className={`px-4 py-2 rounded-lg transition-colors ${currentLanguage === 'chinese'
-              ? 'bg-blue-500 text-white'
-              : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
-              }`}
-          >
-            中文
-          </button>
-        </div>
+        <LanguageChange currentLanguage={currentLanguage} setCurrentLanguage={setCurrentLanguage} />
       </div>
       <p className='text-gray-300 text-sm text-center mt-3'>&#169; {new Date().getFullYear()} James Ayres</p>
     </div>
