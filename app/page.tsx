@@ -68,7 +68,6 @@ export default function Home() {
         const index = parseInt(key) - 1;
         if (index >= 0 && index < currentOptions.length) {
           answerQuestion({
-            currentOptions,
             currentWord,
             levelWords,
             selectedAnswer: currentOptions[index],
@@ -82,7 +81,7 @@ export default function Home() {
     };
     window.addEventListener('keydown', handleKeyPress);
     return () => window.removeEventListener('keydown', handleKeyPress);
-  }, [currentOptions, isGameOver]);
+  }, [currentOptions, currentWord, isGameOver, levelWords]);
 
   if (!currentWord) return <p>...Loading</p>; // TODO: Add loading state
   if (isGameOver) return <GameOverScreen highScore={highScore} score={score} startNewGame={() => startNewGame(levelWords, setScore, setTimeLeft, setIsGameOver, setCurrentWord, setCurrentOptions)} />
@@ -105,7 +104,6 @@ export default function Home() {
             <button
               key={index}
               onClick={() => answerQuestion({
-                currentOptions,
                 currentWord,
                 levelWords,
                 selectedAnswer: option,

@@ -1,4 +1,4 @@
-import { Language, Level, Word } from "./types";
+import { Level, Word } from "./types";
 import A2_DATA from '../spanish_ai_terms/a1.json';
 import A1_DATA from '../spanish_ai_terms/a2.json';
 import VERBS_DATA from '../spanish_ai_terms/verbs.json';
@@ -45,7 +45,6 @@ export const getRandomOptions = (correctAnswer: Word, levelWords: Word[]) => {
 }
 
 export const answerQuestion = async ({
-  currentOptions,
   currentWord,
   levelWords,
   selectedAnswer,
@@ -54,7 +53,6 @@ export const answerQuestion = async ({
   setCurrentWord,
   setScore
 }: {
-  currentOptions: Word[];
   currentWord: Word;
   levelWords: Word[]
   selectedAnswer: Word;
