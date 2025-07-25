@@ -21,21 +21,6 @@ export default function Home() {
 
   const levelWords = useMemo(() => getCurrentLevelData(currentLevel), [currentLevel]);
 
-  // const startNewRound = useCallback(() => {
-  //   const newWord = getRandomWord(levelWords);
-  //   const options = getRandomOptions(newWord[currentLanguage], currentLanguage, levelWords)
-  //   setCurrentWord(newWord);
-  //   setOptions(options);
-  // }, [currentLanguage, levelWords]);
-
-  // const startNewGame = () => {
-  //   setScore(0);
-  //   setTimeLeft(120);
-  //   setIsGameOver(false);
-  //   startNewRound();
-  // };
-
-
   useEffect(() => {
     if (!isGameOver) {
       const timer = setInterval(() => {

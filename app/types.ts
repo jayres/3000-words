@@ -15,5 +15,4 @@ export interface Word {
     [Language.English]: string;
     [Language.Chinese]: string;
     category: string;
-    level: string;
 }
