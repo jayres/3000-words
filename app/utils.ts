@@ -2,6 +2,7 @@ import { Level, Word } from "./types";
 import A2_DATA from '../spanish_ai_terms/a1.json';
 import A1_DATA from '../spanish_ai_terms/a2.json';
 import VERBS_DATA from '../spanish_ai_terms/verbs.json';
+import ADVANCED_DATA from '../spanish_ai_terms/advanced.json';
 
 export const formatTime = (seconds: number) => {
   const mins = Math.floor(seconds / 60);
@@ -17,6 +18,8 @@ export const getCurrentLevelData = (level: Level) => {
       return A2_DATA;
     case Level.Verbs:
       return VERBS_DATA;
+    case Level.Advanced:
+      return ADVANCED_DATA;
     default:
       return []
   }

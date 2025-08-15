@@ -434,13 +434,6 @@
     "category": "adjective"
   },
   {
-    "id": 63,
-    "spanish": "venir",
-    "english": "to come",
-    "chinese": "来",
-    "category": "verb"
-  },
-  {
     "id": 64,
     "spanish": "desde",
     "english": "from, since",
@@ -732,13 +725,6 @@
     "spanish": "hoy",
     "english": "today",
     "chinese": "今天",
-    "category": "adverb"
-  },
-  {
-    "id": 106,
-    "spanish": "ayer",
-    "english": "yesterday",
-    "chinese": "昨天",
     "category": "adverb"
   },
   {
@@ -1138,13 +1124,6 @@
     "spanish": "partir",
     "english": "to leave, to depart",
     "chinese": "离开，出发",
-    "category": "verb"
-  },
-  {
-    "id": 164,
-    "spanish": "volver",
-    "english": "to return",
-    "chinese": "回来，返回",
     "category": "verb"
   },
   {
@@ -3650,6 +3629,13 @@
     "id": 554,
     "spanish": "oeste",
     "english": "west",
+    "chinese": "西",
+    "category": "noun"
+  },
+  {
+    "id": 800,
+    "spanish": "este",
+    "english": "east",
     "chinese": "西",
     "category": "noun"
   },

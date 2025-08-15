@@ -9,7 +9,7 @@ const DifficultySelect = ({ currentLevel, handleLevelChange }: DifficultySelectP
     <div className="flex space-x-2 mb-6 mt-6">
         <button
             onClick={() => handleLevelChange(Level.A1)}
-            className={`flex-1 py-2 px-4 rounded-lg transition-colors ${currentLevel === 'A1'
+            className={`flex-1 py-2 px-4 rounded-lg transition-colors ${currentLevel === Level.A1
                 ? 'bg-blue-500 text-white'
                 : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
                 }`}
@@ -18,7 +18,7 @@ const DifficultySelect = ({ currentLevel, handleLevelChange }: DifficultySelectP
         </button>
         <button
             onClick={() => handleLevelChange(Level.A2)}
-            className={`flex-1 py-2 px-4 rounded-lg transition-colors ${currentLevel === 'A2'
+            className={`flex-1 py-2 px-4 rounded-lg transition-colors ${currentLevel === Level.A2
                 ? 'bg-blue-500 text-white'
                 : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
                 }`}
@@ -27,12 +27,21 @@ const DifficultySelect = ({ currentLevel, handleLevelChange }: DifficultySelectP
         </button>
         <button
             onClick={() => handleLevelChange(Level.Verbs)}
-            className={`flex-1 py-2 px-4 rounded-lg transition-colors ${currentLevel === 'VERBS'
+            className={`flex-1 py-2 px-4 rounded-lg transition-colors ${currentLevel === Level.Verbs
                 ? 'bg-blue-500 text-white'
                 : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
                 }`}
         >
             Verbs
+        </button>
+        <button
+            onClick={() => handleLevelChange(Level.Advanced)}
+            className={`flex-1 py-2 px-4 rounded-lg transition-colors ${currentLevel === Level.Advanced
+                ? 'bg-blue-500 text-white'
+                : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+                }`}
+        >
+            Phrases & Misc
         </button>
     </div>
 )

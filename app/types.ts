@@ -1,7 +1,8 @@
 export enum Level {
     A1 = 'A1',
     A2 = 'A2',
-    Verbs = 'VERBS'
+    Verbs = 'VERBS',
+    Advanced = 'ADVANCED'
 }
 
 export enum Language {

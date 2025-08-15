@@ -1,0 +1,275 @@
+[
+    {
+        "id": 1,
+        "spanish": "acontecimiento",
+        "english": "event",
+        "chinese": "事件",
+        "category": "noun"
+    },
+    {
+        "id": 2,
+        "spanish": "senderismo",
+        "english": "hiking",
+        "chinese": "徒步旅行",
+        "category": "noun"
+    },
+    {
+        "id": 3,
+        "spanish": "paraninfo",
+        "english": "auditorium, assembly hall",
+        "chinese": "礼堂，会议厅",
+        "category": "noun"
+    },
+    {
+        "id": 4,
+        "spanish": "vale la pena",
+        "english": "it's worth it",
+        "chinese": "值得",
+        "category": "phrase"
+    },
+    {
+        "id": 5,
+        "spanish": "aliento",
+        "english": "breath, encouragement",
+        "chinese": "呼吸，鼓励",
+        "category": "noun"
+    },
+    {
+        "id": 6,
+        "spanish": "no me hacía gracia",
+        "english": "I didn't find it funny",
+        "chinese": "我不觉得好笑",
+        "category": "phrase"
+    },
+    {
+        "id": 7,
+        "spanish": "debes",
+        "english": "you must, you should",
+        "chinese": "你必须，你应该",
+        "category": "verb"
+    },
+    {
+        "id": 8,
+        "spanish": "como debes",
+        "english": "as you should",
+        "chinese": "正如你应该的",
+        "category": "phrase"
+    },
+    {
+        "id": 9,
+        "spanish": "no perderse algo",
+        "english": "not to miss something",
+        "chinese": "不要错过某事",
+        "category": "phrase"
+    },
+    {
+        "id": 10,
+        "spanish": "perder los papeles",
+        "english": "to lose one's temper",
+        "chinese": "发脾气",
+        "category": "phrase"
+    },
+    {
+        "id": 11,
+        "spanish": "ir de compras",
+        "english": "to go shopping",
+        "chinese": "去购物",
+        "category": "phrase"
+    },
+    {
+        "id": 12,
+        "spanish": "a carcajadas",
+        "english": "laughing out loud",
+        "chinese": "哈哈大笑",
+        "category": "phrase"
+    },
+    {
+        "id": 13,
+        "spanish": "en ayunas",
+        "english": "fasting, on an empty stomach",
+        "chinese": "空腹，禁食",
+        "category": "phrase"
+    },
+    {
+        "id": 14,
+        "spanish": "ponerse las botas",
+        "english": "to eat a lot, to pig out",
+        "chinese": "大吃特吃",
+        "category": "phrase"
+    },
+    {
+        "id": 15,
+        "spanish": "a duras penas",
+        "english": "barely, with great difficulty",
+        "chinese": "勉强，很困难地",
+        "category": "phrase"
+    },
+    {
+        "id": 16,
+        "spanish": "vigor",
+        "english": "vigor, strength",
+        "chinese": "活力，力量",
+        "category": "noun"
+    },
+    {
+        "id": 17,
+        "spanish": "va a gatas",
+        "english": "crawling, on all fours",
+        "chinese": "爬行，四肢着地",
+        "category": "phrase"
+    },
+    {
+        "id": 18,
+        "spanish": "vaya tela",
+        "english": "what a situation, what a mess",
+        "chinese": "什么情况，真是一团糟",
+        "category": "phrase"
+    },
+    {
+        "id": 19,
+        "spanish": "echar una cabezadita",
+        "english": "to take a nap",
+        "chinese": "小睡一会",
+        "category": "phrase"
+    },
+    {
+        "id": 20,
+        "spanish": "esporádicamente",
+        "english": "sporadically",
+        "chinese": "偶尔地",
+        "category": "adverb"
+    },
+    {
+        "id": 21,
+        "spanish": "capas de ropa",
+        "english": "layers of clothing",
+        "chinese": "衣服层",
+        "category": "phrase"
+    },
+    {
+        "id": 22,
+        "spanish": "mal genio",
+        "english": "bad temper",
+        "chinese": "坏脾气",
+        "category": "phrase"
+    },
+    {
+        "id": 23,
+        "spanish": "lo mismo",
+        "english": "the same thing",
+        "chinese": "同样的事情",
+        "category": "phrase"
+    },
+    {
+        "id": 24,
+        "spanish": "darse cuenta",
+        "english": "to realize",
+        "chinese": "意识到",
+        "category": "phrase"
+    },
+    {
+        "id": 25,
+        "spanish": "jarrón",
+        "english": "vase",
+        "chinese": "花瓶",
+        "category": "noun"
+    },
+    {
+        "id": 26,
+        "spanish": "enfadada",
+        "english": "angry (feminine)",
+        "chinese": "生气的（女性）",
+        "category": "adjective"
+    },
+    {
+        "id": 27,
+        "spanish": "estuve buscando",
+        "english": "I was looking for",
+        "chinese": "我在寻找",
+        "category": "phrase"
+    },
+    {
+        "id": 28,
+        "spanish": "edad media",
+        "english": "middle ages",
+        "chinese": "中世纪",
+        "category": "phrase"
+    },
+    {
+        "id": 29,
+        "spanish": "chisme",
+        "english": "gossip",
+        "chinese": "八卦",
+        "category": "noun"
+    },
+    {
+        "id": 30,
+        "spanish": "chismoso",
+        "english": "gossipy person",
+        "chinese": "爱八卦的人",
+        "category": "noun"
+    },
+    {
+        "id": 31,
+        "spanish": "despacho",
+        "english": "office, study",
+        "chinese": "办公室，书房",
+        "category": "noun"
+    },
+    {
+        "id": 32,
+        "spanish": "dime algo nuevo",
+        "english": "tell me something new",
+        "chinese": "告诉我一些新东西",
+        "category": "phrase"
+    },
+    {
+        "id": 33,
+        "spanish": "capricho",
+        "english": "whim, fancy",
+        "chinese": "心血来潮，任性",
+        "category": "noun"
+    },
+    {
+        "id": 34,
+        "spanish": "una y otra vez",
+        "english": "over and over again",
+        "chinese": "一次又一次",
+        "category": "phrase"
+    },
+    {
+        "id": 35,
+        "spanish": "dar mal rollo",
+        "english": "to give bad vibes",
+        "chinese": "给人不好的感觉",
+        "category": "phrase"
+    },
+    {
+        "id": 36,
+        "spanish": "herramientas",
+        "english": "tools",
+        "chinese": "工具",
+        "category": "noun"
+    },
+    {
+        "id": 37,
+        "spanish": "fontanero",
+        "english": "plumber",
+        "chinese": "水管工",
+        "category": "noun"
+    },
+    {
+        "id": 38,
+        "spanish": "ordenador",
+        "english": "computer",
+        "chinese": "电脑",
+        "category": "noun"
+    },
+    {
+        "id": 39,
+        "spanish": "estoy a régimen",
+        "english": "I'm on a diet",
+        "chinese": "我在节食",
+        "category": "phrase"
+    }
+]

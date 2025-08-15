@@ -1,12 +1,5 @@
 [
     {
-        "id": 1,
-        "spanish": "acontecimiento",
-        "english": "event",
-        "chinese": "事件",
-        "category": "noun"
-    },
-    {
         "id": 2,
         "spanish": "desarrollar",
         "english": "to develop",
@@ -1834,13 +1827,6 @@
         "category": "noun"
     },
     {
-        "id": 263,
-        "spanish": "dar",
-        "english": "to give",
-        "chinese": "给",
-        "category": "verb"
-    },
-    {
         "id": 264,
         "spanish": "el otro dia",
         "english": "the other day",
@@ -3148,5 +3134,516 @@
         "english": "you have to choose",
         "chinese": "你必须选择",
         "category": "verb phrase"
+    },
+    {
+        "id": 451,
+        "spanish": "ovejas",
+        "english": "sheep",
+        "chinese": "羊",
+        "category": "noun"
+    },
+    {
+        "id": 452,
+        "spanish": "fondos",
+        "english": "funds, background",
+        "chinese": "资金，背景",
+        "category": "noun"
+    },
+    {
+        "id": 453,
+        "spanish": "espía",
+        "english": "spy",
+        "chinese": "间谍",
+        "category": "noun"
+    },
+    {
+        "id": 454,
+        "spanish": "comisaría",
+        "english": "police station",
+        "chinese": "警察局",
+        "category": "noun"
+    },
+    {
+        "id": 455,
+        "spanish": "debería",
+        "english": "should, ought to",
+        "chinese": "应该",
+        "category": "verb"
+    },
+    {
+        "id": 456,
+        "spanish": "tómbola",
+        "english": "tombola, raffle",
+        "chinese": "抽奖",
+        "category": "noun"
+    },
+    {
+        "id": 457,
+        "spanish": "temerarlo",
+        "english": "to fear it",
+        "chinese": "害怕它",
+        "category": "verb phrase"
+    },
+    {
+        "id": 458,
+        "spanish": "cosecha",
+        "english": "harvest",
+        "chinese": "收获",
+        "category": "noun"
+    },
+    {
+        "id": 459,
+        "spanish": "burlona",
+        "english": "mocking, teasing",
+        "chinese": "嘲笑的，戏弄的",
+        "category": "adjective"
+    },
+    {
+        "id": 460,
+        "spanish": "cotidiana",
+        "english": "daily, everyday",
+        "chinese": "日常的，每天的",
+        "category": "adjective"
+    },
+    {
+        "id": 461,
+        "spanish": "estropeado",
+        "english": "broken, damaged",
+        "chinese": "坏的，损坏的",
+        "category": "adjective"
+    },
+    {
+        "id": 462,
+        "spanish": "rentable",
+        "english": "profitable",
+        "chinese": "有利可图的",
+        "category": "adjective"
+    },
+    {
+        "id": 463,
+        "spanish": "divulgado",
+        "english": "disclosed, published",
+        "chinese": "公开的，发布的",
+        "category": "adjective"
+    },
+    {
+        "id": 464,
+        "spanish": "voluntad",
+        "english": "will, willingness",
+        "chinese": "意志，意愿",
+        "category": "noun"
+    },
+    {
+        "id": 465,
+        "spanish": "infarto",
+        "english": "heart attack",
+        "chinese": "心脏病发作",
+        "category": "noun"
+    },
+    {
+        "id": 466,
+        "spanish": "perejil",
+        "english": "parsley",
+        "chinese": "欧芹",
+        "category": "noun"
+    },
+    {
+        "id": 467,
+        "spanish": "pestañas",
+        "english": "eyelashes",
+        "chinese": "睫毛",
+        "category": "noun"
+    },
+    {
+        "id": 468,
+        "spanish": "alas",
+        "english": "wings",
+        "chinese": "翅膀",
+        "category": "noun"
+    },
+    {
+        "id": 469,
+        "spanish": "suposición",
+        "english": "assumption",
+        "chinese": "假设",
+        "category": "noun"
+    },
+    {
+        "id": 470,
+        "spanish": "pringado",
+        "english": "sticky, messy",
+        "chinese": "粘的，凌乱的",
+        "category": "adjective"
+    },
+    {
+        "id": 471,
+        "spanish": "deudas",
+        "english": "debts",
+        "chinese": "债务",
+        "category": "noun"
+    },
+    {
+        "id": 472,
+        "spanish": "penas",
+        "english": "sorrows, difficulties",
+        "chinese": "悲伤，困难",
+        "category": "noun"
+    },
+    {
+        "id": 473,
+        "spanish": "bote",
+        "english": "boat, jar",
+        "chinese": "船，罐子",
+        "category": "noun"
+    },
+    {
+        "id": 474,
+        "spanish": "rosco",
+        "english": "ring, donut",
+        "chinese": "环形，甜甜圈",
+        "category": "noun"
+    },
+    {
+        "id": 475,
+        "spanish": "concurso",
+        "english": "contest, competition",
+        "chinese": "比赛，竞赛",
+        "category": "noun"
+    },
+    {
+        "id": 476,
+        "spanish": "gravedad",
+        "english": "gravity, seriousness",
+        "chinese": "重力，严重性",
+        "category": "noun"
+    },
+    {
+        "id": 477,
+        "spanish": "locutor",
+        "english": "announcer, presenter",
+        "chinese": "播音员，主持人",
+        "category": "noun"
+    },
+    {
+        "id": 478,
+        "spanish": "oyente",
+        "english": "listener",
+        "chinese": "听众",
+        "category": "noun"
+    },
+    {
+        "id": 479,
+        "spanish": "víveres",
+        "english": "provisions, food supplies",
+        "chinese": "食物供应，口粮",
+        "category": "noun"
+    },
+    {
+        "id": 480,
+        "spanish": "añicos",
+        "english": "pieces, fragments",
+        "chinese": "碎片，片",
+        "category": "noun"
+    },
+    {
+        "id": 481,
+        "spanish": "vaqueros",
+        "english": "jeans",
+        "chinese": "牛仔裤",
+        "category": "noun"
+    },
+    {
+        "id": 482,
+        "spanish": "entrevista",
+        "english": "interview",
+        "chinese": "面试，采访",
+        "category": "noun"
+    },
+    {
+        "id": 483,
+        "spanish": "sencilla",
+        "english": "simple, easy",
+        "chinese": "简单的，容易的",
+        "category": "adjective"
+    },
+    {
+        "id": 484,
+        "spanish": "crudas",
+        "english": "raw",
+        "chinese": "生的",
+        "category": "adjective"
+    },
+    {
+        "id": 485,
+        "spanish": "hervidas",
+        "english": "boiled",
+        "chinese": "煮熟的",
+        "category": "adjective"
+    },
+    {
+        "id": 486,
+        "spanish": "tijeras",
+        "english": "scissors",
+        "chinese": "剪刀",
+        "category": "noun"
+    },
+    {
+        "id": 487,
+        "spanish": "fracasa",
+        "english": "fails",
+        "chinese": "失败",
+        "category": "verb"
+    },
+    {
+        "id": 488,
+        "spanish": "velero",
+        "english": "sailboat",
+        "chinese": "帆船",
+        "category": "noun"
+    },
+    {
+        "id": 489,
+        "spanish": "normas",
+        "english": "rules, standards",
+        "chinese": "规则，标准",
+        "category": "noun"
+    },
+    {
+        "id": 490,
+        "spanish": "pasajeros",
+        "english": "passengers",
+        "chinese": "乘客",
+        "category": "noun"
+    },
+    {
+        "id": 491,
+        "spanish": "beca",
+        "english": "scholarship",
+        "chinese": "奖学金",
+        "category": "noun"
+    },
+    {
+        "id": 492,
+        "spanish": "estropeado",
+        "english": "broken, damaged",
+        "chinese": "坏的，损坏的",
+        "category": "adjective"
+    },
+    {
+        "id": 493,
+        "spanish": "cola",
+        "english": "tail, queue",
+        "chinese": "尾巴，队伍",
+        "category": "noun"
+    },
+    {
+        "id": 494,
+        "spanish": "cerdo",
+        "english": "pig",
+        "chinese": "猪",
+        "category": "noun"
+    },
+    {
+        "id": 495,
+        "spanish": "prisa",
+        "english": "hurry, rush",
+        "chinese": "匆忙，急",
+        "category": "noun"
+    },
+    {
+        "id": 496,
+        "spanish": "multa",
+        "english": "fine, penalty",
+        "chinese": "罚款",
+        "category": "noun"
+    },
+    {
+        "id": 497,
+        "spanish": "pieza",
+        "english": "piece, part",
+        "chinese": "片，部分",
+        "category": "noun"
+    },
+    {
+        "id": 498,
+        "spanish": "encima",
+        "english": "on top, above",
+        "chinese": "在上面",
+        "category": "adverb"
+    },
+    {
+        "id": 499,
+        "spanish": "pájaro",
+        "english": "bird",
+        "chinese": "鸟",
+        "category": "noun"
+    },
+    {
+        "id": 500,
+        "spanish": "guindas",
+        "english": "sour cherries",
+        "chinese": "酸樱桃",
+        "category": "noun"
+    },
+    {
+        "id": 501,
+        "spanish": "cerezas",
+        "english": "cherries",
+        "chinese": "樱桃",
+        "category": "noun"
+    },
+    {
+        "id": 502,
+        "spanish": "gorra",
+        "english": "cap, hat",
+        "chinese": "帽子",
+        "category": "noun"
+    },
+    {
+        "id": 503,
+        "spanish": "gorro",
+        "english": "hat, cap",
+        "chinese": "帽子",
+        "category": "noun"
+    },
+    {
+        "id": 504,
+        "spanish": "hacha",
+        "english": "axe",
+        "chinese": "斧头",
+        "category": "noun"
+    },
+    {
+        "id": 505,
+        "spanish": "asombrosa",
+        "english": "amazing, astonishing",
+        "chinese": "令人惊讶的",
+        "category": "adjective"
+    },
+    {
+        "id": 506,
+        "spanish": "tracaras",
+        "english": "you will bring",
+        "chinese": "你会带来",
+        "category": "verb"
+    },
+    {
+        "id": 507,
+        "spanish": "llanura",
+        "english": "plain, flatland",
+        "chinese": "平原",
+        "category": "noun"
+    },
+    {
+        "id": 508,
+        "spanish": "oculto",
+        "english": "hidden, concealed",
+        "chinese": "隐藏的",
+        "category": "adjective"
+    },
+    {
+        "id": 509,
+        "spanish": "aterrizaje",
+        "english": "landing",
+        "chinese": "着陆",
+        "category": "noun"
+    },
+    {
+        "id": 510,
+        "spanish": "cesto",
+        "english": "basket",
+        "chinese": "篮子",
+        "category": "noun"
+    },
+    {
+        "id": 511,
+        "spanish": "retrasaron",
+        "english": "they delayed",
+        "chinese": "他们延迟了",
+        "category": "verb"
+    },
+    {
+        "id": 512,
+        "spanish": "carretera",
+        "english": "highway, road",
+        "chinese": "公路，道路",
+        "category": "noun"
+    },
+    {
+        "id": 513,
+        "spanish": "vuelo",
+        "english": "flight",
+        "chinese": "航班",
+        "category": "noun"
+    },
+    {
+        "id": 514,
+        "spanish": "sucede",
+        "english": "happens",
+        "chinese": "发生",
+        "category": "verb"
+    },
+    {
+        "id": 515,
+        "spanish": "estafa",
+        "english": "fraud, scam",
+        "chinese": "诈骗",
+        "category": "noun"
+    },
+    {
+        "id": 516,
+        "spanish": "algas",
+        "english": "algae",
+        "chinese": "藻类",
+        "category": "noun"
+    },
+    {
+        "id": 517,
+        "spanish": "agujero",
+        "english": "hole",
+        "chinese": "洞",
+        "category": "noun"
+    },
+    {
+        "id": 518,
+        "spanish": "corrientes",
+        "english": "currents, streams",
+        "chinese": "水流，溪流",
+        "category": "noun"
+    },
+    {
+        "id": 519,
+        "spanish": "alrededor",
+        "english": "around, surrounding",
+        "chinese": "周围，环绕",
+        "category": "adverb"
+    },
+    {
+        "id": 520,
+        "spanish": "desequilibrio",
+        "english": "imbalance",
+        "chinese": "不平衡",
+        "category": "noun"
+    },
+    {
+        "id": 521,
+        "spanish": "herido",
+        "english": "injured, wounded",
+        "chinese": "受伤的",
+        "category": "adjective"
+    },
+    {
+        "id": 522,
+        "spanish": "perdido",
+        "english": "lost",
+        "chinese": "迷路的",
+        "category": "adjective"
+    },
+    {
+        "id": 523,
+        "spanish": "borracho",
+        "english": "drunk",
+        "chinese": "喝醉的",
+        "category": "adjective"
     }
 ]

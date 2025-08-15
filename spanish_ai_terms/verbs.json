@@ -105,13 +105,6 @@
         "category": "verb"
     },
     {
-        "id": 16,
-        "spanish": "quedar",
-        "english": "to stay/remain",
-        "chinese": "留下/保持",
-        "category": "verb"
-    },
-    {
         "id": 17,
         "spanish": "creer",
         "english": "to believe",
@@ -144,13 +137,6 @@
         "spanish": "seguir",
         "english": "to follow/continue",
         "chinese": "跟随/继续",
-        "category": "verb"
-    },
-    {
-        "id": 22,
-        "spanish": "encontrar",
-        "english": "to find/meet",
-        "chinese": "找到/遇到",
         "category": "verb"
     },
     {
@@ -1827,13 +1813,6 @@
         "category": "verb"
     },
     {
-        "id": 262,
-        "spanish": "dejar",
-        "english": "to leave, to let, to allow",
-        "chinese": "离开，让，允许",
-        "category": "verb"
-    },
-    {
         "id": 263,
         "spanish": "cuidarse",
         "english": "to take care of oneself",
@@ -1859,6 +1838,97 @@
         "spanish": "emperorar",
         "english": "to worsen, to deteriorate",
         "chinese": "恶化，变坏",
+        "category": "verb"
+    },
+    {
+        "id": 267,
+        "spanish": "coser",
+        "english": "to sew",
+        "chinese": "缝纫",
+        "category": "verb"
+    },
+    {
+        "id": 269,
+        "spanish": "parecerse",
+        "english": "to resemble, to look like",
+        "chinese": "相似，看起来像",
+        "category": "verb"
+    },
+    {
+        "id": 270,
+        "spanish": "aprovechar",
+        "english": "to take advantage of, to make use of",
+        "chinese": "利用，充分利用",
+        "category": "verb"
+    },
+    {
+        "id": 271,
+        "spanish": "cocer",
+        "english": "to cook, to boil",
+        "chinese": "烹饪，煮沸",
+        "category": "verb"
+    },
+    {
+        "id": 272,
+        "spanish": "hervir",
+        "english": "to boil",
+        "chinese": "煮沸",
+        "category": "verb"
+    },
+    {
+        "id": 273,
+        "spanish": "rastraer",
+        "english": "to drag, to haul",
+        "chinese": "拖拽，拉",
+        "category": "verb"
+    },
+    {
+        "id": 274,
+        "spanish": "enterarse",
+        "english": "to find out, to learn about",
+        "chinese": "发现，了解",
+        "category": "verb"
+    },
+    {
+        "id": 275,
+        "spanish": "sorprender",
+        "english": "to surprise",
+        "chinese": "使惊讶",
+        "category": "verb"
+    },
+    {
+        "id": 276,
+        "spanish": "barajar",
+        "english": "to shuffle, to consider",
+        "chinese": "洗牌，考虑",
+        "category": "verb"
+    },
+    {
+        "id": 277,
+        "spanish": "ayunar",
+        "english": "to fast",
+        "chinese": "禁食",
+        "category": "verb"
+    },
+    {
+        "id": 278,
+        "spanish": "reírse",
+        "english": "to laugh",
+        "chinese": "笑",
+        "category": "verb"
+    },
+    {
+        "id": 279,
+        "spanish": "burlarse",
+        "english": "to mock, to make fun of",
+        "chinese": "嘲笑，取笑",
+        "category": "verb"
+    },
+    {
+        "id": 280,
+        "spanish": "morderse",
+        "english": "to bite oneself",
+        "chinese": "咬自己",
         "category": "verb"
     }
 ]
