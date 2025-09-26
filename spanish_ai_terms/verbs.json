@@ -105,1830 +105,1893 @@
         "category": "verb"
     },
     {
-        "id": 17,
+        "id": 16,
         "spanish": "creer",
         "english": "to believe",
         "chinese": "相信",
         "category": "verb"
     },
     {
-        "id": 18,
+        "id": 17,
         "spanish": "hablar",
         "english": "to speak/talk",
         "chinese": "说话",
         "category": "verb"
     },
     {
-        "id": 19,
+        "id": 18,
         "spanish": "llevar",
         "english": "to carry/wear",
         "chinese": "携带/穿着",
         "category": "verb"
     },
     {
-        "id": 20,
+        "id": 19,
         "spanish": "dejar",
         "english": "to leave/let",
         "chinese": "离开/让",
         "category": "verb"
     },
     {
-        "id": 21,
+        "id": 20,
         "spanish": "seguir",
         "english": "to follow/continue",
         "chinese": "跟随/继续",
         "category": "verb"
     },
     {
-        "id": 23,
+        "id": 21,
         "spanish": "llamar",
         "english": "to call",
         "chinese": "叫/打电话",
         "category": "verb"
     },
     {
-        "id": 24,
+        "id": 22,
         "spanish": "venir",
         "english": "to come",
         "chinese": "来",
         "category": "verb"
     },
     {
-        "id": 25,
+        "id": 23,
         "spanish": "pensar",
         "english": "to think",
         "chinese": "想/思考",
         "category": "verb"
     },
     {
-        "id": 26,
+        "id": 24,
         "spanish": "salir",
         "english": "to leave/go out",
         "chinese": "离开/出去",
         "category": "verb"
     },
     {
-        "id": 27,
+        "id": 25,
         "spanish": "volver",
         "english": "to return",
         "chinese": "返回",
         "category": "verb"
     },
     {
-        "id": 28,
+        "id": 26,
         "spanish": "tomar",
         "english": "to take/drink",
         "chinese": "拿/喝",
         "category": "verb"
     },
     {
-        "id": 29,
+        "id": 27,
         "spanish": "conocer",
         "english": "to know (people/places)",
         "chinese": "认识/了解",
         "category": "verb"
     },
     {
-        "id": 30,
+        "id": 28,
         "spanish": "vivir",
         "english": "to live",
         "chinese": "生活/居住",
         "category": "verb"
     },
     {
-        "id": 31,
+        "id": 29,
         "spanish": "sentir",
         "english": "to feel",
         "chinese": "感觉",
         "category": "verb"
     },
     {
-        "id": 32,
+        "id": 30,
         "spanish": "tratar",
         "english": "to try/treat",
         "chinese": "尝试/治疗",
         "category": "verb"
     },
     {
-        "id": 33,
+        "id": 31,
         "spanish": "mirar",
         "english": "to look at",
         "chinese": "看",
         "category": "verb"
     },
     {
-        "id": 34,
+        "id": 32,
         "spanish": "contar",
         "english": "to count/tell",
         "chinese": "数/讲述",
         "category": "verb"
     },
     {
-        "id": 35,
+        "id": 33,
         "spanish": "empezar",
         "english": "to begin",
         "chinese": "开始",
         "category": "verb"
     },
     {
-        "id": 36,
+        "id": 34,
         "spanish": "esperar",
         "english": "to wait/hope",
         "chinese": "等待/希望",
         "category": "verb"
     },
     {
-        "id": 37,
+        "id": 35,
         "spanish": "buscar",
         "english": "to look for",
         "chinese": "寻找",
         "category": "verb"
     },
     {
-        "id": 38,
+        "id": 36,
         "spanish": "existir",
         "english": "to exist",
         "chinese": "存在",
         "category": "verb"
     },
     {
-        "id": 39,
+        "id": 37,
         "spanish": "entrar",
         "english": "to enter",
         "chinese": "进入",
         "category": "verb"
     },
     {
-        "id": 40,
+        "id": 38,
         "spanish": "trabajar",
         "english": "to work",
         "chinese": "工作",
         "category": "verb"
     },
     {
-        "id": 41,
+        "id": 39,
         "spanish": "escribir",
         "english": "to write",
         "chinese": "写",
         "category": "verb"
     },
     {
-        "id": 42,
+        "id": 40,
         "spanish": "perder",
         "english": "to lose",
         "chinese": "失去/迷路",
         "category": "verb"
     },
     {
-        "id": 43,
+        "id": 41,
         "spanish": "producir",
         "english": "to produce",
         "chinese": "生产",
         "category": "verb"
     },
     {
-        "id": 44,
+        "id": 42,
         "spanish": "ocurrir",
         "english": "to occur/happen",
         "chinese": "发生",
         "category": "verb"
     },
     {
-        "id": 45,
+        "id": 43,
         "spanish": "entender",
         "english": "to understand",
         "chinese": "理解",
         "category": "verb"
     },
     {
-        "id": 46,
+        "id": 44,
         "spanish": "pedir",
         "english": "to ask for/request",
         "chinese": "请求/要求",
         "category": "verb"
     },
     {
-        "id": 47,
+        "id": 45,
         "spanish": "recibir",
         "english": "to receive",
         "chinese": "接收",
         "category": "verb"
     },
     {
-        "id": 48,
+        "id": 46,
         "spanish": "recordar",
         "english": "to remember",
         "chinese": "记住",
         "category": "verb"
     },
     {
-        "id": 49,
+        "id": 47,
         "spanish": "terminar",
         "english": "to finish",
         "chinese": "完成",
         "category": "verb"
     },
     {
-        "id": 50,
+        "id": 48,
         "spanish": "permitir",
         "english": "to allow/permit",
         "chinese": "允许",
         "category": "verb"
     },
     {
-        "id": 51,
+        "id": 49,
         "spanish": "aparecer",
         "english": "to appear",
         "chinese": "出现",
         "category": "verb"
     },
     {
-        "id": 52,
+        "id": 50,
         "spanish": "conseguir",
         "english": "to get/obtain",
         "chinese": "获得",
         "category": "verb"
     },
     {
-        "id": 53,
+        "id": 51,
         "spanish": "comenzar",
         "english": "to begin",
         "chinese": "开始",
         "category": "verb"
     },
     {
-        "id": 54,
+        "id": 52,
         "spanish": "servir",
         "english": "to serve",
         "chinese": "服务",
         "category": "verb"
     },
     {
-        "id": 55,
+        "id": 53,
         "spanish": "sacar",
         "english": "to take out",
         "chinese": "拿出",
         "category": "verb"
     },
     {
-        "id": 56,
+        "id": 54,
         "spanish": "necesitar",
         "english": "to need",
         "chinese": "需要",
         "category": "verb"
     },
     {
-        "id": 57,
+        "id": 55,
         "spanish": "mantener",
         "english": "to maintain",
         "chinese": "保持",
         "category": "verb"
     },
     {
-        "id": 58,
+        "id": 56,
         "spanish": "resultar",
         "english": "to result/turn out",
         "chinese": "结果是",
         "category": "verb"
     },
     {
-        "id": 59,
+        "id": 57,
         "spanish": "leer",
         "english": "to read",
         "chinese": "读",
         "category": "verb"
     },
     {
-        "id": 60,
+        "id": 58,
         "spanish": "caer",
         "english": "to fall",
         "chinese": "跌倒",
         "category": "verb"
     },
     {
-        "id": 61,
+        "id": 59,
         "spanish": "cambiar",
         "english": "to change",
         "chinese": "改变",
         "category": "verb"
     },
     {
-        "id": 62,
+        "id": 60,
         "spanish": "presentar",
         "english": "to present",
         "chinese": "展示",
         "category": "verb"
     },
     {
-        "id": 63,
+        "id": 61,
         "spanish": "crear",
         "english": "to create",
         "chinese": "创造",
         "category": "verb"
     },
     {
-        "id": 64,
+        "id": 62,
         "spanish": "abrir",
         "english": "to open",
         "chinese": "打开",
         "category": "verb"
     },
     {
-        "id": 65,
+        "id": 63,
         "spanish": "considerar",
         "english": "to consider",
         "chinese": "考虑",
         "category": "verb"
     },
     {
-        "id": 66,
+        "id": 64,
         "spanish": "oír",
         "english": "to hear",
         "chinese": "听到",
         "category": "verb"
     },
     {
-        "id": 67,
+        "id": 65,
         "spanish": "acabar",
         "english": "to finish",
         "chinese": "完成",
         "category": "verb"
     },
     {
-        "id": 68,
+        "id": 66,
         "spanish": "convertir",
         "english": "to convert",
         "chinese": "转换",
         "category": "verb"
     },
     {
-        "id": 69,
+        "id": 67,
         "spanish": "ganar",
         "english": "to win/earn",
         "chinese": "赢得/赚",
         "category": "verb"
     },
     {
-        "id": 70,
+        "id": 68,
         "spanish": "formar",
         "english": "to form",
         "chinese": "形成",
         "category": "verb"
     },
     {
-        "id": 71,
+        "id": 69,
         "spanish": "traer",
         "english": "to bring",
         "chinese": "带来",
         "category": "verb"
     },
     {
-        "id": 72,
+        "id": 70,
         "spanish": "partir",
         "english": "to leave/split",
         "chinese": "离开/分割",
         "category": "verb"
     },
     {
-        "id": 73,
+        "id": 71,
         "spanish": "morir",
         "english": "to die",
         "chinese": "死",
         "category": "verb"
     },
     {
-        "id": 74,
+        "id": 72,
         "spanish": "aceptar",
         "english": "to accept",
         "chinese": "接受",
         "category": "verb"
     },
     {
-        "id": 75,
+        "id": 73,
         "spanish": "realizar",
         "english": "to carry out",
         "chinese": "实现",
         "category": "verb"
     },
     {
-        "id": 76,
+        "id": 74,
         "spanish": "suponer",
         "english": "to suppose",
         "chinese": "假设",
         "category": "verb"
     },
     {
-        "id": 77,
+        "id": 75,
         "spanish": "comprender",
         "english": "to understand",
         "chinese": "理解",
         "category": "verb"
     },
     {
-        "id": 78,
+        "id": 76,
         "spanish": "lograr",
         "english": "to achieve",
         "chinese": "实现",
         "category": "verb"
     },
     {
-        "id": 79,
+        "id": 77,
         "spanish": "explicar",
         "english": "to explain",
         "chinese": "解释",
         "category": "verb"
     },
     {
-        "id": 80,
+        "id": 78,
         "spanish": "preguntar",
         "english": "to ask",
         "chinese": "问",
         "category": "verb"
     },
     {
-        "id": 81,
+        "id": 79,
         "spanish": "tocar",
         "english": "to touch/play",
         "chinese": "触摸/演奏",
         "category": "verb"
     },
     {
-        "id": 82,
+        "id": 80,
         "spanish": "reconocer",
         "english": "to recognize",
         "chinese": "认出",
         "category": "verb"
     },
     {
-        "id": 83,
+        "id": 81,
         "spanish": "estudiar",
         "english": "to study",
         "chinese": "学习",
         "category": "verb"
     },
     {
-        "id": 84,
+        "id": 82,
         "spanish": "alcanzar",
         "english": "to reach",
         "chinese": "到达",
         "category": "verb"
     },
     {
-        "id": 85,
+        "id": 83,
         "spanish": "nacer",
         "english": "to be born",
         "chinese": "出生",
         "category": "verb"
     },
     {
-        "id": 86,
+        "id": 84,
         "spanish": "dirigir",
         "english": "to direct",
         "chinese": "指导",
         "category": "verb"
     },
     {
-        "id": 87,
+        "id": 85,
         "spanish": "correr",
         "english": "to run",
         "chinese": "跑",
         "category": "verb"
     },
     {
-        "id": 88,
+        "id": 86,
         "spanish": "utilizar",
         "english": "to use",
         "chinese": "使用",
         "category": "verb"
     },
     {
-        "id": 89,
+        "id": 87,
         "spanish": "pagar",
         "english": "to pay",
         "chinese": "付款",
         "category": "verb"
     },
     {
-        "id": 90,
+        "id": 88,
         "spanish": "ayudar",
         "english": "to help",
         "chinese": "帮助",
         "category": "verb"
     },
     {
-        "id": 91,
+        "id": 89,
         "spanish": "gustar",
         "english": "to like/please",
         "chinese": "喜欢",
         "category": "verb"
     },
     {
-        "id": 92,
+        "id": 90,
         "spanish": "jugar",
         "english": "to play",
         "chinese": "玩",
         "category": "verb"
     },
     {
-        "id": 93,
+        "id": 91,
         "spanish": "escuchar",
         "english": "to listen",
         "chinese": "听",
         "category": "verb"
     },
     {
-        "id": 94,
+        "id": 92,
         "spanish": "cumplir",
         "english": "to fulfill",
         "chinese": "履行",
         "category": "verb"
     },
     {
-        "id": 95,
+        "id": 93,
         "spanish": "ofrecer",
         "english": "to offer",
         "chinese": "提供",
         "category": "verb"
     },
     {
-        "id": 96,
+        "id": 94,
         "spanish": "descubrir",
         "english": "to discover",
         "chinese": "发现",
         "category": "verb"
     },
     {
-        "id": 97,
+        "id": 95,
         "spanish": "levantar",
         "english": "to lift/raise",
         "chinese": "举起",
         "category": "verb"
     },
     {
-        "id": 98,
+        "id": 96,
         "spanish": "intentar",
         "english": "to try",
         "chinese": "尝试",
         "category": "verb"
     },
     {
-        "id": 99,
+        "id": 97,
         "spanish": "usar",
         "english": "to use",
         "chinese": "使用",
         "category": "verb"
     },
     {
-        "id": 100,
+        "id": 98,
         "spanish": "decidir",
         "english": "to decide",
         "chinese": "决定",
         "category": "verb"
     },
     {
-        "id": 101,
+        "id": 99,
         "spanish": "comer",
         "english": "to eat",
         "chinese": "吃",
         "category": "verb"
     },
     {
-        "id": 102,
+        "id": 100,
         "spanish": "beber",
         "english": "to drink",
         "chinese": "喝",
         "category": "verb"
     },
     {
-        "id": 103,
+        "id": 101,
         "spanish": "dormir",
         "english": "to sleep",
         "chinese": "睡觉",
         "category": "verb"
     },
     {
-        "id": 104,
+        "id": 102,
         "spanish": "caminar",
         "english": "to walk",
         "chinese": "走路",
         "category": "verb"
     },
     {
-        "id": 105,
+        "id": 103,
         "spanish": "comprar",
         "english": "to buy",
         "chinese": "买",
         "category": "verb"
     },
     {
-        "id": 106,
+        "id": 104,
         "spanish": "vender",
         "english": "to sell",
         "chinese": "卖",
         "category": "verb"
     },
     {
-        "id": 107,
+        "id": 105,
         "spanish": "cantar",
         "english": "to sing",
         "chinese": "唱歌",
         "category": "verb"
     },
     {
-        "id": 108,
+        "id": 106,
         "spanish": "bailar",
         "english": "to dance",
         "chinese": "跳舞",
         "category": "verb"
     },
     {
-        "id": 109,
+        "id": 107,
         "spanish": "cocinar",
         "english": "to cook",
         "chinese": "做饭",
         "category": "verb"
     },
     {
-        "id": 110,
+        "id": 108,
         "spanish": "limpiar",
         "english": "to clean",
         "chinese": "清洁",
         "category": "verb"
     },
     {
-        "id": 111,
+        "id": 109,
         "spanish": "construir",
         "english": "to build",
         "chinese": "建造",
         "category": "verb"
     },
     {
-        "id": 112,
+        "id": 110,
         "spanish": "romper",
         "english": "to break",
         "chinese": "打破",
         "category": "verb"
     },
     {
-        "id": 113,
+        "id": 111,
         "spanish": "cerrar",
         "english": "to close",
         "chinese": "关闭",
         "category": "verb"
     },
     {
-        "id": 114,
+        "id": 112,
         "spanish": "cortar",
         "english": "to cut",
         "chinese": "切/剪",
         "category": "verb"
     },
     {
-        "id": 115,
+        "id": 113,
         "spanish": "mover",
         "english": "to move",
         "chinese": "移动",
         "category": "verb"
     },
     {
-        "id": 116,
+        "id": 114,
         "spanish": "enviar",
         "english": "to send",
         "chinese": "发送",
         "category": "verb"
     },
     {
-        "id": 117,
+        "id": 115,
         "spanish": "viajar",
         "english": "to travel",
         "chinese": "旅行",
         "category": "verb"
     },
     {
-        "id": 118,
+        "id": 116,
         "spanish": "manejar",
         "english": "to drive/handle",
         "chinese": "驾驶/处理",
         "category": "verb"
     },
     {
-        "id": 119,
+        "id": 117,
         "spanish": "enseñar",
         "english": "to teach",
         "chinese": "教",
         "category": "verb"
     },
     {
-        "id": 120,
+        "id": 118,
         "spanish": "aprender",
         "english": "to learn",
         "chinese": "学习",
         "category": "verb"
     },
     {
-        "id": 121,
+        "id": 119,
         "spanish": "olvidar",
         "english": "to forget",
         "chinese": "忘记",
         "category": "verb"
     },
     {
-        "id": 122,
+        "id": 120,
         "spanish": "subir",
         "english": "to go up/climb",
         "chinese": "上升/爬",
         "category": "verb"
     },
     {
-        "id": 123,
+        "id": 121,
         "spanish": "bajar",
         "english": "to go down/lower",
         "chinese": "下降",
         "category": "verb"
     },
     {
-        "id": 124,
+        "id": 122,
         "spanish": "crecer",
         "english": "to grow",
         "chinese": "成长",
         "category": "verb"
     },
     {
-        "id": 125,
+        "id": 123,
         "spanish": "nadar",
         "english": "to swim",
         "chinese": "游泳",
         "category": "verb"
     },
     {
-        "id": 126,
+        "id": 124,
         "spanish": "volar",
         "english": "to fly",
         "chinese": "飞",
         "category": "verb"
     },
     {
-        "id": 127,
+        "id": 125,
         "spanish": "casar",
         "english": "to marry",
         "chinese": "结婚",
         "category": "verb"
     },
     {
-        "id": 128,
+        "id": 126,
         "spanish": "separar",
         "english": "to separate",
         "chinese": "分离",
         "category": "verb"
     },
     {
-        "id": 129,
+        "id": 127,
         "spanish": "amar",
         "english": "to love",
         "chinese": "爱",
         "category": "verb"
     },
     {
-        "id": 130,
+        "id": 128,
         "spanish": "odiar",
         "english": "to hate",
         "chinese": "恨",
         "category": "verb"
     },
     {
-        "id": 131,
+        "id": 129,
         "spanish": "reír",
         "english": "to laugh",
         "chinese": "笑",
         "category": "verb"
     },
     {
-        "id": 132,
+        "id": 130,
         "spanish": "llorar",
         "english": "to cry",
         "chinese": "哭",
         "category": "verb"
     },
     {
-        "id": 133,
+        "id": 131,
         "spanish": "gritar",
         "english": "to shout",
         "chinese": "喊叫",
         "category": "verb"
     },
     {
-        "id": 134,
+        "id": 132,
         "spanish": "callar",
         "english": "to be quiet",
         "chinese": "安静",
         "category": "verb"
     },
     {
-        "id": 135,
+        "id": 133,
         "spanish": "despertar",
         "english": "to wake up",
         "chinese": "醒来",
         "category": "verb"
     },
     {
-        "id": 136,
+        "id": 134,
         "spanish": "sentar",
         "english": "to sit",
         "chinese": "坐",
         "category": "verb"
     },
     {
-        "id": 137,
+        "id": 135,
         "spanish": "acostar",
         "english": "to lie down",
         "chinese": "躺下",
         "category": "verb"
     },
     {
-        "id": 138,
+        "id": 136,
         "spanish": "vestir",
         "english": "to dress",
         "chinese": "穿衣",
         "category": "verb"
     },
     {
-        "id": 139,
+        "id": 137,
         "spanish": "lavar",
         "english": "to wash",
         "chinese": "洗",
         "category": "verb"
     },
     {
-        "id": 140,
+        "id": 138,
         "spanish": "peinar",
         "english": "to comb",
         "chinese": "梳头",
         "category": "verb"
     },
     {
-        "id": 141,
+        "id": 139,
         "spanish": "elegir",
         "english": "to choose",
         "chinese": "选择",
         "category": "verb"
     },
     {
-        "id": 142,
+        "id": 140,
         "spanish": "recoger",
         "english": "to pick up/collect",
         "chinese": "收集",
         "category": "verb"
     },
     {
-        "id": 143,
+        "id": 141,
         "spanish": "tirar",
         "english": "to throw",
         "chinese": "扔",
         "category": "verb"
     },
     {
-        "id": 144,
+        "id": 142,
         "spanish": "empujar",
         "english": "to push",
         "chinese": "推",
         "category": "verb"
     },
     {
-        "id": 145,
-        "spanish": "tirar",
-        "english": "to pull",
-        "chinese": "拉",
-        "category": "verb"
-    },
-    {
-        "id": 146,
+        "id": 143,
         "spanish": "apretar",
         "english": "to squeeze/press",
         "chinese": "挤压",
         "category": "verb"
     },
     {
-        "id": 147,
+        "id": 144,
         "spanish": "soltar",
         "english": "to let go/release",
         "chinese": "释放",
         "category": "verb"
     },
     {
-        "id": 148,
+        "id": 145,
         "spanish": "mentir",
         "english": "to lie",
         "chinese": "撒谎",
         "category": "verb"
     },
     {
-        "id": 149,
+        "id": 146,
         "spanish": "robar",
         "english": "to steal",
         "chinese": "偷",
         "category": "verb"
     },
     {
-        "id": 150,
+        "id": 147,
         "spanish": "matar",
         "english": "to kill",
         "chinese": "杀",
         "category": "verb"
     },
     {
-        "id": 151,
+        "id": 148,
         "spanish": "curar",
         "english": "to cure/heal",
         "chinese": "治愈",
         "category": "verb"
     },
     {
-        "id": 152,
+        "id": 149,
         "spanish": "enfermar",
         "english": "to get sick",
         "chinese": "生病",
         "category": "verb"
     },
     {
-        "id": 153,
+        "id": 150,
         "spanish": "visitar",
         "english": "to visit",
         "chinese": "拜访",
         "category": "verb"
     },
     {
-        "id": 154,
+        "id": 151,
         "spanish": "invitar",
         "english": "to invite",
         "chinese": "邀请",
         "category": "verb"
     },
     {
-        "id": 155,
+        "id": 152,
         "spanish": "celebrar",
         "english": "to celebrate",
         "chinese": "庆祝",
         "category": "verb"
     },
     {
-        "id": 156,
+        "id": 153,
         "spanish": "felicitar",
         "english": "to congratulate",
         "chinese": "祝贺",
         "category": "verb"
     },
     {
-        "id": 157,
+        "id": 154,
         "spanish": "agradecer",
         "english": "to thank",
         "chinese": "感谢",
         "category": "verb"
     },
     {
-        "id": 158,
+        "id": 155,
         "spanish": "disculpar",
         "english": "to excuse/forgive",
         "chinese": "原谅",
         "category": "verb"
     },
     {
-        "id": 159,
+        "id": 156,
         "spanish": "perdonar",
         "english": "to forgive",
         "chinese": "宽恕",
         "category": "verb"
     },
     {
-        "id": 160,
+        "id": 157,
         "spanish": "saludar",
         "english": "to greet",
         "chinese": "问候",
         "category": "verb"
     },
     {
-        "id": 161,
+        "id": 158,
         "spanish": "despedir",
         "english": "to say goodbye",
         "chinese": "告别",
         "category": "verb"
     },
     {
-        "id": 162,
+        "id": 159,
         "spanish": "besar",
         "english": "to kiss",
         "chinese": "亲吻",
         "category": "verb"
     },
     {
-        "id": 163,
+        "id": 160,
         "spanish": "abrazar",
         "english": "to hug",
         "chinese": "拥抱",
         "category": "verb"
     },
     {
-        "id": 164,
+        "id": 161,
         "spanish": "acompañar",
         "english": "to accompany",
         "chinese": "陪伴",
         "category": "verb"
     },
     {
-        "id": 165,
+        "id": 162,
         "spanish": "proteger",
         "english": "to protect",
         "chinese": "保护",
         "category": "verb"
     },
     {
-        "id": 166,
+        "id": 163,
         "spanish": "atacar",
         "english": "to attack",
         "chinese": "攻击",
         "category": "verb"
     },
     {
-        "id": 167,
+        "id": 164,
         "spanish": "defender",
         "english": "to defend",
         "chinese": "防御",
         "category": "verb"
     },
     {
-        "id": 168,
+        "id": 165,
         "spanish": "luchar",
         "english": "to fight",
         "chinese": "战斗",
         "category": "verb"
     },
     {
-        "id": 169,
-        "spanish": "ganar",
-        "english": "to win",
-        "chinese": "赢",
-        "category": "verb"
-    },
-    {
-        "id": 170,
-        "spanish": "perder",
-        "english": "to lose",
-        "chinese": "输",
-        "category": "verb"
-    },
-    {
-        "id": 171,
+        "id": 166,
         "spanish": "competir",
         "english": "to compete",
         "chinese": "竞争",
         "category": "verb"
     },
     {
-        "id": 172,
+        "id": 167,
         "spanish": "participar",
         "english": "to participate",
         "chinese": "参与",
         "category": "verb"
     },
     {
-        "id": 173,
+        "id": 168,
         "spanish": "organizar",
         "english": "to organize",
         "chinese": "组织",
         "category": "verb"
     },
     {
-        "id": 174,
+        "id": 169,
         "spanish": "planear",
         "english": "to plan",
         "chinese": "计划",
         "category": "verb"
     },
     {
-        "id": 175,
+        "id": 170,
         "spanish": "preparar",
         "english": "to prepare",
         "chinese": "准备",
         "category": "verb"
     },
     {
-        "id": 176,
+        "id": 171,
         "spanish": "ordenar",
         "english": "to order/command",
         "chinese": "命令/点菜",
         "category": "verb"
     },
     {
-        "id": 177,
+        "id": 172,
         "spanish": "mandar",
         "english": "to send/command",
         "chinese": "发送/命令",
         "category": "verb"
     },
     {
-        "id": 178,
+        "id": 173,
         "spanish": "obedecer",
         "english": "to obey",
         "chinese": "服从",
         "category": "verb"
     },
     {
-        "id": 179,
+        "id": 174,
         "spanish": "prohibir",
         "english": "to prohibit",
         "chinese": "禁止",
         "category": "verb"
     },
     {
-        "id": 180,
-        "spanish": "permitir",
-        "english": "to permit",
-        "chinese": "允许",
-        "category": "verb"
-    },
-    {
-        "id": 181,
+        "id": 175,
         "spanish": "rechazar",
         "english": "to reject",
         "chinese": "拒绝",
         "category": "verb"
     },
     {
-        "id": 182,
-        "spanish": "aceptar",
-        "english": "to accept",
-        "chinese": "接受",
-        "category": "verb"
-    },
-    {
-        "id": 183,
+        "id": 176,
         "spanish": "evitar",
         "english": "to avoid",
         "chinese": "避免",
         "category": "verb"
     },
     {
-        "id": 184,
+        "id": 177,
         "spanish": "escapar",
         "english": "to escape",
         "chinese": "逃跑",
         "category": "verb"
     },
     {
-        "id": 185,
+        "id": 178,
         "spanish": "huir",
         "english": "to flee",
         "chinese": "逃跑",
         "category": "verb"
     },
     {
-        "id": 186,
+        "id": 179,
         "spanish": "perseguir",
         "english": "to pursue/chase",
         "chinese": "追逐",
         "category": "verb"
     },
     {
-        "id": 187,
-        "spanish": "alcanzar",
-        "english": "to reach/achieve",
-        "chinese": "达到",
-        "category": "verb"
-    },
-    {
-        "id": 188,
-        "spanish": "tocar",
-        "english": "to touch",
-        "chinese": "触摸",
-        "category": "verb"
-    },
-    {
-        "id": 189,
+        "id": 180,
         "spanish": "oler",
         "english": "to smell",
         "chinese": "闻",
         "category": "verb"
     },
     {
-        "id": 190,
+        "id": 181,
         "spanish": "saborear",
         "english": "to taste",
         "chinese": "品尝",
         "category": "verb"
     },
     {
-        "id": 191,
+        "id": 182,
         "spanish": "soñar",
         "english": "to dream",
         "chinese": "做梦",
         "category": "verb"
     },
     {
-        "id": 192,
+        "id": 183,
         "spanish": "imaginar",
         "english": "to imagine",
         "chinese": "想象",
         "category": "verb"
     },
     {
-        "id": 193,
-        "spanish": "esperar",
-        "english": "to hope/wait",
-        "chinese": "希望/等待",
-        "category": "verb"
-    },
-    {
-        "id": 194,
+        "id": 184,
         "spanish": "desear",
         "english": "to wish/desire",
         "chinese": "渴望",
         "category": "verb"
     },
     {
-        "id": 195,
+        "id": 185,
         "spanish": "temer",
         "english": "to fear",
         "chinese": "害怕",
         "category": "verb"
     },
     {
-        "id": 196,
+        "id": 186,
         "spanish": "preocupar",
         "english": "to worry",
         "chinese": "担心",
         "category": "verb"
     },
     {
-        "id": 197,
+        "id": 187,
         "spanish": "relajar",
         "english": "to relax",
         "chinese": "放松",
         "category": "verb"
     },
     {
-        "id": 198,
+        "id": 188,
         "spanish": "divertir",
         "english": "to have fun",
         "chinese": "娱乐",
         "category": "verb"
     },
     {
-        "id": 199,
+        "id": 189,
         "spanish": "aburrir",
         "english": "to bore",
         "chinese": "无聊",
         "category": "verb"
     },
     {
-        "id": 200,
+        "id": 190,
         "spanish": "sorprender",
         "english": "to surprise",
         "chinese": "惊讶",
         "category": "verb"
     },
     {
-        "id": 201,
+        "id": 191,
         "spanish": "resolver",
         "english": "to solve/resolve",
         "chinese": "解决",
         "category": "verb"
     },
     {
-        "id": 202,
+        "id": 192,
         "spanish": "desarrollar",
         "english": "to develop",
         "chinese": "发展",
         "category": "verb"
     },
     {
-        "id": 203,
+        "id": 193,
         "spanish": "mejorar",
         "english": "to improve",
         "chinese": "改善",
         "category": "verb"
     },
     {
-        "id": 204,
+        "id": 194,
         "spanish": "continuar",
         "english": "to continue",
         "chinese": "继续",
         "category": "verb"
     },
     {
-        "id": 205,
+        "id": 195,
         "spanish": "parar",
         "english": "to stop",
         "chinese": "停止",
         "category": "verb"
     },
     {
-        "id": 206,
+        "id": 196,
         "spanish": "cobrar",
         "english": "to charge/collect",
         "chinese": "收费",
         "category": "verb"
     },
     {
-        "id": 207,
+        "id": 197,
         "spanish": "prestar",
         "english": "to lend/borrow",
         "chinese": "借",
         "category": "verb"
     },
     {
-        "id": 208,
+        "id": 198,
         "spanish": "devolver",
         "english": "to return/give back",
         "chinese": "归还",
         "category": "verb"
     },
     {
-        "id": 209,
+        "id": 199,
         "spanish": "intercambiar",
         "english": "to exchange",
         "chinese": "交换",
         "category": "verb"
     },
     {
-        "id": 210,
+        "id": 200,
         "spanish": "regalar",
         "english": "to give as a gift",
         "chinese": "赠送",
         "category": "verb"
     },
     {
-        "id": 211,
+        "id": 201,
         "spanish": "negar",
         "english": "to deny",
         "chinese": "否认",
         "category": "verb"
     },
     {
-        "id": 212,
+        "id": 202,
         "spanish": "confirmar",
         "english": "to confirm",
         "chinese": "确认",
         "category": "verb"
     },
     {
-        "id": 213,
+        "id": 203,
         "spanish": "verificar",
         "english": "to verify",
         "chinese": "验证",
         "category": "verb"
     },
     {
-        "id": 214,
+        "id": 204,
         "spanish": "comprobar",
         "english": "to check/verify",
         "chinese": "检查",
         "category": "verb"
     },
     {
-        "id": 215,
+        "id": 205,
         "spanish": "investigar",
         "english": "to investigate",
         "chinese": "调查",
         "category": "verb"
     },
     {
-        "id": 216,
+        "id": 206,
         "spanish": "inventar",
         "english": "to invent",
         "chinese": "发明",
         "category": "verb"
     },
     {
-        "id": 217,
+        "id": 207,
         "spanish": "fabricar",
         "english": "to manufacture",
         "chinese": "制造",
         "category": "verb"
     },
     {
-        "id": 218,
+        "id": 208,
         "spanish": "destruir",
         "english": "to destroy",
         "chinese": "破坏",
         "category": "verb"
     },
     {
-        "id": 219,
+        "id": 209,
         "spanish": "reparar",
         "english": "to repair",
         "chinese": "修理",
         "category": "verb"
     },
     {
-        "id": 220,
+        "id": 210,
         "spanish": "arreglar",
         "english": "to fix/arrange",
         "chinese": "修理/安排",
         "category": "verb"
     },
     {
-        "id": 221,
+        "id": 211,
         "spanish": "instalar",
         "english": "to install",
         "chinese": "安装",
         "category": "verb"
     },
     {
-        "id": 222,
+        "id": 212,
         "spanish": "desinstalar",
         "english": "to uninstall",
         "chinese": "卸载",
         "category": "verb"
     },
     {
-        "id": 223,
+        "id": 213,
         "spanish": "configurar",
         "english": "to configure",
         "chinese": "配置",
         "category": "verb"
     },
     {
-        "id": 224,
+        "id": 214,
         "spanish": "programar",
         "english": "to program/schedule",
         "chinese": "编程/安排",
         "category": "verb"
     },
     {
-        "id": 225,
+        "id": 215,
         "spanish": "diseñar",
         "english": "to design",
         "chinese": "设计",
         "category": "verb"
     },
     {
-        "id": 226,
+        "id": 216,
         "spanish": "planificar",
         "english": "to plan",
         "chinese": "计划",
         "category": "verb"
     },
     {
-        "id": 227,
+        "id": 217,
         "spanish": "clasificar",
         "english": "to classify",
         "chinese": "分类",
         "category": "verb"
     },
     {
-        "id": 228,
+        "id": 218,
         "spanish": "dividir",
         "english": "to divide",
         "chinese": "分割",
         "category": "verb"
     },
     {
-        "id": 229,
+        "id": 219,
         "spanish": "multiplicar",
         "english": "to multiply",
         "chinese": "乘",
         "category": "verb"
     },
     {
-        "id": 230,
+        "id": 220,
         "spanish": "sumar",
         "english": "to add",
         "chinese": "加",
         "category": "verb"
     },
     {
-        "id": 231,
+        "id": 221,
         "spanish": "restar",
         "english": "to subtract",
         "chinese": "减",
         "category": "verb"
     },
     {
-        "id": 232,
+        "id": 222,
         "spanish": "calcular",
         "english": "to calculate",
         "chinese": "计算",
         "category": "verb"
     },
     {
-        "id": 233,
+        "id": 223,
         "spanish": "medir",
         "english": "to measure",
         "chinese": "测量",
         "category": "verb"
     },
     {
-        "id": 234,
+        "id": 224,
         "spanish": "pesar",
         "english": "to weigh",
         "chinese": "称重",
         "category": "verb"
     },
     {
-        "id": 235,
+        "id": 225,
         "spanish": "numerar",
         "english": "to number",
         "chinese": "编号",
         "category": "verb"
     },
     {
-        "id": 236,
+        "id": 226,
         "spanish": "marcar",
         "english": "to mark",
         "chinese": "标记",
         "category": "verb"
     },
     {
-        "id": 237,
+        "id": 227,
         "spanish": "señalar",
         "english": "to point out",
         "chinese": "指出",
         "category": "verb"
     },
     {
-        "id": 238,
+        "id": 228,
         "spanish": "indicar",
         "english": "to indicate",
         "chinese": "指示",
         "category": "verb"
     },
     {
-        "id": 239,
+        "id": 229,
         "spanish": "mostrar",
         "english": "to show",
         "chinese": "显示",
         "category": "verb"
     },
     {
-        "id": 240,
+        "id": 230,
         "spanish": "demostrar",
         "english": "to demonstrate",
         "chinese": "演示",
         "category": "verb"
     },
     {
-        "id": 241,
+        "id": 231,
         "spanish": "practicar",
         "english": "to practice",
         "chinese": "练习",
         "category": "verb"
     },
     {
-        "id": 242,
+        "id": 232,
         "spanish": "entrenar",
         "english": "to train",
         "chinese": "训练",
         "category": "verb"
     },
     {
-        "id": 243,
+        "id": 233,
         "spanish": "ejercitar",
         "english": "to exercise",
         "chinese": "锻炼",
         "category": "verb"
     },
     {
-        "id": 244,
+        "id": 234,
         "spanish": "saltar",
         "english": "to jump",
         "chinese": "跳",
         "category": "verb"
     },
     {
-        "id": 245,
+        "id": 235,
         "spanish": "observar",
         "english": "to observe",
         "chinese": "观察",
         "category": "verb"
     },
     {
-        "id": 246,
+        "id": 236,
         "spanish": "dibujar",
         "english": "to draw",
         "chinese": "画",
         "category": "verb"
     },
     {
-        "id": 247,
+        "id": 237,
         "spanish": "pintar",
         "english": "to paint",
         "chinese": "绘画",
         "category": "verb"
     },
     {
-        "id": 248,
+        "id": 238,
         "spanish": "fotografiar",
         "english": "to photograph",
         "chinese": "拍照",
         "category": "verb"
     },
     {
-        "id": 249,
+        "id": 239,
         "spanish": "grabar",
         "english": "to record",
         "chinese": "录制",
         "category": "verb"
     },
     {
-        "id": 250,
+        "id": 240,
         "spanish": "filmar",
         "english": "to film",
         "chinese": "拍摄",
         "category": "verb"
     },
     {
-        "id": 251,
+        "id": 241,
         "spanish": "transmitir",
         "english": "to transmit/broadcast",
         "chinese": "传输/广播",
         "category": "verb"
     },
     {
-        "id": 252,
+        "id": 242,
         "spanish": "emitir",
         "english": "to emit/broadcast",
         "chinese": "发射/广播",
         "category": "verb"
     },
     {
-        "id": 253,
+        "id": 243,
         "spanish": "publicar",
         "english": "to publish",
         "chinese": "出版",
         "category": "verb"
     },
     {
-        "id": 254,
+        "id": 244,
         "spanish": "imprimir",
         "english": "to print",
         "chinese": "打印",
         "category": "verb"
     },
     {
-        "id": 255,
+        "id": 245,
         "spanish": "copiar",
         "english": "to copy",
         "chinese": "复制",
         "category": "verb"
     },
     {
-        "id": 256,
+        "id": 246,
         "spanish": "pegar",
         "english": "to paste/stick",
         "chinese": "粘贴/粘",
         "category": "verb"
     },
     {
-        "id": 257,
+        "id": 247,
         "spanish": "borrar",
         "english": "to erase",
         "chinese": "擦除",
         "category": "verb"
     },
     {
-        "id": 258,
+        "id": 248,
         "spanish": "eliminar",
         "english": "to delete/eliminate",
         "chinese": "删除",
         "category": "verb"
     },
     {
-        "id": 259,
+        "id": 249,
         "spanish": "encontrar",
         "english": "to find",
         "chinese": "找到",
         "category": "verb"
     },
     {
-        "id": 260,
+        "id": 250,
         "spanish": "quedar",
         "english": "to stay, to remain, to be left",
         "chinese": "留下，剩下，停留",
         "category": "verb"
     },
     {
-        "id": 261,
+        "id": 251,
         "spanish": "implicar",
         "english": "to imply, to involve",
         "chinese": "暗示，涉及",
         "category": "verb"
     },
     {
-        "id": 263,
+        "id": 252,
         "spanish": "cuidarse",
         "english": "to take care of oneself",
         "chinese": "照顾自己",
         "category": "verb"
     },
     {
-        "id": 264,
-        "spanish": "relajar",
-        "english": "to relax",
-        "chinese": "放松",
-        "category": "verb"
-    },
-    {
-        "id": 265,
+        "id": 253,
         "spanish": "aguilar",
         "english": "to watch closely (rare, from 'águila' - not common)",
         "chinese": "密切注视（罕用，源自'鹰'）",
         "category": "verb"
     },
     {
-        "id": 266,
+        "id": 254,
         "spanish": "emperorar",
         "english": "to worsen, to deteriorate",
         "chinese": "恶化，变坏",
         "category": "verb"
     },
     {
-        "id": 267,
+        "id": 255,
         "spanish": "coser",
         "english": "to sew",
         "chinese": "缝纫",
         "category": "verb"
     },
     {
-        "id": 269,
+        "id": 256,
         "spanish": "parecerse",
         "english": "to resemble, to look like",
         "chinese": "相似，看起来像",
         "category": "verb"
     },
     {
-        "id": 270,
+        "id": 257,
         "spanish": "aprovechar",
         "english": "to take advantage of, to make use of",
         "chinese": "利用，充分利用",
         "category": "verb"
     },
     {
-        "id": 271,
+        "id": 258,
         "spanish": "cocer",
         "english": "to cook, to boil",
         "chinese": "烹饪，煮沸",
         "category": "verb"
     },
     {
-        "id": 272,
+        "id": 259,
         "spanish": "hervir",
         "english": "to boil",
         "chinese": "煮沸",
         "category": "verb"
     },
     {
-        "id": 273,
+        "id": 260,
         "spanish": "rastraer",
         "english": "to drag, to haul",
         "chinese": "拖拽，拉",
         "category": "verb"
     },
     {
-        "id": 274,
+        "id": 261,
         "spanish": "enterarse",
         "english": "to find out, to learn about",
         "chinese": "发现，了解",
         "category": "verb"
     },
     {
-        "id": 275,
-        "spanish": "sorprender",
-        "english": "to surprise",
-        "chinese": "使惊讶",
-        "category": "verb"
-    },
-    {
-        "id": 276,
+        "id": 262,
         "spanish": "barajar",
         "english": "to shuffle, to consider",
         "chinese": "洗牌，考虑",
         "category": "verb"
     },
     {
-        "id": 277,
+        "id": 263,
         "spanish": "ayunar",
         "english": "to fast",
         "chinese": "禁食",
         "category": "verb"
     },
     {
-        "id": 278,
+        "id": 264,
         "spanish": "reírse",
         "english": "to laugh",
         "chinese": "笑",
         "category": "verb"
     },
     {
-        "id": 279,
+        "id": 265,
         "spanish": "burlarse",
         "english": "to mock, to make fun of",
         "chinese": "嘲笑，取笑",
         "category": "verb"
     },
     {
-        "id": 280,
+        "id": 266,
         "spanish": "morderse",
         "english": "to bite oneself",
         "chinese": "咬自己",
+        "category": "verb"
+    },
+    {
+        "id": 267,
+        "spanish": "planchar",
+        "english": "to iron",
+        "chinese": "熨烫",
+        "category": "verb"
+    },
+    {
+        "id": 268,
+        "spanish": "padecer",
+        "english": "to suffer, to endure",
+        "chinese": "遭受，忍受",
+        "category": "verb"
+    },
+    {
+        "id": 269,
+        "spanish": "acudir",
+        "english": "to go to, to attend",
+        "chinese": "去，参加",
+        "category": "verb"
+    },
+    {
+        "id": 270,
+        "spanish": "aprobar",
+        "english": "to approve, to pass (exam)",
+        "chinese": "批准，通过（考试）",
+        "category": "verb"
+    },
+    {
+        "id": 271,
+        "spanish": "posponer",
+        "english": "to postpone, to put off",
+        "chinese": "推迟，延期",
+        "category": "verb"
+    },
+    {
+        "id": 272,
+        "spanish": "lesionarse",
+        "english": "to get injured, to hurt oneself",
+        "chinese": "受伤，伤害自己",
+        "category": "verb"
+    },
+    {
+        "id": 273,
+        "spanish": "aumentar",
+        "english": "to increase, to raise",
+        "chinese": "增加，提高",
+        "category": "verb"
+    },
+    {
+        "id": 274,
+        "spanish": "socializar",
+        "english": "to socialize",
+        "chinese": "社交，交际",
+        "category": "verb"
+    },
+    {
+        "id": 275,
+        "spanish": "evaluar",
+        "english": "to evaluate, to assess",
+        "chinese": "评估，评价",
+        "category": "verb"
+    },
+    {
+        "id": 276,
+        "spanish": "apuntarse",
+        "english": "to sign up",
+        "chinese": "报名，登记",
+        "category": "verb"
+    },
+    {
+        "id": 277,
+        "spanish": "inscribirse",
+        "english": "to enroll, to register",
+        "chinese": "注册，报名",
+        "category": "verb"
+    },
+    {
+        "id": 278,
+        "spanish": "arriesgar",
+        "english": "to risk, to endanger",
+        "chinese": "冒险，冒…风险",
+        "category": "verb"
+    },
+    {
+        "id": 279,
+        "spanish": "desafiar",
+        "english": "to challenge, to defy",
+        "chinese": "挑战，违抗",
+        "category": "verb"
+    },
+    {
+        "id": 280,
+        "spanish": "meter",
+        "english": "to put in, to place",
+        "chinese": "放入，放进",
+        "category": "verb"
+    },
+    {
+        "id": 281,
+        "spanish": "empeñarse",
+        "english": "to insist on, to persist",
+        "chinese": "坚持，执意",
+        "category": "verb"
+    },
+    {
+        "id": 282,
+        "spanish": "esforzarse",
+        "english": "to make an effort, to strive",
+        "chinese": "努力，奋斗",
+        "category": "verb"
+    },
+    {
+        "id": 283,
+        "spanish": "halagar",
+        "english": "to flatter, to praise",
+        "chinese": "奉承，恭维",
+        "category": "verb"
+    },
+    {
+        "id": 284,
+        "spanish": "refutar",
+        "english": "to refute, to rebut",
+        "chinese": "反驳，驳斥",
+        "category": "verb"
+    },
+    {
+        "id": 285,
+        "spanish": "triunfar",
+        "english": "to triumph, to succeed",
+        "chinese": "取得胜利，成功",
         "category": "verb"
     }
 ]

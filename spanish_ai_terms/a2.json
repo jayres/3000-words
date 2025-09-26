@@ -1,3649 +1,3782 @@
 [
     {
-        "id": 2,
+        "id": 1,
         "spanish": "desarrollar",
         "english": "to develop",
         "chinese": "发展",
         "category": "verb"
     },
     {
-        "id": 3,
+        "id": 2,
         "spanish": "aproximadamente",
         "english": "approximately",
         "chinese": "大约",
         "category": "adverb"
     },
     {
-        "id": 4,
+        "id": 3,
         "spanish": "ambiente",
         "english": "environment",
         "chinese": "环境",
         "category": "noun"
     },
     {
-        "id": 5,
+        "id": 4,
         "spanish": "conjunto",
         "english": "set/group",
         "chinese": "集合",
         "category": "noun"
     },
     {
-        "id": 6,
+        "id": 5,
         "spanish": "proporcionar",
         "english": "to provide",
         "chinese": "提供",
         "category": "verb"
     },
     {
-        "id": 7,
+        "id": 6,
         "spanish": "bastante",
         "english": "quite/enough",
         "chinese": "相当",
         "category": "adverb"
     },
     {
-        "id": 8,
+        "id": 7,
         "spanish": "superficie",
         "english": "surface",
         "chinese": "表面",
         "category": "noun"
     },
     {
-        "id": 9,
+        "id": 8,
         "spanish": "establecer",
         "english": "to establish",
         "chinese": "建立",
         "category": "verb"
     },
     {
-        "id": 10,
+        "id": 9,
         "spanish": "apenas",
         "english": "barely",
         "chinese": "几乎不",
         "category": "adverb"
     },
     {
-        "id": 11,
+        "id": 10,
         "spanish": "comportamiento",
         "english": "behavior",
         "chinese": "行为",
         "category": "noun"
     },
     {
-        "id": 12,
+        "id": 11,
         "spanish": "interpretar",
         "english": "to interpret",
         "chinese": "解释",
         "category": "verb"
     },
     {
-        "id": 13,
+        "id": 12,
         "spanish": "principalmente",
         "english": "mainly",
         "chinese": "主要地",
         "category": "adverb"
     },
     {
-        "id": 14,
+        "id": 13,
         "spanish": "ventaja",
         "english": "advantage",
         "chinese": "优势",
         "category": "noun"
     },
     {
-        "id": 15,
+        "id": 14,
         "spanish": "mantener",
         "english": "to maintain",
         "chinese": "维持",
         "category": "verb"
     },
     {
-        "id": 16,
+        "id": 15,
         "spanish": "definitivamente",
         "english": "definitely",
         "chinese": "明确地",
         "category": "adverb"
     },
     {
-        "id": 17,
+        "id": 16,
         "spanish": "herramienta",
         "english": "tool",
         "chinese": "工具",
         "category": "noun"
     },
     {
-        "id": 18,
+        "id": 17,
         "spanish": "resolver",
         "english": "to solve",
         "chinese": "解决",
         "category": "verb"
     },
     {
-        "id": 19,
+        "id": 18,
         "spanish": "frecuentemente",
         "english": "frequently",
         "chinese": "频繁地",
         "category": "adverb"
     },
     {
-        "id": 20,
+        "id": 19,
         "spanish": "consecuencia",
         "english": "consequence",
         "chinese": "后果",
         "category": "noun"
     },
     {
-        "id": 21,
+        "id": 20,
         "spanish": "organizar",
         "english": "to organize",
         "chinese": "组织",
         "category": "verb"
     },
     {
-        "id": 22,
+        "id": 21,
         "spanish": "inmediatamente",
         "english": "immediately",
         "chinese": "立即",
         "category": "adverb"
     },
     {
-        "id": 23,
+        "id": 22,
         "spanish": "oportunidad",
         "english": "opportunity",
         "chinese": "机会",
         "category": "noun"
     },
     {
-        "id": 24,
+        "id": 23,
         "spanish": "investigar",
         "english": "to investigate",
         "chinese": "调查",
         "category": "verb"
     },
     {
-        "id": 25,
+        "id": 24,
         "spanish": "específicamente",
         "english": "specifically",
         "chinese": "具体地",
         "category": "adverb"
     },
     {
-        "id": 26,
+        "id": 25,
         "spanish": "característica",
         "english": "characteristic",
         "chinese": "特征",
         "category": "noun"
     },
     {
-        "id": 27,
+        "id": 26,
         "spanish": "distribuir",
         "english": "to distribute",
         "chinese": "分配",
         "category": "verb"
     },
     {
-        "id": 28,
+        "id": 27,
         "spanish": "normalmente",
         "english": "normally",
         "chinese": "通常",
         "category": "adverb"
     },
     {
-        "id": 29,
+        "id": 28,
         "spanish": "experiencia",
         "english": "experience",
         "chinese": "经验",
         "category": "noun"
     },
     {
-        "id": 30,
+        "id": 29,
         "spanish": "comparar",
         "english": "to compare",
         "chinese": "比较",
         "category": "verb"
     },
     {
-        "id": 31,
+        "id": 30,
         "spanish": "únicamente",
         "english": "only/solely",
         "chinese": "仅仅",
         "category": "adverb"
     },
     {
-        "id": 32,
+        "id": 31,
         "spanish": "estructura",
         "english": "structure",
         "chinese": "结构",
         "category": "noun"
     },
     {
-        "id": 33,
+        "id": 32,
         "spanish": "considerar",
         "english": "to consider",
         "chinese": "考虑",
         "category": "verb"
     },
     {
-        "id": 34,
+        "id": 33,
         "spanish": "anteriormente",
         "english": "previously",
         "chinese": "以前",
         "category": "adverb"
     },
     {
-        "id": 35,
+        "id": 34,
         "spanish": "tendencia",
         "english": "tendency",
         "chinese": "趋势",
         "category": "noun"
     },
     {
-        "id": 36,
+        "id": 35,
         "spanish": "generar",
         "english": "to generate",
         "chinese": "生成",
         "category": "verb"
     },
     {
-        "id": 37,
+        "id": 36,
         "spanish": "regularmente",
         "english": "regularly",
         "chinese": "定期地",
         "category": "adverb"
     },
     {
-        "id": 38,
+        "id": 37,
         "spanish": "administración",
         "english": "administration",
         "chinese": "管理",
         "category": "noun"
     },
     {
-        "id": 39,
+        "id": 38,
         "spanish": "participar",
         "english": "to participate",
         "chinese": "参与",
         "category": "verb"
     },
     {
-        "id": 40,
+        "id": 39,
         "spanish": "efectivamente",
         "english": "effectively",
         "chinese": "有效地",
         "category": "adverb"
     },
     {
-        "id": 41,
+        "id": 40,
         "spanish": "responsabilidad",
         "english": "responsibility",
         "chinese": "责任",
         "category": "noun"
     },
     {
-        "id": 42,
+        "id": 41,
         "spanish": "comunicar",
         "english": "to communicate",
         "chinese": "沟通",
         "category": "verb"
     },
     {
-        "id": 43,
+        "id": 42,
         "spanish": "parcialmente",
         "english": "partially",
         "chinese": "部分地",
         "category": "adverb"
     },
     {
-        "id": 44,
+        "id": 43,
         "spanish": "tecnología",
         "english": "technology",
         "chinese": "技术",
         "category": "noun"
     },
     {
-        "id": 45,
+        "id": 44,
         "spanish": "analizar",
         "english": "to analyze",
         "chinese": "分析",
         "category": "verb"
     },
     {
-        "id": 46,
+        "id": 45,
         "spanish": "constantemente",
         "english": "constantly",
         "chinese": "不断地",
         "category": "adverb"
     },
     {
-        "id": 47,
+        "id": 46,
         "spanish": "procedimiento",
         "english": "procedure",
         "chinese": "程序",
         "category": "noun"
     },
     {
-        "id": 48,
+        "id": 47,
         "spanish": "representar",
         "english": "to represent",
         "chinese": "代表",
         "category": "verb"
     },
     {
-        "id": 49,
+        "id": 48,
         "spanish": "completamente",
         "english": "completely",
         "chinese": "完全地",
         "category": "adverb"
     },
     {
-        "id": 50,
+        "id": 49,
         "spanish": "objetivo",
         "english": "objective",
         "chinese": "目标",
         "category": "noun"
     },
     {
-        "id": 51,
+        "id": 50,
         "spanish": "controlar",
         "english": "to control",
         "chinese": "控制",
         "category": "verb"
     },
     {
-        "id": 52,
+        "id": 51,
         "spanish": "tradicionalmente",
         "english": "traditionally",
         "chinese": "传统上",
         "category": "adverb"
     },
     {
-        "id": 53,
+        "id": 52,
         "spanish": "capacidad",
         "english": "capacity",
         "chinese": "能力",
         "category": "noun"
     },
     {
-        "id": 54,
+        "id": 53,
         "spanish": "funcionar",
         "english": "to function",
         "chinese": "运作",
         "category": "verb"
     },
     {
-        "id": 55,
+        "id": 54,
         "spanish": "especialmente",
         "english": "especially",
         "chinese": "特别地",
         "category": "adverb"
     },
     {
-        "id": 56,
+        "id": 55,
         "spanish": "necesidad",
         "english": "necessity",
         "chinese": "必要性",
         "category": "noun"
     },
     {
-        "id": 57,
+        "id": 56,
         "spanish": "producir",
         "english": "to produce",
         "chinese": "生产",
         "category": "verb"
     },
     {
-        "id": 58,
+        "id": 57,
         "spanish": "actualmente",
         "english": "currently",
         "chinese": "目前",
         "category": "adverb"
     },
     {
-        "id": 59,
+        "id": 58,
         "spanish": "diversidad",
         "english": "diversity",
         "chinese": "多样性",
         "category": "noun"
     },
     {
-        "id": 60,
+        "id": 59,
         "spanish": "combinar",
         "english": "to combine",
         "chinese": "结合",
         "category": "verb"
     },
     {
-        "id": 61,
+        "id": 60,
         "spanish": "exactamente",
         "english": "exactly",
         "chinese": "确切地",
         "category": "adverb"
     },
     {
-        "id": 62,
+        "id": 61,
         "spanish": "estrategia",
         "english": "strategy",
         "chinese": "策略",
         "category": "noun"
     },
     {
-        "id": 63,
+        "id": 62,
         "spanish": "transformar",
         "english": "to transform",
         "chinese": "转变",
         "category": "verb"
     },
     {
-        "id": 64,
+        "id": 63,
         "spanish": "simultáneamente",
         "english": "simultaneously",
         "chinese": "同时地",
         "category": "adverb"
     },
     {
-        "id": 65,
+        "id": 64,
         "spanish": "competencia",
         "english": "competition",
         "chinese": "竞争",
         "category": "noun"
     },
     {
-        "id": 66,
+        "id": 65,
         "spanish": "identificar",
         "english": "to identify",
         "chinese": "识别",
         "category": "verb"
     },
     {
-        "id": 67,
+        "id": 66,
         "spanish": "progresivamente",
         "english": "progressively",
         "chinese": "渐进地",
         "category": "adverb"
     },
     {
-        "id": 68,
+        "id": 67,
         "spanish": "beneficio",
         "english": "benefit",
         "chinese": "利益",
         "category": "noun"
     },
     {
-        "id": 69,
+        "id": 68,
         "spanish": "demostrar",
         "english": "to demonstrate",
         "chinese": "证明",
         "category": "verb"
     },
     {
-        "id": 70,
+        "id": 69,
         "spanish": "relativamente",
         "english": "relatively",
         "chinese": "相对地",
         "category": "adverb"
     },
     {
-        "id": 71,
+        "id": 70,
         "spanish": "inversión",
         "english": "investment",
         "chinese": "投资",
         "category": "noun"
     },
     {
-        "id": 72,
+        "id": 71,
         "spanish": "influir",
         "english": "to influence",
         "chinese": "影响",
         "category": "verb"
     },
     {
-        "id": 73,
+        "id": 72,
         "spanish": "naturalmente",
         "english": "naturally",
         "chinese": "自然地",
         "category": "adverb"
     },
     {
-        "id": 74,
+        "id": 73,
         "spanish": "concepto",
         "english": "concept",
         "chinese": "概念",
         "category": "noun"
     },
     {
-        "id": 75,
+        "id": 74,
         "spanish": "evaluar",
         "english": "to evaluate",
         "chinese": "评估",
         "category": "verb"
     },
     {
-        "id": 76,
+        "id": 75,
         "spanish": "adicionalmente",
         "english": "additionally",
         "chinese": "另外",
         "category": "adverb"
     },
     {
-        "id": 77,
+        "id": 76,
         "spanish": "perspectiva",
         "english": "perspective",
         "chinese": "观点",
         "category": "noun"
     },
     {
-        "id": 78,
+        "id": 77,
         "spanish": "concentrar",
         "english": "to concentrate",
         "chinese": "集中",
         "category": "verb"
     },
     {
-        "id": 79,
+        "id": 78,
         "spanish": "directamente",
         "english": "directly",
         "chinese": "直接地",
         "category": "adverb"
     },
     {
-        "id": 80,
+        "id": 79,
         "spanish": "evidencia",
         "english": "evidence",
         "chinese": "证据",
         "category": "noun"
     },
     {
-        "id": 81,
+        "id": 80,
         "spanish": "modificar",
         "english": "to modify",
         "chinese": "修改",
         "category": "verb"
     },
     {
-        "id": 82,
+        "id": 81,
         "spanish": "prácticamente",
         "english": "practically",
         "chinese": "实际上",
         "category": "adverb"
     },
     {
-        "id": 83,
+        "id": 82,
         "spanish": "elemento",
         "english": "element",
         "chinese": "元素",
         "category": "noun"
     },
     {
-        "id": 84,
+        "id": 83,
         "spanish": "contribuir",
         "english": "to contribute",
         "chinese": "贡献",
         "category": "verb"
     },
     {
-        "id": 85,
+        "id": 84,
         "spanish": "originalmente",
         "english": "originally",
         "chinese": "最初",
         "category": "adverb"
     },
     {
-        "id": 86,
+        "id": 85,
         "spanish": "habilidad",
         "english": "ability",
         "chinese": "能力",
         "category": "noun"
     },
     {
-        "id": 87,
+        "id": 86,
         "spanish": "dedicar",
         "english": "to dedicate",
         "chinese": "奉献",
         "category": "verb"
     },
     {
-        "id": 88,
+        "id": 87,
         "spanish": "independientemente",
         "english": "independently",
         "chinese": "独立地",
         "category": "adverb"
     },
     {
-        "id": 89,
+        "id": 88,
         "spanish": "contenido",
         "english": "content",
         "chinese": "内容",
         "category": "noun"
     },
     {
-        "id": 90,
-        "spanish": "construir",
-        "english": "to build",
-        "chinese": "建造",
-        "category": "verb"
-    },
-    {
-        "id": 91,
+        "id": 89,
         "spanish": "eventualmente",
         "english": "eventually",
         "chinese": "最终",
         "category": "adverb"
     },
     {
-        "id": 92,
+        "id": 90,
         "spanish": "institución",
         "english": "institution",
         "chinese": "机构",
         "category": "noun"
     },
     {
-        "id": 93,
+        "id": 91,
         "spanish": "reconocer",
         "english": "to recognize",
         "chinese": "认识",
         "category": "verb"
     },
     {
-        "id": 94,
+        "id": 92,
         "spanish": "inicialmente",
         "english": "initially",
         "chinese": "最初",
         "category": "adverb"
     },
     {
-        "id": 95,
+        "id": 93,
         "spanish": "posibilidad",
         "english": "possibility",
         "chinese": "可能性",
         "category": "noun"
     },
     {
-        "id": 96,
+        "id": 94,
         "spanish": "determinar",
         "english": "to determine",
         "chinese": "确定",
         "category": "verb"
     },
     {
-        "id": 97,
+        "id": 95,
         "spanish": "automáticamente",
         "english": "automatically",
         "chinese": "自动地",
         "category": "adverb"
     },
     {
-        "id": 98,
+        "id": 96,
         "spanish": "variedad",
         "english": "variety",
         "chinese": "多样性",
         "category": "noun"
     },
     {
-        "id": 99,
+        "id": 97,
         "spanish": "integrar",
         "english": "to integrate",
         "chinese": "整合",
         "category": "verb"
     },
     {
-        "id": 100,
+        "id": 98,
         "spanish": "fundamentalmente",
         "english": "fundamentally",
         "chinese": "根本上",
         "category": "adverb"
     },
     {
-        "id": 101,
+        "id": 99,
         "spanish": "recurso",
         "english": "resource",
         "chinese": "资源",
         "category": "noun"
     },
     {
-        "id": 102,
+        "id": 100,
         "spanish": "adaptar",
         "english": "to adapt",
         "chinese": "适应",
         "category": "verb"
     },
     {
-        "id": 103,
+        "id": 101,
         "spanish": "gradualmente",
         "english": "gradually",
         "chinese": "逐渐地",
         "category": "adverb"
     },
     {
-        "id": 104,
+        "id": 102,
         "spanish": "sistema",
         "english": "system",
         "chinese": "系统",
         "category": "noun"
     },
     {
-        "id": 105,
+        "id": 103,
         "spanish": "mejorar",
         "english": "to improve",
         "chinese": "改进",
         "category": "verb"
     },
     {
-        "id": 106,
+        "id": 104,
         "spanish": "básicamente",
         "english": "basically",
         "chinese": "基本上",
         "category": "adverb"
     },
     {
-        "id": 107,
+        "id": 105,
         "spanish": "proceso",
         "english": "process",
         "chinese": "过程",
         "category": "noun"
     },
     {
-        "id": 108,
+        "id": 106,
         "spanish": "implementar",
         "english": "to implement",
         "chinese": "实施",
         "category": "verb"
     },
     {
-        "id": 109,
+        "id": 107,
         "spanish": "generalmente",
         "english": "generally",
         "chinese": "通常",
         "category": "adverb"
     },
     {
-        "id": 110,
+        "id": 108,
         "spanish": "resultado",
         "english": "result",
         "chinese": "结果",
         "category": "noun"
     },
     {
-        "id": 111,
+        "id": 109,
         "spanish": "optimizar",
         "english": "to optimize",
         "chinese": "优化",
         "category": "verb"
     },
     {
-        "id": 112,
+        "id": 110,
         "spanish": "típicamente",
         "english": "typically",
         "chinese": "典型地",
         "category": "adverb"
     },
     {
-        "id": 113,
+        "id": 111,
         "spanish": "método",
         "english": "method",
         "chinese": "方法",
         "category": "noun"
     },
     {
-        "id": 114,
+        "id": 112,
         "spanish": "coordinar",
         "english": "to coordinate",
         "chinese": "协调",
         "category": "verb"
     },
     {
-        "id": 115,
-        "spanish": "relativamente",
-        "english": "relatively",
-        "chinese": "相对地",
-        "category": "adverb"
-    },
-    {
-        "id": 116,
+        "id": 113,
         "spanish": "factor",
         "english": "factor",
         "chinese": "因素",
         "category": "noun"
     },
     {
-        "id": 117,
+        "id": 114,
         "spanish": "facilitar",
         "english": "to facilitate",
         "chinese": "促进",
         "category": "verb"
     },
     {
-        "id": 118,
+        "id": 115,
         "spanish": "aparentemente",
         "english": "apparently",
         "chinese": "显然",
         "category": "adverb"
     },
     {
-        "id": 119,
+        "id": 116,
         "spanish": "contexto",
         "english": "context",
         "chinese": "上下文",
         "category": "noun"
     },
     {
-        "id": 120,
+        "id": 117,
         "spanish": "garantizar",
         "english": "to guarantee",
         "chinese": "保证",
         "category": "verb"
     },
     {
-        "id": 121,
+        "id": 118,
         "spanish": "obviamente",
         "english": "obviously",
         "chinese": "明显地",
         "category": "adverb"
     },
     {
-        "id": 122,
+        "id": 119,
         "spanish": "impacto",
         "english": "impact",
         "chinese": "影响",
         "category": "noun"
     },
     {
-        "id": 123,
+        "id": 120,
         "spanish": "asegurar",
         "english": "to ensure",
         "chinese": "确保",
         "category": "verb"
     },
     {
-        "id": 124,
+        "id": 121,
         "spanish": "claramente",
         "english": "clearly",
         "chinese": "清楚地",
         "category": "adverb"
     },
     {
-        "id": 125,
+        "id": 122,
         "spanish": "alcance",
         "english": "scope",
         "chinese": "范围",
         "category": "noun"
     },
     {
-        "id": 126,
+        "id": 123,
         "spanish": "priorizar",
         "english": "to prioritize",
         "chinese": "优先",
         "category": "verb"
     },
     {
-        "id": 127,
+        "id": 124,
         "spanish": "notablemente",
         "english": "notably",
         "chinese": "显著地",
         "category": "adverb"
     },
     {
-        "id": 128,
+        "id": 125,
         "spanish": "reto",
         "english": "challenge",
         "chinese": "挑战",
         "category": "noun"
     },
     {
-        "id": 129,
+        "id": 126,
         "spanish": "sustentar",
         "english": "to sustain",
         "chinese": "维持",
         "category": "verb"
     },
     {
-        "id": 130,
+        "id": 127,
         "spanish": "significativamente",
         "english": "significantly",
         "chinese": "显著地",
         "category": "adverb"
     },
     {
-        "id": 131,
+        "id": 128,
         "spanish": "aspecto",
         "english": "aspect",
         "chinese": "方面",
         "category": "noun"
     },
     {
-        "id": 132,
+        "id": 129,
         "spanish": "validar",
         "english": "to validate",
         "chinese": "验证",
         "category": "verb"
     },
     {
-        "id": 133,
+        "id": 130,
         "spanish": "particularmente",
         "english": "particularly",
         "chinese": "特别地",
         "category": "adverb"
     },
     {
-        "id": 134,
+        "id": 131,
         "spanish": "criterio",
         "english": "criterion",
         "chinese": "标准",
         "category": "noun"
     },
     {
-        "id": 135,
+        "id": 132,
         "spanish": "estandarizar",
         "english": "to standardize",
         "chinese": "标准化",
         "category": "verb"
     },
     {
-        "id": 136,
+        "id": 133,
         "spanish": "evidentemente",
         "english": "evidently",
         "chinese": "明显地",
         "category": "adverb"
     },
     {
-        "id": 137,
+        "id": 134,
         "spanish": "paradigma",
         "english": "paradigm",
         "chinese": "范式",
         "category": "noun"
     },
     {
-        "id": 138,
+        "id": 135,
         "spanish": "consolidar",
         "english": "to consolidate",
         "chinese": "巩固",
         "category": "verb"
     },
     {
-        "id": 139,
+        "id": 136,
         "spanish": "consecuentemente",
         "english": "consequently",
         "chinese": "因此",
         "category": "adverb"
     },
     {
-        "id": 140,
+        "id": 137,
         "spanish": "marco",
         "english": "framework",
         "chinese": "框架",
         "category": "noun"
     },
     {
-        "id": 141,
+        "id": 138,
         "spanish": "innovar",
         "english": "to innovate",
         "chinese": "创新",
         "category": "verb"
     },
     {
-        "id": 142,
+        "id": 139,
         "spanish": "esencialmente",
         "english": "essentially",
         "chinese": "本质上",
         "category": "adverb"
     },
     {
-        "id": 143,
+        "id": 140,
         "spanish": "dinámica",
         "english": "dynamics",
         "chinese": "动态",
         "category": "noun"
     },
     {
-        "id": 144,
+        "id": 141,
         "spanish": "potenciar",
         "english": "to enhance",
         "chinese": "增强",
         "category": "verb"
     },
     {
-        "id": 145,
+        "id": 142,
         "spanish": "inherentemente",
         "english": "inherently",
         "chinese": "固有地",
         "category": "adverb"
     },
     {
-        "id": 146,
+        "id": 143,
         "spanish": "plataforma",
         "english": "platform",
         "chinese": "平台",
         "category": "noun"
     },
     {
-        "id": 147,
+        "id": 144,
         "spanish": "sincronizar",
         "english": "to synchronize",
         "chinese": "同步",
         "category": "verb"
     },
     {
-        "id": 148,
+        "id": 145,
         "spanish": "intrínsecamente",
         "english": "intrinsically",
         "chinese": "本质上",
         "category": "adverb"
     },
     {
-        "id": 149,
+        "id": 146,
         "spanish": "sinergia",
         "english": "synergy",
         "chinese": "协同",
         "category": "noun"
     },
     {
-        "id": 150,
+        "id": 147,
         "spanish": "escalar",
         "english": "to scale",
         "chinese": "扩展",
         "category": "verb"
     },
     {
-        "id": 151,
+        "id": 148,
         "spanish": "interfaz",
         "english": "interface",
         "chinese": "界面",
         "category": "noun"
     },
     {
-        "id": 152,
+        "id": 149,
         "spanish": "actualizar",
         "english": "to update",
         "chinese": "更新",
         "category": "verb"
     },
     {
-        "id": 153,
+        "id": 150,
         "spanish": "virtualmente",
         "english": "virtually",
         "chinese": "虚拟地",
         "category": "adverb"
     },
     {
-        "id": 154,
+        "id": 151,
         "spanish": "protocolo",
         "english": "protocol",
         "chinese": "协议",
         "category": "noun"
     },
     {
-        "id": 155,
+        "id": 152,
         "spanish": "conectar",
         "english": "to connect",
         "chinese": "连接",
         "category": "verb"
     },
     {
-        "id": 156,
+        "id": 153,
         "spanish": "digitalmente",
         "english": "digitally",
         "chinese": "数字化地",
         "category": "adverb"
     },
     {
-        "id": 157,
+        "id": 154,
         "spanish": "servidor",
         "english": "server",
         "chinese": "服务器",
         "category": "noun"
     },
     {
-        "id": 158,
+        "id": 155,
         "spanish": "encriptar",
         "english": "to encrypt",
         "chinese": "加密",
         "category": "verb"
     },
     {
-        "id": 159,
+        "id": 156,
         "spanish": "secuencialmente",
         "english": "sequentially",
         "chinese": "顺序地",
         "category": "adverb"
     },
     {
-        "id": 160,
+        "id": 157,
         "spanish": "red",
         "english": "network/grid",
         "chinese": "网络",
         "category": "noun"
     },
     {
-        "id": 161,
+        "id": 158,
         "spanish": "compartir",
         "english": "to share",
         "chinese": "分享",
         "category": "verb"
     },
     {
-        "id": 162,
+        "id": 159,
         "spanish": "globalmente",
         "english": "globally",
         "chinese": "全球地",
         "category": "adverb"
     },
     {
-        "id": 163,
+        "id": 160,
         "spanish": "datos",
         "english": "data",
         "chinese": "数据",
         "category": "noun"
     },
     {
-        "id": 164,
+        "id": 161,
         "spanish": "almacenar",
         "english": "to store",
         "chinese": "存储",
         "category": "verb"
     },
     {
-        "id": 165,
+        "id": 162,
         "spanish": "localmente",
         "english": "locally",
         "chinese": "本地地",
         "category": "adverb"
     },
     {
-        "id": 166,
+        "id": 163,
         "spanish": "archivo",
         "english": "file",
         "chinese": "文件",
         "category": "noun"
     },
     {
-        "id": 167,
+        "id": 164,
         "spanish": "descargar",
         "english": "to download",
         "chinese": "下载",
         "category": "verb"
     },
     {
-        "id": 168,
+        "id": 165,
         "spanish": "remotamente",
         "english": "remotely",
         "chinese": "远程地",
         "category": "adverb"
     },
     {
-        "id": 169,
+        "id": 166,
         "spanish": "código",
         "english": "code",
         "chinese": "代码",
         "category": "noun"
     },
     {
-        "id": 170,
+        "id": 167,
         "spanish": "programar",
         "english": "to program",
         "chinese": "编程",
         "category": "verb"
     },
     {
-        "id": 171,
-        "spanish": "automáticamente",
-        "english": "automatically",
-        "chinese": "自动地",
-        "category": "adverb"
-    },
-    {
-        "id": 172,
+        "id": 168,
         "spanish": "software",
         "english": "software",
         "chinese": "软件",
         "category": "noun"
     },
     {
-        "id": 173,
+        "id": 169,
         "spanish": "instalar",
         "english": "to install",
         "chinese": "安装",
         "category": "verb"
     },
     {
-        "id": 174,
+        "id": 170,
         "spanish": "periódicamente",
         "english": "periodically",
         "chinese": "定期地",
         "category": "adverb"
     },
     {
-        "id": 175,
+        "id": 171,
         "spanish": "hardware",
         "english": "hardware",
         "chinese": "硬件",
         "category": "noun"
     },
     {
-        "id": 176,
+        "id": 172,
         "spanish": "configurar",
         "english": "to configure",
         "chinese": "配置",
         "category": "verb"
     },
     {
-        "id": 177,
+        "id": 173,
         "spanish": "técnicamente",
         "english": "technically",
         "chinese": "技术上",
         "category": "adverb"
     },
     {
-        "id": 178,
+        "id": 174,
         "spanish": "dispositivo",
         "english": "device",
         "chinese": "设备",
         "category": "noun"
     },
     {
-        "id": 179,
-        "spanish": "sincronizar",
-        "english": "to synchronize",
-        "chinese": "同步",
-        "category": "verb"
-    },
-    {
-        "id": 180,
-        "spanish": "simultáneamente",
-        "english": "simultaneously",
-        "chinese": "同时地",
-        "category": "adverb"
-    },
-    {
-        "id": 181,
+        "id": 175,
         "spanish": "aplicación",
         "english": "application",
         "chinese": "应用",
         "category": "noun"
     },
     {
-        "id": 182,
-        "spanish": "desarrollar",
-        "english": "to develop",
-        "chinese": "开发",
-        "category": "verb"
-    },
-    {
-        "id": 183,
+        "id": 176,
         "spanish": "interactivamente",
         "english": "interactively",
         "chinese": "交互地",
         "category": "adverb"
     },
     {
-        "id": 184,
+        "id": 177,
         "spanish": "usuario",
         "english": "user",
         "chinese": "用户",
         "category": "noun"
     },
     {
-        "id": 185,
+        "id": 178,
         "spanish": "navegar",
         "english": "to browse",
         "chinese": "浏览",
         "category": "verb"
     },
     {
-        "id": 186,
+        "id": 179,
         "spanish": "intuitivamente",
         "english": "intuitively",
         "chinese": "直观地",
         "category": "adverb"
     },
     {
-        "id": 187,
+        "id": 180,
         "spanish": "página",
         "english": "page",
         "chinese": "页面",
         "category": "noun"
     },
     {
-        "id": 188,
+        "id": 181,
         "spanish": "buscar",
         "english": "to search",
         "chinese": "搜索",
         "category": "verb"
     },
     {
-        "id": 189,
+        "id": 182,
         "spanish": "instantáneamente",
         "english": "instantly",
         "chinese": "立即",
         "category": "adverb"
     },
     {
-        "id": 190,
+        "id": 183,
         "spanish": "enlace",
         "english": "link",
         "chinese": "链接",
         "category": "noun"
     },
     {
-        "id": 191,
-        "spanish": "comunicar",
-        "english": "to communicate",
-        "chinese": "通信",
-        "category": "verb"
-    },
-    {
-        "id": 192,
+        "id": 184,
         "spanish": "bidireccionalmente",
         "english": "bidirectionally",
         "chinese": "双向地",
         "category": "adverb"
     },
     {
-        "id": 193,
+        "id": 185,
         "spanish": "mensaje",
         "english": "message",
         "chinese": "消息",
         "category": "noun"
     },
     {
-        "id": 194,
+        "id": 186,
         "spanish": "enviar",
         "english": "to send",
         "chinese": "发送",
         "category": "verb"
     },
     {
-        "id": 195,
+        "id": 187,
         "spanish": "asíncronamente",
         "english": "asynchronously",
         "chinese": "异步地",
         "category": "adverb"
     },
     {
-        "id": 196,
+        "id": 188,
         "spanish": "correo",
         "english": "email",
         "chinese": "邮件",
         "category": "noun"
     },
     {
-        "id": 197,
+        "id": 189,
         "spanish": "recibir",
         "english": "to receive",
         "chinese": "接收",
         "category": "verb"
     },
     {
-        "id": 198,
+        "id": 190,
         "spanish": "electrónicamente",
         "english": "electronically",
         "chinese": "电子地",
         "category": "adverb"
     },
     {
-        "id": 199,
-        "spanish": "contenido",
-        "english": "content",
-        "chinese": "内容",
-        "category": "noun"
-    },
-    {
-        "id": 200,
+        "id": 191,
         "spanish": "publicar",
         "english": "to publish",
         "chinese": "发布",
         "category": "verb"
     },
     {
-        "id": 201,
+        "id": 192,
         "spanish": "león",
         "english": "lion",
         "chinese": "狮子",
         "category": "noun"
     },
     {
-        "id": 202,
+        "id": 193,
         "spanish": "tigre",
         "english": "tiger",
         "chinese": "老虎",
         "category": "noun"
     },
     {
-        "id": 203,
+        "id": 194,
         "spanish": "elefante",
         "english": "elephant",
         "chinese": "大象",
         "category": "noun"
     },
     {
-        "id": 204,
+        "id": 195,
         "spanish": "jirafa",
         "english": "giraffe",
         "chinese": "长颈鹿",
         "category": "noun"
     },
     {
-        "id": 205,
+        "id": 196,
         "spanish": "mono",
         "english": "monkey",
         "chinese": "猴子",
         "category": "noun"
     },
     {
-        "id": 206,
+        "id": 197,
         "spanish": "serpiente",
         "english": "snake",
         "chinese": "蛇",
         "category": "noun"
     },
     {
-        "id": 207,
+        "id": 198,
         "spanish": "cocodrilo",
         "english": "crocodile",
         "chinese": "鳄鱼",
         "category": "noun"
     },
     {
-        "id": 208,
+        "id": 199,
         "spanish": "tortuga",
         "english": "turtle",
         "chinese": "乌龟",
         "category": "noun"
     },
     {
-        "id": 209,
+        "id": 200,
         "spanish": "delfín",
         "english": "dolphin",
         "chinese": "海豚",
         "category": "noun"
     },
     {
-        "id": 210,
+        "id": 201,
         "spanish": "ballena",
         "english": "whale",
         "chinese": "鲸鱼",
         "category": "noun"
     },
     {
-        "id": 211,
+        "id": 202,
         "spanish": "pingüino",
         "english": "penguin",
         "chinese": "企鹅",
         "category": "noun"
     },
     {
-        "id": 212,
+        "id": 203,
         "spanish": "águila",
         "english": "eagle",
         "chinese": "鹰",
         "category": "noun"
     },
     {
-        "id": 213,
+        "id": 204,
         "spanish": "búho",
         "english": "owl",
         "chinese": "猫头鹰",
         "category": "noun"
     },
     {
-        "id": 214,
+        "id": 205,
         "spanish": "ardilla",
         "english": "squirrel",
         "chinese": "松鼠",
         "category": "noun"
     },
     {
-        "id": 215,
+        "id": 206,
         "spanish": "zorro",
         "english": "fox",
         "chinese": "狐狸",
         "category": "noun"
     },
     {
-        "id": 216,
+        "id": 207,
         "spanish": "lobo",
         "english": "wolf",
         "chinese": "狼",
         "category": "noun"
     },
     {
-        "id": 217,
+        "id": 208,
         "spanish": "oso",
         "english": "bear",
         "chinese": "熊",
         "category": "noun"
     },
     {
-        "id": 218,
+        "id": 209,
         "spanish": "cebra",
         "english": "zebra",
         "chinese": "斑马",
         "category": "noun"
     },
     {
-        "id": 219,
+        "id": 210,
         "spanish": "rinoceronte",
         "english": "rhinoceros",
         "chinese": "犀牛",
         "category": "noun"
     },
     {
-        "id": 220,
+        "id": 211,
         "spanish": "hipopótamo",
         "english": "hippopotamus",
         "chinese": "河马",
         "category": "noun"
     },
     {
-        "id": 221,
+        "id": 212,
         "spanish": "jaguar",
         "english": "jaguar",
         "chinese": "美洲虎",
         "category": "noun"
     },
     {
-        "id": 222,
+        "id": 213,
         "spanish": "puma",
         "english": "puma",
         "chinese": "美洲狮",
         "category": "noun"
     },
     {
-        "id": 223,
+        "id": 214,
         "spanish": "koala",
         "english": "koala",
         "chinese": "考拉",
         "category": "noun"
     },
     {
-        "id": 224,
+        "id": 215,
         "spanish": "canguro",
         "english": "kangaroo",
         "chinese": "袋鼠",
         "category": "noun"
     },
     {
-        "id": 225,
+        "id": 216,
         "spanish": "mapache",
         "english": "raccoon",
         "chinese": "浣熊",
         "category": "noun"
     },
     {
-        "id": 226,
+        "id": 217,
         "spanish": "castor",
         "english": "beaver",
         "chinese": "海狸",
         "category": "noun"
     },
     {
-        "id": 227,
+        "id": 218,
         "spanish": "nutria",
         "english": "otter",
         "chinese": "水獭",
         "category": "noun"
     },
     {
-        "id": 228,
+        "id": 219,
         "spanish": "murciélago",
         "english": "bat",
         "chinese": "蝙蝠",
         "category": "noun"
     },
     {
-        "id": 229,
+        "id": 220,
         "spanish": "erizo",
         "english": "hedgehog",
         "chinese": "刺猬",
         "category": "noun"
     },
     {
-        "id": 230,
+        "id": 221,
         "spanish": "tejón",
         "english": "badger",
         "chinese": "獾",
         "category": "noun"
     },
     {
-        "id": 231,
+        "id": 222,
         "spanish": "esperar",
         "english": "to wait",
         "chinese": "等待",
         "category": "verb"
     },
     {
-        "id": 232,
+        "id": 223,
         "spanish": "temporada",
         "english": "season",
         "chinese": "季节",
         "category": "noun"
     },
     {
-        "id": 233,
+        "id": 224,
         "spanish": "morder",
         "english": "to bite",
         "chinese": "咬",
         "category": "verb"
     },
     {
-        "id": 234,
+        "id": 225,
         "spanish": "disfruten",
         "english": "enjoy (they/you all)",
         "chinese": "享受（他们/你们）",
         "category": "verb"
     },
     {
-        "id": 235,
+        "id": 226,
         "spanish": "solatario",
         "english": "loner",
         "chinese": "孤独者",
         "category": "noun"
     },
     {
-        "id": 236,
+        "id": 227,
         "spanish": "infierno",
         "english": "hell",
         "chinese": "地狱",
         "category": "noun"
     },
     {
-        "id": 237,
+        "id": 228,
         "spanish": "alguna vez",
         "english": "ever",
         "chinese": "曾经",
         "category": "adverb"
     },
     {
-        "id": 238,
+        "id": 229,
         "spanish": "agradables",
         "english": "pleasant",
         "chinese": "令人愉快的",
         "category": "adjective"
     },
     {
-        "id": 239,
+        "id": 230,
         "spanish": "desagradables",
         "english": "unpleasant",
         "chinese": "令人不快的",
         "category": "adjective"
     },
     {
-        "id": 240,
+        "id": 231,
         "spanish": "valorado",
         "english": "valued",
         "chinese": "被重视的",
         "category": "adjective"
     },
     {
-        "id": 241,
+        "id": 232,
         "spanish": "autorealizado",
         "english": "self-actualized",
         "chinese": "自我实现的",
         "category": "adjective"
     },
     {
-        "id": 242,
+        "id": 233,
         "spanish": "las facturas",
         "english": "the bills",
         "chinese": "账单",
         "category": "noun"
     },
     {
-        "id": 243,
+        "id": 234,
         "spanish": "conocimiento",
         "english": "knowledge",
         "chinese": "知识",
         "category": "noun"
     },
     {
-        "id": 244,
+        "id": 235,
         "spanish": "estar a gusto",
         "english": "to be comfortable",
         "chinese": "感到自在",
         "category": "verb phrase"
     },
     {
-        "id": 245,
-        "spanish": "arreglar",
-        "english": "to fix",
-        "chinese": "修理",
-        "category": "verb"
-    },
-    {
-        "id": 246,
+        "id": 236,
         "spanish": "arreglar mi jardin",
         "english": "to fix my garden",
         "chinese": "整理我的花园",
         "category": "verb phrase"
     },
     {
-        "id": 247,
+        "id": 237,
         "spanish": "tampoco",
         "english": "neither/either",
         "chinese": "也不",
         "category": "adverb"
     },
     {
-        "id": 248,
-        "spanish": "construir",
-        "english": "to build",
-        "chinese": "建造",
-        "category": "verb"
-    },
-    {
-        "id": 249,
+        "id": 238,
         "spanish": "crecar",
         "english": "to grow (possible typo: crecer)",
         "chinese": "成长",
         "category": "verb"
     },
     {
-        "id": 250,
+        "id": 239,
         "spanish": "algun",
         "english": "some/any",
         "chinese": "一些/任何",
         "category": "adjective"
     },
     {
-        "id": 251,
+        "id": 240,
         "spanish": "alguien",
         "english": "someone",
         "chinese": "某人",
         "category": "pronoun"
     },
     {
-        "id": 252,
+        "id": 241,
         "spanish": "apestar",
         "english": "to stink",
         "chinese": "发臭",
         "category": "verb"
     },
     {
-        "id": 253,
+        "id": 242,
         "spanish": "yo apesto",
         "english": "I stink",
         "chinese": "我很臭",
         "category": "verb phrase"
     },
     {
-        "id": 254,
+        "id": 243,
         "spanish": "restaur",
         "english": "to restore",
         "chinese": "恢复",
         "category": "verb"
     },
     {
-        "id": 255,
+        "id": 244,
         "spanish": "empressa",
         "english": "company",
         "chinese": "公司",
         "category": "noun"
     },
     {
-        "id": 256,
+        "id": 245,
         "spanish": "me gustaría",
         "english": "I would like",
         "chinese": "我想要",
         "category": "verb phrase"
     },
     {
-        "id": 257,
+        "id": 246,
         "spanish": "montar",
         "english": "to ride",
         "chinese": "骑/乘",
         "category": "verb"
     },
     {
-        "id": 258,
+        "id": 247,
         "spanish": "bucear",
         "english": "to dive",
         "chinese": "潜水",
         "category": "verb"
     },
     {
-        "id": 259,
+        "id": 248,
         "spanish": "de repente",
         "english": "suddenly",
         "chinese": "突然",
         "category": "adverb"
     },
     {
-        "id": 260,
+        "id": 249,
         "spanish": "sorpresa",
         "english": "surprise",
         "chinese": "惊喜",
         "category": "noun"
     },
     {
-        "id": 261,
+        "id": 250,
         "spanish": "probarla",
         "english": "to try it",
         "chinese": "尝试它",
         "category": "verb phrase"
     },
     {
-        "id": 262,
+        "id": 251,
         "spanish": "mesclas",
         "english": "mixes",
         "chinese": "混合物",
         "category": "noun"
     },
     {
-        "id": 264,
+        "id": 252,
         "spanish": "el otro dia",
         "english": "the other day",
         "chinese": "前几天",
         "category": "noun phrase"
     },
     {
-        "id": 265,
+        "id": 253,
         "spanish": "al día siguiente",
         "english": "the next day",
         "chinese": "第二天",
         "category": "noun phrase"
     },
     {
-        "id": 266,
+        "id": 254,
         "spanish": "más tarde",
         "english": "later",
         "chinese": "稍后",
         "category": "adverb"
     },
     {
-        "id": 267,
+        "id": 255,
         "spanish": "he estado",
         "english": "I have been",
         "chinese": "我曾经是",
         "category": "verb phrase"
     },
     {
-        "id": 268,
+        "id": 256,
         "spanish": "has trabajado",
         "english": "you have worked",
         "chinese": "你已经工作了",
         "category": "verb phrase"
     },
     {
-        "id": 269,
+        "id": 257,
         "spanish": "ha llegado",
         "english": "he/she has arrived",
         "chinese": "他/她已经到达了",
         "category": "verb phrase"
     },
     {
-        "id": 270,
+        "id": 258,
         "spanish": "hemos comido",
         "english": "we have eaten",
         "chinese": "我们已经吃了",
         "category": "verb phrase"
     },
     {
-        "id": 271,
+        "id": 259,
         "spanish": "habéis estudiado",
         "english": "you all have studied",
         "chinese": "你们都学习了",
         "category": "verb phrase"
     },
     {
-        "id": 272,
+        "id": 260,
         "spanish": "han vivido",
         "english": "they have lived",
         "chinese": "他们已经生活了",
         "category": "verb phrase"
     },
     {
-        "id": 273,
+        "id": 261,
         "spanish": "he viajado",
         "english": "I have traveled",
         "chinese": "我已经旅行了",
         "category": "verb phrase"
     },
     {
-        "id": 274,
+        "id": 262,
         "spanish": "has conocido",
         "english": "you have met",
         "chinese": "你已经认识了",
         "category": "verb phrase"
     },
     {
-        "id": 275,
+        "id": 263,
         "spanish": "ha visitado",
         "english": "he/she has visited",
         "chinese": "他/她已经访问了",
         "category": "verb phrase"
     },
     {
-        "id": 276,
+        "id": 264,
         "spanish": "hemos terminado",
         "english": "we have finished",
         "chinese": "我们已经完成了",
         "category": "verb phrase"
     },
     {
-        "id": 277,
+        "id": 265,
         "spanish": "habéis decidido",
         "english": "you all have decided",
         "chinese": "你们都决定了",
         "category": "verb phrase"
     },
     {
-        "id": 278,
+        "id": 266,
         "spanish": "han empezado",
         "english": "they have started",
         "chinese": "他们已经开始了",
         "category": "verb phrase"
     },
     {
-        "id": 279,
+        "id": 267,
         "spanish": "he comprado",
         "english": "I have bought",
         "chinese": "我已经买了",
         "category": "verb phrase"
     },
     {
-        "id": 280,
+        "id": 268,
         "spanish": "has perdido",
         "english": "you have lost",
         "chinese": "你已经失去了",
         "category": "verb phrase"
     },
     {
-        "id": 281,
+        "id": 269,
         "spanish": "ha encontrado",
         "english": "he/she has found",
         "chinese": "他/她已经找到了",
         "category": "verb phrase"
     },
     {
-        "id": 282,
+        "id": 270,
         "spanish": "hemos olvidado",
         "english": "we have forgotten",
         "chinese": "我们已经忘记了",
         "category": "verb phrase"
     },
     {
-        "id": 283,
+        "id": 271,
         "spanish": "habéis aprendido",
         "english": "you all have learned",
         "chinese": "你们都学会了",
         "category": "verb phrase"
     },
     {
-        "id": 284,
+        "id": 272,
         "spanish": "han entendido",
         "english": "they have understood",
         "chinese": "他们已经理解了",
         "category": "verb phrase"
     },
     {
-        "id": 285,
+        "id": 273,
         "spanish": "he explicado",
         "english": "I have explained",
         "chinese": "我已经解释了",
         "category": "verb phrase"
     },
     {
-        "id": 286,
+        "id": 274,
         "spanish": "has escrito",
         "english": "you have written",
         "chinese": "你已经写了",
         "category": "verb phrase"
     },
     {
-        "id": 287,
+        "id": 275,
         "spanish": "ha leído",
         "english": "he/she has read",
         "chinese": "他/她已经读了",
         "category": "verb phrase"
     },
     {
-        "id": 288,
+        "id": 276,
         "spanish": "hemos visto",
         "english": "we have seen",
         "chinese": "我们已经看到了",
         "category": "verb phrase"
     },
     {
-        "id": 289,
+        "id": 277,
         "spanish": "habéis oído",
         "english": "you all have heard",
         "chinese": "你们都听到了",
         "category": "verb phrase"
     },
     {
-        "id": 290,
+        "id": 278,
         "spanish": "han sentido",
         "english": "they have felt",
         "chinese": "他们已经感觉到了",
         "category": "verb phrase"
     },
     {
-        "id": 291,
+        "id": 279,
         "spanish": "he pensado",
         "english": "I have thought",
         "chinese": "我已经想了",
         "category": "verb phrase"
     },
     {
-        "id": 292,
+        "id": 280,
         "spanish": "has creído",
         "english": "you have believed",
         "chinese": "你已经相信了",
         "category": "verb phrase"
     },
     {
-        "id": 293,
+        "id": 281,
         "spanish": "ha sabido",
         "english": "he/she has known",
         "chinese": "他/她已经知道了",
         "category": "verb phrase"
     },
     {
-        "id": 294,
+        "id": 282,
         "spanish": "hemos querido",
         "english": "we have wanted",
         "chinese": "我们已经想要了",
         "category": "verb phrase"
     },
     {
-        "id": 295,
+        "id": 283,
         "spanish": "habéis podido",
         "english": "you all have been able to",
         "chinese": "你们都能够",
         "category": "verb phrase"
     },
     {
-        "id": 296,
+        "id": 284,
         "spanish": "han tenido",
         "english": "they have had",
         "chinese": "他们已经拥有了",
         "category": "verb phrase"
     },
     {
-        "id": 297,
+        "id": 285,
         "spanish": "he hecho",
         "english": "I have done",
         "chinese": "我已经做了",
         "category": "verb phrase"
     },
     {
-        "id": 298,
+        "id": 286,
         "spanish": "has dicho",
         "english": "you have said",
         "chinese": "你已经说了",
         "category": "verb phrase"
     },
     {
-        "id": 299,
+        "id": 287,
         "spanish": "ha ido",
         "english": "he/she has gone",
         "chinese": "他/她已经去了",
         "category": "verb phrase"
     },
     {
-        "id": 300,
+        "id": 288,
         "spanish": "hemos venido",
         "english": "we have come",
         "chinese": "我们已经来了",
         "category": "verb phrase"
     },
     {
-        "id": 301,
+        "id": 289,
         "spanish": "habéis puesto",
         "english": "you all have put",
         "chinese": "你们都放了",
         "category": "verb phrase"
     },
     {
-        "id": 302,
+        "id": 290,
         "spanish": "han salido",
         "english": "they have left",
         "chinese": "他们已经离开了",
         "category": "verb phrase"
     },
     {
-        "id": 303,
+        "id": 291,
         "spanish": "he vuelto",
         "english": "I have returned",
         "chinese": "我已经回来了",
         "category": "verb phrase"
     },
     {
-        "id": 304,
+        "id": 292,
         "spanish": "has traído",
         "english": "you have brought",
         "chinese": "你已经带来了",
         "category": "verb phrase"
     },
     {
-        "id": 305,
+        "id": 293,
         "spanish": "ha llevado",
         "english": "he/she has carried",
         "chinese": "他/她已经携带了",
         "category": "verb phrase"
     },
     {
-        "id": 306,
+        "id": 294,
         "spanish": "hemos dejado",
         "english": "we have left/let",
         "chinese": "我们已经离开/让",
         "category": "verb phrase"
     },
     {
-        "id": 307,
+        "id": 295,
         "spanish": "habéis seguido",
         "english": "you all have followed",
         "chinese": "你们都跟随了",
         "category": "verb phrase"
     },
     {
-        "id": 308,
+        "id": 296,
         "spanish": "han llamado",
         "english": "they have called",
         "chinese": "他们已经叫了",
         "category": "verb phrase"
     },
     {
-        "id": 309,
+        "id": 297,
         "spanish": "he pasado",
         "english": "I have passed/happened",
         "chinese": "我已经经过/发生了",
         "category": "verb phrase"
     },
     {
-        "id": 310,
+        "id": 298,
         "spanish": "has quedado",
         "english": "you have stayed/agreed",
         "chinese": "你已经留下/同意了",
         "category": "verb phrase"
     },
     {
-        "id": 311,
+        "id": 299,
         "spanish": "ha parecido",
         "english": "he/she has seemed",
         "chinese": "他/她已经似乎",
         "category": "verb phrase"
     },
     {
-        "id": 312,
+        "id": 300,
         "spanish": "hemos llegado",
         "english": "we have arrived",
         "chinese": "我们已经到达了",
         "category": "verb phrase"
     },
     {
-        "id": 313,
+        "id": 301,
         "spanish": "habéis trabajado",
         "english": "you all have worked",
         "chinese": "你们都工作了",
         "category": "verb phrase"
     },
     {
-        "id": 314,
+        "id": 302,
         "spanish": "han estudiado",
         "english": "they have studied",
         "chinese": "他们已经学习了",
         "category": "verb phrase"
     },
     {
-        "id": 315,
+        "id": 303,
         "spanish": "he vivido",
         "english": "I have lived",
         "chinese": "我已经生活了",
         "category": "verb phrase"
     },
     {
-        "id": 316,
+        "id": 304,
         "spanish": "has estado",
         "english": "you have been",
         "chinese": "你曾经是",
         "category": "verb phrase"
     },
     {
-        "id": 317,
+        "id": 305,
         "spanish": "ha trabajado",
         "english": "he/she has worked",
         "chinese": "他/她已经工作了",
         "category": "verb phrase"
     },
     {
-        "id": 318,
-        "spanish": "hemos llegado",
-        "english": "we have arrived",
-        "chinese": "我们已经到达了",
-        "category": "verb phrase"
-    },
-    {
-        "id": 319,
+        "id": 306,
         "spanish": "habéis comido",
         "english": "you all have eaten",
         "chinese": "你们都吃了",
         "category": "verb phrase"
     },
     {
-        "id": 320,
-        "spanish": "han estudiado",
-        "english": "they have studied",
-        "chinese": "他们已经学习了",
-        "category": "verb phrase"
-    },
-    {
-        "id": 321,
+        "id": 307,
         "spanish": "estuve",
         "english": "I was",
         "chinese": "我曾经是",
         "category": "verb phrase"
     },
     {
-        "id": 322,
+        "id": 308,
         "spanish": "trabajaste",
         "english": "you worked",
         "chinese": "你工作了",
         "category": "verb phrase"
     },
     {
-        "id": 323,
+        "id": 309,
         "spanish": "llegó",
         "english": "he/she arrived",
         "chinese": "他/她到达了",
         "category": "verb phrase"
     },
     {
-        "id": 324,
+        "id": 310,
         "spanish": "comimos",
         "english": "we ate",
         "chinese": "我们吃了",
         "category": "verb phrase"
     },
     {
-        "id": 325,
+        "id": 311,
         "spanish": "estudiasteis",
         "english": "you all studied",
         "chinese": "你们都学习了",
         "category": "verb phrase"
     },
     {
-        "id": 326,
+        "id": 312,
         "spanish": "vivieron",
         "english": "they lived",
         "chinese": "他们生活了",
         "category": "verb phrase"
     },
     {
-        "id": 327,
+        "id": 313,
         "spanish": "viajé",
         "english": "I traveled",
         "chinese": "我旅行了",
         "category": "verb phrase"
     },
     {
-        "id": 328,
+        "id": 314,
         "spanish": "conociste",
         "english": "you met",
         "chinese": "你认识了",
         "category": "verb phrase"
     },
     {
-        "id": 329,
+        "id": 315,
         "spanish": "visitó",
         "english": "he/she visited",
         "chinese": "他/她访问了",
         "category": "verb phrase"
     },
     {
-        "id": 330,
+        "id": 316,
         "spanish": "terminamos",
         "english": "we finished",
         "chinese": "我们完成了",
         "category": "verb phrase"
     },
     {
-        "id": 331,
+        "id": 317,
         "spanish": "decidisteis",
         "english": "you all decided",
         "chinese": "你们都决定了",
         "category": "verb phrase"
     },
     {
-        "id": 332,
+        "id": 318,
         "spanish": "empezaron",
         "english": "they started",
         "chinese": "他们开始了",
         "category": "verb phrase"
     },
     {
-        "id": 333,
+        "id": 319,
         "spanish": "compré",
         "english": "I bought",
         "chinese": "我买了",
         "category": "verb phrase"
     },
     {
-        "id": 334,
+        "id": 320,
         "spanish": "perdiste",
         "english": "you lost",
         "chinese": "你失去了",
         "category": "verb phrase"
     },
     {
-        "id": 335,
+        "id": 321,
         "spanish": "encontró",
         "english": "he/she found",
         "chinese": "他/她找到了",
         "category": "verb phrase"
     },
     {
-        "id": 336,
+        "id": 322,
         "spanish": "olvidamos",
         "english": "we forgot",
         "chinese": "我们忘记了",
         "category": "verb phrase"
     },
     {
-        "id": 337,
+        "id": 323,
         "spanish": "aprendisteis",
         "english": "you all learned",
         "chinese": "你们都学会了",
         "category": "verb phrase"
     },
     {
-        "id": 338,
+        "id": 324,
         "spanish": "entendieron",
         "english": "they understood",
         "chinese": "他们理解了",
         "category": "verb phrase"
     },
     {
-        "id": 339,
+        "id": 325,
         "spanish": "expliqué",
         "english": "I explained",
         "chinese": "我解释了",
         "category": "verb phrase"
     },
     {
-        "id": 340,
+        "id": 326,
         "spanish": "escribiste",
         "english": "you wrote",
         "chinese": "你写了",
         "category": "verb phrase"
     },
     {
-        "id": 341,
+        "id": 327,
         "spanish": "leyó",
         "english": "he/she read",
         "chinese": "他/她读了",
         "category": "verb phrase"
     },
     {
-        "id": 342,
+        "id": 328,
         "spanish": "vimos",
         "english": "we saw",
         "chinese": "我们看到了",
         "category": "verb phrase"
     },
     {
-        "id": 343,
+        "id": 329,
         "spanish": "oísteis",
         "english": "you all heard",
         "chinese": "你们都听到了",
         "category": "verb phrase"
     },
     {
-        "id": 344,
+        "id": 330,
         "spanish": "sintieron",
         "english": "they felt",
         "chinese": "他们感觉到了",
         "category": "verb phrase"
     },
     {
-        "id": 345,
+        "id": 331,
         "spanish": "pensé",
         "english": "I thought",
         "chinese": "我想了",
         "category": "verb phrase"
     },
     {
-        "id": 346,
+        "id": 332,
         "spanish": "creíste",
         "english": "you believed",
         "chinese": "你相信了",
         "category": "verb phrase"
     },
     {
-        "id": 347,
+        "id": 333,
         "spanish": "supo",
         "english": "he/she knew",
         "chinese": "他/她知道了",
         "category": "verb phrase"
     },
     {
-        "id": 348,
+        "id": 334,
         "spanish": "quisimos",
         "english": "we wanted",
         "chinese": "我们想要了",
         "category": "verb phrase"
     },
     {
-        "id": 349,
+        "id": 335,
         "spanish": "pudisteis",
         "english": "you all were able to",
         "chinese": "你们都能够",
         "category": "verb phrase"
     },
     {
-        "id": 350,
+        "id": 336,
         "spanish": "tuvieron",
         "english": "they had",
         "chinese": "他们拥有了",
         "category": "verb phrase"
     },
     {
-        "id": 351,
+        "id": 337,
         "spanish": "hice",
         "english": "I did",
         "chinese": "我做了",
         "category": "verb phrase"
     },
     {
-        "id": 352,
+        "id": 338,
         "spanish": "dijiste",
         "english": "you said",
         "chinese": "你说了",
         "category": "verb phrase"
     },
     {
-        "id": 353,
+        "id": 339,
         "spanish": "fue",
         "english": "he/she went/was",
         "chinese": "他/她去了/是",
         "category": "verb phrase"
     },
     {
-        "id": 354,
+        "id": 340,
         "spanish": "fuimos",
         "english": "we went",
         "chinese": "我们去了",
         "category": "verb phrase"
     },
     {
-        "id": 355,
+        "id": 341,
         "spanish": "fuisteis",
         "english": "you all went",
         "chinese": "你们都去了",
         "category": "verb phrase"
     },
     {
-        "id": 356,
+        "id": 342,
         "spanish": "fueron",
         "english": "they went",
         "chinese": "他们去了",
         "category": "verb phrase"
     },
     {
-        "id": 357,
+        "id": 343,
         "spanish": "vine",
         "english": "I came",
         "chinese": "我来了",
         "category": "verb phrase"
     },
     {
-        "id": 358,
+        "id": 344,
         "spanish": "viniste",
         "english": "you came",
         "chinese": "你来了",
         "category": "verb phrase"
     },
     {
-        "id": 359,
+        "id": 345,
         "spanish": "vino",
         "english": "he/she came",
         "chinese": "他/她来了",
         "category": "verb phrase"
     },
     {
-        "id": 360,
+        "id": 346,
         "spanish": "vinimos",
         "english": "we came",
         "chinese": "我们来了",
         "category": "verb phrase"
     },
     {
-        "id": 361,
+        "id": 347,
         "spanish": "vinisteis",
         "english": "you all came",
         "chinese": "你们都来了",
         "category": "verb phrase"
     },
     {
-        "id": 362,
+        "id": 348,
         "spanish": "vinieron",
         "english": "they came",
         "chinese": "他们来了",
         "category": "verb phrase"
     },
     {
-        "id": 363,
+        "id": 349,
         "spanish": "puse",
         "english": "I put",
         "chinese": "我放了",
         "category": "verb phrase"
     },
     {
-        "id": 364,
+        "id": 350,
         "spanish": "pusiste",
         "english": "you put",
         "chinese": "你放了",
         "category": "verb phrase"
     },
     {
-        "id": 365,
+        "id": 351,
         "spanish": "puso",
         "english": "he/she put",
         "chinese": "他/她放了",
         "category": "verb phrase"
     },
     {
-        "id": 366,
+        "id": 352,
         "spanish": "pusimos",
         "english": "we put",
         "chinese": "我们放了",
         "category": "verb phrase"
     },
     {
-        "id": 367,
+        "id": 353,
         "spanish": "pusisteis",
         "english": "you all put",
         "chinese": "你们都放了",
         "category": "verb phrase"
     },
     {
-        "id": 368,
+        "id": 354,
         "spanish": "pusieron",
         "english": "they put",
         "chinese": "他们放了",
         "category": "verb phrase"
     },
     {
-        "id": 369,
+        "id": 355,
         "spanish": "salí",
         "english": "I left",
         "chinese": "我离开了",
         "category": "verb phrase"
     },
     {
-        "id": 370,
+        "id": 356,
         "spanish": "saliste",
         "english": "you left",
         "chinese": "你离开了",
         "category": "verb phrase"
     },
     {
-        "id": 371,
+        "id": 357,
         "spanish": "salió",
         "english": "he/she left",
         "chinese": "他/她离开了",
         "category": "verb phrase"
     },
     {
-        "id": 372,
+        "id": 358,
         "spanish": "salimos",
         "english": "we left",
         "chinese": "我们离开了",
         "category": "verb phrase"
     },
     {
-        "id": 373,
+        "id": 359,
         "spanish": "salisteis",
         "english": "you all left",
         "chinese": "你们都离开了",
         "category": "verb phrase"
     },
     {
-        "id": 374,
+        "id": 360,
         "spanish": "salieron",
         "english": "they left",
         "chinese": "他们离开了",
         "category": "verb phrase"
     },
     {
-        "id": 375,
+        "id": 361,
         "spanish": "volví",
         "english": "I returned",
         "chinese": "我回来了",
         "category": "verb phrase"
     },
     {
-        "id": 376,
+        "id": 362,
         "spanish": "volviste",
         "english": "you returned",
         "chinese": "你回来了",
         "category": "verb phrase"
     },
     {
-        "id": 377,
+        "id": 363,
         "spanish": "volvió",
         "english": "he/she returned",
         "chinese": "他/她回来了",
         "category": "verb phrase"
     },
     {
-        "id": 378,
+        "id": 364,
         "spanish": "volvimos",
         "english": "we returned",
         "chinese": "我们回来了",
         "category": "verb phrase"
     },
     {
-        "id": 379,
+        "id": 365,
         "spanish": "volvisteis",
         "english": "you all returned",
         "chinese": "你们都回来了",
         "category": "verb phrase"
     },
     {
-        "id": 380,
+        "id": 366,
         "spanish": "volvieron",
         "english": "they returned",
         "chinese": "他们回来了",
         "category": "verb phrase"
     },
     {
-        "id": 381,
+        "id": 367,
         "spanish": "traje",
         "english": "I brought",
         "chinese": "我带来了",
         "category": "verb phrase"
     },
     {
-        "id": 382,
+        "id": 368,
         "spanish": "trajiste",
         "english": "you brought",
         "chinese": "你带来了",
         "category": "verb phrase"
     },
     {
-        "id": 383,
+        "id": 369,
         "spanish": "trajo",
         "english": "he/she brought",
         "chinese": "他/她带来了",
         "category": "verb phrase"
     },
     {
-        "id": 384,
+        "id": 370,
         "spanish": "trajimos",
         "english": "we brought",
         "chinese": "我们带来了",
         "category": "verb phrase"
     },
     {
-        "id": 385,
+        "id": 371,
         "spanish": "trajisteis",
         "english": "you all brought",
         "chinese": "你们都带来了",
         "category": "verb phrase"
     },
     {
-        "id": 386,
+        "id": 372,
         "spanish": "trajeron",
         "english": "they brought",
         "chinese": "他们带来了",
         "category": "verb phrase"
     },
     {
-        "id": 387,
+        "id": 373,
         "spanish": "llevé",
         "english": "I carried",
         "chinese": "我携带了",
         "category": "verb phrase"
     },
     {
-        "id": 388,
+        "id": 374,
         "spanish": "llevaste",
         "english": "you carried",
         "chinese": "你携带了",
         "category": "verb phrase"
     },
     {
-        "id": 389,
+        "id": 375,
         "spanish": "llevó",
         "english": "he/she carried",
         "chinese": "他/她携带了",
         "category": "verb phrase"
     },
     {
-        "id": 390,
+        "id": 376,
         "spanish": "llevamos",
         "english": "we carried",
         "chinese": "我们携带了",
         "category": "verb phrase"
     },
     {
-        "id": 391,
+        "id": 377,
         "spanish": "llevasteis",
         "english": "you all carried",
         "chinese": "你们都携带了",
         "category": "verb phrase"
     },
     {
-        "id": 392,
+        "id": 378,
         "spanish": "llevaron",
         "english": "they carried",
         "chinese": "他们携带了",
         "category": "verb phrase"
     },
     {
-        "id": 393,
+        "id": 379,
         "spanish": "dejé",
         "english": "I left/let",
         "chinese": "我离开/让",
         "category": "verb phrase"
     },
     {
-        "id": 394,
+        "id": 380,
         "spanish": "dejaste",
         "english": "you left/let",
         "chinese": "你离开/让",
         "category": "verb phrase"
     },
     {
-        "id": 395,
+        "id": 381,
         "spanish": "dejó",
         "english": "he/she left/let",
         "chinese": "他/她离开/让",
         "category": "verb phrase"
     },
     {
-        "id": 396,
+        "id": 382,
         "spanish": "dejamos",
         "english": "we left/let",
         "chinese": "我们离开/让",
         "category": "verb phrase"
     },
     {
-        "id": 397,
+        "id": 383,
         "spanish": "dejasteis",
         "english": "you all left/let",
         "chinese": "你们都离开/让",
         "category": "verb phrase"
     },
     {
-        "id": 398,
+        "id": 384,
         "spanish": "dejaron",
         "english": "they left/let",
         "chinese": "他们离开/让",
         "category": "verb phrase"
     },
     {
-        "id": 399,
+        "id": 385,
         "spanish": "seguí",
         "english": "I followed",
         "chinese": "我跟随了",
         "category": "verb phrase"
     },
     {
-        "id": 400,
+        "id": 386,
         "spanish": "seguiste",
         "english": "you followed",
         "chinese": "你跟随了",
         "category": "verb phrase"
     },
     {
-        "id": 401,
+        "id": 387,
         "spanish": "siguió",
         "english": "he/she followed",
         "chinese": "他/她跟随了",
         "category": "verb phrase"
     },
     {
-        "id": 402,
+        "id": 388,
         "spanish": "seguimos",
         "english": "we followed",
         "chinese": "我们跟随了",
         "category": "verb phrase"
     },
     {
-        "id": 403,
+        "id": 389,
         "spanish": "seguisteis",
         "english": "you all followed",
         "chinese": "你们都跟随了",
         "category": "verb phrase"
     },
     {
-        "id": 404,
+        "id": 390,
         "spanish": "siguieron",
         "english": "they followed",
         "chinese": "他们跟随了",
         "category": "verb phrase"
     },
     {
-        "id": 405,
+        "id": 391,
         "spanish": "llamé",
         "english": "I called",
         "chinese": "我叫了",
         "category": "verb phrase"
     },
     {
-        "id": 406,
+        "id": 392,
         "spanish": "llamaste",
         "english": "you called",
         "chinese": "你叫了",
         "category": "verb phrase"
     },
     {
-        "id": 407,
+        "id": 393,
         "spanish": "llamó",
         "english": "he/she called",
         "chinese": "他/她叫了",
         "category": "verb phrase"
     },
     {
-        "id": 408,
+        "id": 394,
         "spanish": "llamamos",
         "english": "we called",
         "chinese": "我们叫了",
         "category": "verb phrase"
     },
     {
-        "id": 409,
+        "id": 395,
         "spanish": "llamasteis",
         "english": "you all called",
         "chinese": "你们都叫了",
         "category": "verb phrase"
     },
     {
-        "id": 410,
+        "id": 396,
         "spanish": "llamaron",
         "english": "they called",
         "chinese": "他们叫了",
         "category": "verb phrase"
     },
     {
-        "id": 411,
+        "id": 397,
         "spanish": "pasé",
         "english": "I passed/happened",
         "chinese": "我经过/发生了",
         "category": "verb phrase"
     },
     {
-        "id": 412,
+        "id": 398,
         "spanish": "pasaste",
         "english": "you passed/happened",
         "chinese": "你经过/发生了",
         "category": "verb phrase"
     },
     {
-        "id": 413,
+        "id": 399,
         "spanish": "pasó",
         "english": "he/she passed/happened",
         "chinese": "他/她经过/发生了",
         "category": "verb phrase"
     },
     {
-        "id": 414,
+        "id": 400,
         "spanish": "pasamos",
         "english": "we passed/happened",
         "chinese": "我们经过/发生了",
         "category": "verb phrase"
     },
     {
-        "id": 415,
+        "id": 401,
         "spanish": "pasasteis",
         "english": "you all passed/happened",
         "chinese": "你们都经过/发生了",
         "category": "verb phrase"
     },
     {
-        "id": 416,
+        "id": 402,
         "spanish": "pasaron",
         "english": "they passed/happened",
         "chinese": "他们经过/发生了",
         "category": "verb phrase"
     },
     {
-        "id": 417,
+        "id": 403,
         "spanish": "estaré",
         "english": "I will be",
         "chinese": "我将会是",
         "category": "verb phrase"
     },
     {
-        "id": 418,
+        "id": 404,
         "spanish": "estarás",
         "english": "you will be",
         "chinese": "你将会是",
         "category": "verb phrase"
     },
     {
-        "id": 419,
+        "id": 405,
         "spanish": "estará",
         "english": "he/she will be",
         "chinese": "他/她将会是",
         "category": "verb phrase"
     },
     {
-        "id": 420,
+        "id": 406,
         "spanish": "estaremos",
         "english": "we will be",
         "chinese": "我们将会是",
         "category": "verb phrase"
     },
     {
-        "id": 421,
+        "id": 407,
         "spanish": "estaréis",
         "english": "you all will be",
         "chinese": "你们都将会是",
         "category": "verb phrase"
     },
     {
-        "id": 422,
+        "id": 408,
         "spanish": "estarán",
         "english": "they will be",
         "chinese": "他们将会是",
         "category": "verb phrase"
     },
     {
-        "id": 423,
+        "id": 409,
         "spanish": "trabajaré",
         "english": "I will work",
         "chinese": "我将会工作",
         "category": "verb phrase"
     },
     {
-        "id": 424,
+        "id": 410,
         "spanish": "trabajarás",
         "english": "you will work",
         "chinese": "你将会工作",
         "category": "verb phrase"
     },
     {
-        "id": 425,
+        "id": 411,
         "spanish": "trabajará",
         "english": "he/she will work",
         "chinese": "他/她将会工作",
         "category": "verb phrase"
     },
     {
-        "id": 426,
+        "id": 412,
         "spanish": "trabajaremos",
         "english": "we will work",
         "chinese": "我们将会工作",
         "category": "verb phrase"
     },
     {
-        "id": 427,
+        "id": 413,
         "spanish": "trabajaréis",
         "english": "you all will work",
         "chinese": "你们都将会工作",
         "category": "verb phrase"
     },
     {
-        "id": 428,
+        "id": 414,
         "spanish": "trabajarán",
         "english": "they will work",
         "chinese": "他们将会工作",
         "category": "verb phrase"
     },
     {
-        "id": 429,
+        "id": 415,
         "spanish": "llegaré",
         "english": "I will arrive",
         "chinese": "我将会到达",
         "category": "verb phrase"
     },
     {
-        "id": 430,
+        "id": 416,
         "spanish": "llegarás",
         "english": "you will arrive",
         "chinese": "你将会到达",
         "category": "verb phrase"
     },
     {
-        "id": 431,
+        "id": 417,
         "spanish": "llegará",
         "english": "he/she will arrive",
         "chinese": "他/她将会到达",
         "category": "verb phrase"
     },
     {
-        "id": 432,
+        "id": 418,
         "spanish": "llegaremos",
         "english": "we will arrive",
         "chinese": "我们将会到达",
         "category": "verb phrase"
     },
     {
-        "id": 433,
+        "id": 419,
         "spanish": "llegaréis",
         "english": "you all will arrive",
         "chinese": "你们都将会到达",
         "category": "verb phrase"
     },
     {
-        "id": 434,
+        "id": 420,
         "spanish": "llegarán",
         "english": "they will arrive",
         "chinese": "他们将会到达",
         "category": "verb phrase"
     },
     {
-        "id": 435,
+        "id": 421,
         "spanish": "comeré",
         "english": "I will eat",
         "chinese": "我将会吃",
         "category": "verb phrase"
     },
     {
-        "id": 436,
+        "id": 422,
         "spanish": "comerás",
         "english": "you will eat",
         "chinese": "你将会吃",
         "category": "verb phrase"
     },
     {
-        "id": 437,
+        "id": 423,
         "spanish": "comerá",
         "english": "he/she will eat",
         "chinese": "他/她将会吃",
         "category": "verb phrase"
     },
     {
-        "id": 438,
+        "id": 424,
         "spanish": "comeremos",
         "english": "we will eat",
         "chinese": "我们将会吃",
         "category": "verb phrase"
     },
     {
-        "id": 439,
+        "id": 425,
         "spanish": "comeréis",
         "english": "you all will eat",
         "chinese": "你们都将会吃",
         "category": "verb phrase"
     },
     {
-        "id": 440,
+        "id": 426,
         "spanish": "comerán",
         "english": "they will eat",
         "chinese": "他们将会吃",
         "category": "verb phrase"
     },
     {
-        "id": 441,
+        "id": 427,
         "spanish": "estudiaré",
         "english": "I will study",
         "chinese": "我将会学习",
         "category": "verb phrase"
     },
     {
-        "id": 442,
+        "id": 428,
         "spanish": "capas de ropa",
         "english": "layers of clothing",
         "chinese": "衣服的层数",
         "category": "noun phrase"
     },
     {
-        "id": 443,
+        "id": 429,
         "spanish": "mal genio",
         "english": "bad temper",
         "chinese": "坏脾气",
         "category": "noun phrase"
     },
     {
-        "id": 444,
+        "id": 430,
         "spanish": "dar la gana",
         "english": "to feel like (doing something)",
         "chinese": "想做（某事）",
         "category": "verb phrase"
     },
     {
-        "id": 445,
+        "id": 431,
         "spanish": "estropeado",
         "english": "broken, damaged, spoiled",
         "chinese": "坏了，损坏的，变质的",
         "category": "adjective"
     },
     {
-        "id": 446,
+        "id": 432,
         "spanish": "barriga",
         "english": "belly, stomach",
         "chinese": "肚子，腹部",
         "category": "noun"
     },
     {
-        "id": 447,
+        "id": 433,
         "spanish": "carrera",
         "english": "race, career, degree (university)",
         "chinese": "比赛，职业，学位（大学）",
         "category": "noun"
     },
     {
-        "id": 448,
+        "id": 434,
         "spanish": "me divertí",
         "english": "I had fun, I enjoyed myself",
         "chinese": "我玩得很开心",
         "category": "verb phrase"
     },
     {
-        "id": 449,
+        "id": 435,
         "spanish": "fallo",
         "english": "mistake, error, failure",
         "chinese": "错误，失败",
         "category": "noun"
     },
     {
-        "id": 450,
+        "id": 436,
         "spanish": "tienes que eligir",
         "english": "you have to choose",
         "chinese": "你必须选择",
         "category": "verb phrase"
     },
     {
-        "id": 451,
+        "id": 437,
         "spanish": "ovejas",
         "english": "sheep",
         "chinese": "羊",
         "category": "noun"
     },
     {
-        "id": 452,
+        "id": 438,
         "spanish": "fondos",
         "english": "funds, background",
         "chinese": "资金，背景",
         "category": "noun"
     },
     {
-        "id": 453,
+        "id": 439,
         "spanish": "espía",
         "english": "spy",
         "chinese": "间谍",
         "category": "noun"
     },
     {
-        "id": 454,
+        "id": 440,
         "spanish": "comisaría",
         "english": "police station",
         "chinese": "警察局",
         "category": "noun"
     },
     {
-        "id": 455,
+        "id": 441,
         "spanish": "debería",
         "english": "should, ought to",
         "chinese": "应该",
         "category": "verb"
     },
     {
-        "id": 456,
+        "id": 442,
         "spanish": "tómbola",
         "english": "tombola, raffle",
         "chinese": "抽奖",
         "category": "noun"
     },
     {
-        "id": 457,
+        "id": 443,
         "spanish": "temerarlo",
         "english": "to fear it",
         "chinese": "害怕它",
         "category": "verb phrase"
     },
     {
-        "id": 458,
+        "id": 444,
         "spanish": "cosecha",
         "english": "harvest",
         "chinese": "收获",
         "category": "noun"
     },
     {
-        "id": 459,
+        "id": 445,
         "spanish": "burlona",
         "english": "mocking, teasing",
         "chinese": "嘲笑的，戏弄的",
         "category": "adjective"
     },
     {
-        "id": 460,
+        "id": 446,
         "spanish": "cotidiana",
         "english": "daily, everyday",
         "chinese": "日常的，每天的",
         "category": "adjective"
     },
     {
-        "id": 461,
-        "spanish": "estropeado",
-        "english": "broken, damaged",
-        "chinese": "坏的，损坏的",
-        "category": "adjective"
-    },
-    {
-        "id": 462,
+        "id": 447,
         "spanish": "rentable",
         "english": "profitable",
         "chinese": "有利可图的",
         "category": "adjective"
     },
     {
-        "id": 463,
+        "id": 448,
         "spanish": "divulgado",
         "english": "disclosed, published",
         "chinese": "公开的，发布的",
         "category": "adjective"
     },
     {
-        "id": 464,
+        "id": 449,
         "spanish": "voluntad",
         "english": "will, willingness",
         "chinese": "意志，意愿",
         "category": "noun"
     },
     {
-        "id": 465,
+        "id": 450,
         "spanish": "infarto",
         "english": "heart attack",
         "chinese": "心脏病发作",
         "category": "noun"
     },
     {
-        "id": 466,
+        "id": 451,
         "spanish": "perejil",
         "english": "parsley",
         "chinese": "欧芹",
         "category": "noun"
     },
     {
-        "id": 467,
+        "id": 452,
         "spanish": "pestañas",
         "english": "eyelashes",
         "chinese": "睫毛",
         "category": "noun"
     },
     {
-        "id": 468,
+        "id": 453,
         "spanish": "alas",
         "english": "wings",
         "chinese": "翅膀",
         "category": "noun"
     },
     {
-        "id": 469,
+        "id": 454,
         "spanish": "suposición",
         "english": "assumption",
         "chinese": "假设",
         "category": "noun"
     },
     {
-        "id": 470,
+        "id": 455,
         "spanish": "pringado",
         "english": "sticky, messy",
         "chinese": "粘的，凌乱的",
         "category": "adjective"
     },
     {
-        "id": 471,
+        "id": 456,
         "spanish": "deudas",
         "english": "debts",
         "chinese": "债务",
         "category": "noun"
     },
     {
-        "id": 472,
+        "id": 457,
         "spanish": "penas",
         "english": "sorrows, difficulties",
         "chinese": "悲伤，困难",
         "category": "noun"
     },
     {
-        "id": 473,
+        "id": 458,
         "spanish": "bote",
         "english": "boat, jar",
         "chinese": "船，罐子",
         "category": "noun"
     },
     {
-        "id": 474,
+        "id": 459,
         "spanish": "rosco",
         "english": "ring, donut",
         "chinese": "环形，甜甜圈",
         "category": "noun"
     },
     {
-        "id": 475,
+        "id": 460,
         "spanish": "concurso",
         "english": "contest, competition",
         "chinese": "比赛，竞赛",
         "category": "noun"
     },
     {
-        "id": 476,
+        "id": 461,
         "spanish": "gravedad",
         "english": "gravity, seriousness",
         "chinese": "重力，严重性",
         "category": "noun"
     },
     {
-        "id": 477,
+        "id": 462,
         "spanish": "locutor",
         "english": "announcer, presenter",
         "chinese": "播音员，主持人",
         "category": "noun"
     },
     {
-        "id": 478,
+        "id": 463,
         "spanish": "oyente",
         "english": "listener",
         "chinese": "听众",
         "category": "noun"
     },
     {
-        "id": 479,
+        "id": 464,
         "spanish": "víveres",
         "english": "provisions, food supplies",
         "chinese": "食物供应，口粮",
         "category": "noun"
     },
     {
-        "id": 480,
+        "id": 465,
         "spanish": "añicos",
         "english": "pieces, fragments",
         "chinese": "碎片，片",
         "category": "noun"
     },
     {
-        "id": 481,
+        "id": 466,
         "spanish": "vaqueros",
         "english": "jeans",
         "chinese": "牛仔裤",
         "category": "noun"
     },
     {
-        "id": 482,
+        "id": 467,
         "spanish": "entrevista",
         "english": "interview",
         "chinese": "面试，采访",
         "category": "noun"
     },
     {
-        "id": 483,
+        "id": 468,
         "spanish": "sencilla",
         "english": "simple, easy",
         "chinese": "简单的，容易的",
         "category": "adjective"
     },
     {
-        "id": 484,
+        "id": 469,
         "spanish": "crudas",
         "english": "raw",
         "chinese": "生的",
         "category": "adjective"
     },
     {
-        "id": 485,
+        "id": 470,
         "spanish": "hervidas",
         "english": "boiled",
         "chinese": "煮熟的",
         "category": "adjective"
     },
     {
-        "id": 486,
+        "id": 471,
         "spanish": "tijeras",
         "english": "scissors",
         "chinese": "剪刀",
         "category": "noun"
     },
     {
-        "id": 487,
+        "id": 472,
         "spanish": "fracasa",
         "english": "fails",
         "chinese": "失败",
         "category": "verb"
     },
     {
-        "id": 488,
+        "id": 473,
         "spanish": "velero",
         "english": "sailboat",
         "chinese": "帆船",
         "category": "noun"
     },
     {
-        "id": 489,
+        "id": 474,
         "spanish": "normas",
         "english": "rules, standards",
         "chinese": "规则，标准",
         "category": "noun"
     },
     {
-        "id": 490,
+        "id": 475,
         "spanish": "pasajeros",
         "english": "passengers",
         "chinese": "乘客",
         "category": "noun"
     },
     {
-        "id": 491,
+        "id": 476,
         "spanish": "beca",
         "english": "scholarship",
         "chinese": "奖学金",
         "category": "noun"
     },
     {
-        "id": 492,
-        "spanish": "estropeado",
-        "english": "broken, damaged",
-        "chinese": "坏的，损坏的",
-        "category": "adjective"
-    },
-    {
-        "id": 493,
+        "id": 477,
         "spanish": "cola",
         "english": "tail, queue",
         "chinese": "尾巴，队伍",
         "category": "noun"
     },
     {
-        "id": 494,
+        "id": 478,
         "spanish": "cerdo",
         "english": "pig",
         "chinese": "猪",
         "category": "noun"
     },
     {
-        "id": 495,
+        "id": 479,
         "spanish": "prisa",
         "english": "hurry, rush",
         "chinese": "匆忙，急",
         "category": "noun"
     },
     {
-        "id": 496,
+        "id": 480,
         "spanish": "multa",
         "english": "fine, penalty",
         "chinese": "罚款",
         "category": "noun"
     },
     {
-        "id": 497,
+        "id": 481,
         "spanish": "pieza",
         "english": "piece, part",
         "chinese": "片，部分",
         "category": "noun"
     },
     {
-        "id": 498,
+        "id": 482,
         "spanish": "encima",
         "english": "on top, above",
         "chinese": "在上面",
         "category": "adverb"
     },
     {
-        "id": 499,
+        "id": 483,
         "spanish": "pájaro",
         "english": "bird",
         "chinese": "鸟",
         "category": "noun"
     },
     {
-        "id": 500,
+        "id": 484,
         "spanish": "guindas",
         "english": "sour cherries",
         "chinese": "酸樱桃",
         "category": "noun"
     },
     {
-        "id": 501,
+        "id": 485,
         "spanish": "cerezas",
         "english": "cherries",
         "chinese": "樱桃",
         "category": "noun"
     },
     {
-        "id": 502,
+        "id": 486,
         "spanish": "gorra",
         "english": "cap, hat",
         "chinese": "帽子",
         "category": "noun"
     },
     {
-        "id": 503,
+        "id": 487,
         "spanish": "gorro",
         "english": "hat, cap",
         "chinese": "帽子",
         "category": "noun"
     },
     {
-        "id": 504,
+        "id": 488,
         "spanish": "hacha",
         "english": "axe",
         "chinese": "斧头",
         "category": "noun"
     },
     {
-        "id": 505,
+        "id": 489,
         "spanish": "asombrosa",
         "english": "amazing, astonishing",
         "chinese": "令人惊讶的",
         "category": "adjective"
     },
     {
-        "id": 506,
+        "id": 490,
         "spanish": "tracaras",
         "english": "you will bring",
         "chinese": "你会带来",
         "category": "verb"
     },
     {
-        "id": 507,
+        "id": 491,
         "spanish": "llanura",
         "english": "plain, flatland",
         "chinese": "平原",
         "category": "noun"
     },
     {
-        "id": 508,
+        "id": 492,
         "spanish": "oculto",
         "english": "hidden, concealed",
         "chinese": "隐藏的",
         "category": "adjective"
     },
     {
-        "id": 509,
+        "id": 493,
         "spanish": "aterrizaje",
         "english": "landing",
         "chinese": "着陆",
         "category": "noun"
     },
     {
-        "id": 510,
+        "id": 494,
         "spanish": "cesto",
         "english": "basket",
         "chinese": "篮子",
         "category": "noun"
     },
     {
-        "id": 511,
+        "id": 495,
         "spanish": "retrasaron",
         "english": "they delayed",
         "chinese": "他们延迟了",
         "category": "verb"
     },
     {
-        "id": 512,
+        "id": 496,
         "spanish": "carretera",
         "english": "highway, road",
         "chinese": "公路，道路",
         "category": "noun"
     },
     {
-        "id": 513,
+        "id": 497,
         "spanish": "vuelo",
         "english": "flight",
         "chinese": "航班",
         "category": "noun"
     },
     {
-        "id": 514,
+        "id": 498,
         "spanish": "sucede",
         "english": "happens",
         "chinese": "发生",
         "category": "verb"
     },
     {
-        "id": 515,
+        "id": 499,
         "spanish": "estafa",
         "english": "fraud, scam",
         "chinese": "诈骗",
         "category": "noun"
     },
     {
-        "id": 516,
+        "id": 500,
         "spanish": "algas",
         "english": "algae",
         "chinese": "藻类",
         "category": "noun"
     },
     {
-        "id": 517,
+        "id": 501,
         "spanish": "agujero",
         "english": "hole",
         "chinese": "洞",
         "category": "noun"
     },
     {
-        "id": 518,
+        "id": 502,
         "spanish": "corrientes",
         "english": "currents, streams",
         "chinese": "水流，溪流",
         "category": "noun"
     },
     {
-        "id": 519,
+        "id": 503,
         "spanish": "alrededor",
         "english": "around, surrounding",
         "chinese": "周围，环绕",
         "category": "adverb"
     },
     {
-        "id": 520,
+        "id": 504,
         "spanish": "desequilibrio",
         "english": "imbalance",
         "chinese": "不平衡",
         "category": "noun"
     },
     {
-        "id": 521,
+        "id": 505,
         "spanish": "herido",
         "english": "injured, wounded",
         "chinese": "受伤的",
         "category": "adjective"
     },
     {
-        "id": 522,
+        "id": 506,
         "spanish": "perdido",
         "english": "lost",
         "chinese": "迷路的",
         "category": "adjective"
     },
     {
-        "id": 523,
+        "id": 507,
         "spanish": "borracho",
         "english": "drunk",
         "chinese": "喝醉的",
+        "category": "adjective"
+    },
+    {
+        "id": 508,
+        "spanish": "baúl",
+        "english": "trunk, chest",
+        "chinese": "行李箱，箱子",
+        "category": "noun"
+    },
+    {
+        "id": 509,
+        "spanish": "atasco",
+        "english": "traffic jam, blockage",
+        "chinese": "交通堵塞，阻塞",
+        "category": "noun"
+    },
+    {
+        "id": 510,
+        "spanish": "engañosas",
+        "english": "misleading, deceptive",
+        "chinese": "误导的，欺骗性的",
+        "category": "adjective"
+    },
+    {
+        "id": 511,
+        "spanish": "peine",
+        "english": "comb",
+        "chinese": "梳子",
+        "category": "noun"
+    },
+    {
+        "id": 512,
+        "spanish": "diurno",
+        "english": "diurnal, daytime",
+        "chinese": "白天的，日间的",
+        "category": "adjective"
+    },
+    {
+        "id": 513,
+        "spanish": "nocturno",
+        "english": "nocturnal, nighttime",
+        "chinese": "夜间的，夜晚的",
+        "category": "adjective"
+    },
+    {
+        "id": 514,
+        "spanish": "ruiseñor",
+        "english": "nightingale",
+        "chinese": "夜莺",
+        "category": "noun"
+    },
+    {
+        "id": 515,
+        "spanish": "aliada",
+        "english": "ally (feminine)",
+        "chinese": "盟友（阴性）",
+        "category": "noun"
+    },
+    {
+        "id": 516,
+        "spanish": "esbozado",
+        "english": "sketched, outlined",
+        "chinese": "草拟的，概述的",
+        "category": "adjective"
+    },
+    {
+        "id": 517,
+        "spanish": "destaca",
+        "english": "stands out, highlights",
+        "chinese": "突出，强调",
+        "category": "verb"
+    },
+    {
+        "id": 518,
+        "spanish": "debes",
+        "english": "you must, you should",
+        "chinese": "你必须，你应该",
+        "category": "verb"
+    },
+    {
+        "id": 519,
+        "spanish": "vigor",
+        "english": "vigor, strength",
+        "chinese": "活力，力量",
+        "category": "noun"
+    },
+    {
+        "id": 520,
+        "spanish": "lo mismo",
+        "english": "the same thing",
+        "chinese": "同样的事情",
+        "category": "phrase"
+    },
+    {
+        "id": 521,
+        "spanish": "jarrón",
+        "english": "vase",
+        "chinese": "花瓶",
+        "category": "noun"
+    },
+    {
+        "id": 522,
+        "spanish": "enfadada",
+        "english": "angry (feminine)",
+        "chinese": "生气的（女性）",
+        "category": "adjective"
+    },
+    {
+        "id": 523,
+        "spanish": "despacho",
+        "english": "office, study",
+        "chinese": "办公室，书房",
+        "category": "noun"
+    },
+    {
+        "id": 524,
+        "spanish": "capricho",
+        "english": "whim, fancy",
+        "chinese": "心血来潮，任性",
+        "category": "noun"
+    },
+    {
+        "id": 525,
+        "spanish": "herramientas",
+        "english": "tools",
+        "chinese": "工具",
+        "category": "noun"
+    },
+    {
+        "id": 526,
+        "spanish": "fontanero",
+        "english": "plumber",
+        "chinese": "水管工",
+        "category": "noun"
+    },
+    {
+        "id": 527,
+        "spanish": "ordenador",
+        "english": "computer",
+        "chinese": "电脑",
+        "category": "noun"
+    },
+    {
+        "id": 528,
+        "spanish": "gesta",
+        "english": "deed, feat",
+        "chinese": "功绩，壮举",
+        "category": "noun"
+    },
+    {
+        "id": 529,
+        "spanish": "excedentes",
+        "english": "surplus, excess",
+        "chinese": "盈余，过剩",
+        "category": "noun"
+    },
+    {
+        "id": 530,
+        "spanish": "sobras",
+        "english": "leftovers, remains",
+        "chinese": "剩余物，残渣",
+        "category": "noun"
+    },
+    {
+        "id": 531,
+        "spanish": "desfavorecidos",
+        "english": "disadvantaged",
+        "chinese": "处于不利地位的",
+        "category": "adjective"
+    },
+    {
+        "id": 532,
+        "spanish": "marginada",
+        "english": "marginalized (feminine)",
+        "chinese": "被边缘化的（阴性）",
+        "category": "adjective"
+    },
+    {
+        "id": 533,
+        "spanish": "malherida",
+        "english": "badly wounded (feminine)",
+        "chinese": "重伤的（阴性）",
+        "category": "adjective"
+    },
+    {
+        "id": 534,
+        "spanish": "desahucio",
+        "english": "eviction",
+        "chinese": "驱逐，收回",
+        "category": "noun"
+    },
+    {
+        "id": 535,
+        "spanish": "esporádicamente",
+        "english": "sporadically",
+        "chinese": "零星地，偶尔",
+        "category": "adverb"
+    },
+    {
+        "id": 536,
+        "spanish": "embalse",
+        "english": "reservoir, dam",
+        "chinese": "水库，水坝",
+        "category": "noun"
+    },
+    {
+        "id": 537,
+        "spanish": "consejo",
+        "english": "advice, council",
+        "chinese": "建议，委员会",
+        "category": "noun"
+    },
+    {
+        "id": 538,
+        "spanish": "bostezando",
+        "english": "yawning",
+        "chinese": "打哈欠",
+        "category": "verb"
+    },
+    {
+        "id": 539,
+        "spanish": "pena",
+        "english": "sorrow, penalty",
+        "chinese": "悲伤，惩罚",
+        "category": "noun"
+    },
+    {
+        "id": 540,
+        "spanish": "orgulloso",
+        "english": "proud",
+        "chinese": "骄傲的",
         "category": "adjective"
     }
 ]
